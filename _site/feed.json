@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/07/23/finally-also-got.html",
+			"content_html": "<p>Finally also got a custom sub domain setup for my microblog, and am now mirroring micro posts to Github. Hooray for owning my own content 🎉🎉🎉</p>\n",
+			"date_published": "2017-07-23T11:21:00-07:00",
+			"url": "http://mb.jsorge.net/2017/07/23/finally-also-got.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/07/23/i-migrated-my.html",
 			"content_html": "<p>I migrated my main blog to a new Ghost 1.0 server hosted on Linode last night. Digital Ocean is great but their $5 plan only has 512MB of RAM, where Linode’s has 1GB.</p>\n",
 			"date_published": "2017-07-23T09:26:00-07:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Are there any good guides for getting started with Sketch for iOS design creation? Something  geared at developers would be perfect.</p>\n",
 			"date_published": "2017-06-27T17:34:00-07:00",
 			"url": "http://mb.jsorge.net/2017/06/27/are-there-any.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/06/27/my-brilliant-wife.html",
-			"content_html": "<p>My brilliant wife discovered the life hack of putting our toddler’s pajamas on backwards. Now he can’t get out of them during the night and make a mess on his floor.</p>\n",
-			"date_published": "2017-06-26T20:55:00-07:00",
-			"url": "http://mb.jsorge.net/2017/06/26/my-brilliant-wife.html"
 		}
 		
 	]
