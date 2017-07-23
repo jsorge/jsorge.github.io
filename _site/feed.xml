@@ -4,8 +4,16 @@
     <title>Jared Sorge</title>
     <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Sun, 23 Jul 2017 09:37:19 -0700</pubDate>
-    <lastBuildDate>Sun, 23 Jul 2017 09:37:19 -0700</lastBuildDate>
+    <pubDate>Sun, 23 Jul 2017 11:21:02 -0700</pubDate>
+    <lastBuildDate>Sun, 23 Jul 2017 11:21:02 -0700</lastBuildDate>
+    
+      <item>
+        <description>&lt;p&gt;Finally also got a custom sub domain setup for my microblog, and am now mirroring micro posts to Github. Hooray for owning my own content 🎉🎉🎉&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Jul 2017 11:21:00 -0700</pubDate>
+        <link>http://mb.jsorge.net/2017/07/23/finally-also-got.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/07/23/finally-also-got.html</guid>
+      </item>
     
       <item>
         <description>&lt;p&gt;I migrated my main blog to a new Ghost 1.0 server hosted on Linode last night. Digital Ocean is great but their $5 plan only has 512MB of RAM, where Linode’s has 1GB.&lt;/p&gt;
@@ -405,14 +413,6 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
         <pubDate>Fri, 28 Apr 2017 13:17:00 -0700</pubDate>
         <link>http://mb.jsorge.net/2017/04/28/refactor-refactor-refactor.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/04/28/refactor-refactor-refactor.html</guid>
-      </item>
-    
-      <item>
-        <description>&lt;p&gt;I just got signed up for micro.blog! Woo hoo!&lt;/p&gt;
-</description>
-        <pubDate>Wed, 26 Apr 2017 17:10:00 -0700</pubDate>
-        <link>http://mb.jsorge.net/2017/04/26/i-just-got.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/04/27/i-just-got.html</guid>
       </item>
     
   </channel>
