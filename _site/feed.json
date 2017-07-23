@@ -1,0 +1,79 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Jared Sorge",
+	"home_page_url": "http://mb.jsorge.net/",
+	"feed_url": "http://mb.jsorge.net/feed.json",
+	"items": [
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/07/23/i-migrated-my.html",
+			"content_html": "<p>I migrated my main blog to a new Ghost 1.0 server hosted on Linode last night. Digital Ocean is great but their $5 plan only has 512MB of RAM, where Linode’s has 1GB.</p>\n",
+			"date_published": "2017-07-23T09:26:00-07:00",
+			"url": "http://mb.jsorge.net/2017/07/23/i-migrated-my.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/07/14/we-stepped-out.html",
+			"content_html": "<p>We stepped out of the house for a short couple of errands and missed the UPS delivery attempt of my new Kindle. They required a signature so we were greeted by a note on the door. I had no idea that they were going to require that on a $90 Kindle!</p>\n",
+			"date_published": "2017-07-14T14:54:00-07:00",
+			"url": "http://mb.jsorge.net/2017/07/14/we-stepped-out.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/07/13/holy-moly-the.html",
+			"content_html": "<p>Holy moly the Xcode 9 refactor tool is great. I just renamed an entry in an  NS_EXTENSIBLE_STRING_ENUM and it renamed the Swift uses as well as the Objective-C ones.</p>\n",
+			"date_published": "2017-07-13T14:00:00-07:00",
+			"url": "http://mb.jsorge.net/2017/07/13/holy-moly-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/07/13/ripping-out-fabric.html",
+			"content_html": "<p>Ripping out Fabric feels pretty good. They seem to have cluttered up their UI a ton more than I would prefer. So I’m working on a new CloudKit analytics tool that I plan on open sourcing.</p>\n",
+			"date_published": "2017-07-13T10:45:00-07:00",
+			"url": "http://mb.jsorge.net/2017/07/13/ripping-out-fabric.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/07/13/i-tried-setting.html",
+			"content_html": "<p>I tried setting up BuddyBuild for Scorebook. I have the <code>RUN_CLANG_STATIC_ANALYZER</code> set to Yes. The build fails becuase my Scorebook-Swift.h file doesn’t get built. I turn it off, and the build works. Is this an Xcode bug?</p>\n",
+			"date_published": "2017-07-12T21:50:00-07:00",
+			"url": "http://mb.jsorge.net/2017/07/12/i-tried-setting.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/07/11/triggered-segues-in.html",
+			"content_html": "<p>Triggered segues in IB’s storyboards seem like a good idea to get going quickly. But the reality is they can be a debugging nightmare. Glad I get to undo some of this old code.</p>\n",
+			"date_published": "2017-07-11T09:37:00-07:00",
+			"url": "http://mb.jsorge.net/2017/07/11/triggered-segues-in.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/07/10/im-on-my.html",
+			"content_html": "<p>I’m on my annual “hack week” from zulily this week. I’m taking the time to start rebuilding Scorebook for iOS 11, and using the coordinator pattern. I’m super excited about this.</p>\n",
+			"date_published": "2017-07-10T09:25:00-07:00",
+			"url": "http://mb.jsorge.net/2017/07/10/im-on-my.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/07/10/last-night-i.html",
+			"content_html": "<p>Last night I wrote about how  I make NSNotifications type safe: <a href=\"http://jsorge.net/2017/07/10/making-nsnotifications-type-safe/\">jsorge.net/2017/07/1…</a></p>\n",
+			"date_published": "2017-07-10T07:36:00-07:00",
+			"url": "http://mb.jsorge.net/2017/07/10/last-night-i.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/06/28/are-there-any.html",
+			"content_html": "<p>Are there any good guides for getting started with Sketch for iOS design creation? Something  geared at developers would be perfect.</p>\n",
+			"date_published": "2017-06-27T17:34:00-07:00",
+			"url": "http://mb.jsorge.net/2017/06/27/are-there-any.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/06/27/my-brilliant-wife.html",
+			"content_html": "<p>My brilliant wife discovered the life hack of putting our toddler’s pajamas on backwards. Now he can’t get out of them during the night and make a mess on his floor.</p>\n",
+			"date_published": "2017-06-26T20:55:00-07:00",
+			"url": "http://mb.jsorge.net/2017/06/26/my-brilliant-wife.html"
+		}
+		
+	]
+}
