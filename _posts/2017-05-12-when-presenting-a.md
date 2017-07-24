@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-12 13:36 -0700
 guid: http://jsorge.micro.blog/2017/05/12/when-presenting-a.html
 ---
