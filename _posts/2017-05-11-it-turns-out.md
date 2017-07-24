@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-11 15:40 -0700
 guid: http://jsorge.micro.blog/2017/05/11/it-turns-out.html
 ---
