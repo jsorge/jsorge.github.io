@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-18 22:00 -0700
 guid: http://jsorge.micro.blog/2017/05/19/dear-executive-do.html
 ---
