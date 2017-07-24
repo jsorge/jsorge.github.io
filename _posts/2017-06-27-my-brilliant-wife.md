@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-26 20:55 -0700
 guid: http://jsorge.micro.blog/2017/06/27/my-brilliant-wife.html
 ---
