@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-04-29 23:03 -0700
 guid: http://jsorge.micro.blog/2017/04/30/started-transferring-my.html
 ---
