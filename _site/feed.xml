@@ -4,10 +4,11 @@
     <title>Jared Sorge</title>
     <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Sun, 23 Jul 2017 11:21:02 -0700</pubDate>
-    <lastBuildDate>Sun, 23 Jul 2017 11:21:02 -0700</lastBuildDate>
+    <pubDate>Mon, 24 Jul 2017 11:31:06 -0700</pubDate>
+    <lastBuildDate>Mon, 24 Jul 2017 11:31:06 -0700</lastBuildDate>
     
       <item>
+      	
         <description>&lt;p&gt;Finally also got a custom sub domain setup for my microblog, and am now mirroring micro posts to Github. Hooray for owning my own content 🎉🎉🎉&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Jul 2017 11:21:00 -0700</pubDate>
@@ -16,6 +17,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;I migrated my main blog to a new Ghost 1.0 server hosted on Linode last night. Digital Ocean is great but their $5 plan only has 512MB of RAM, where Linode’s has 1GB.&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Jul 2017 09:26:00 -0700</pubDate>
@@ -24,6 +26,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;We stepped out of the house for a short couple of errands and missed the UPS delivery attempt of my new Kindle. They required a signature so we were greeted by a note on the door. I had no idea that they were going to require that on a $90 Kindle!&lt;/p&gt;
 </description>
         <pubDate>Fri, 14 Jul 2017 14:54:00 -0700</pubDate>
@@ -32,6 +35,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Holy moly the Xcode 9 refactor tool is great. I just renamed an entry in an  NS_EXTENSIBLE_STRING_ENUM and it renamed the Swift uses as well as the Objective-C ones.&lt;/p&gt;
 </description>
         <pubDate>Thu, 13 Jul 2017 14:00:00 -0700</pubDate>
@@ -40,6 +44,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Ripping out Fabric feels pretty good. They seem to have cluttered up their UI a ton more than I would prefer. So I’m working on a new CloudKit analytics tool that I plan on open sourcing.&lt;/p&gt;
 </description>
         <pubDate>Thu, 13 Jul 2017 10:45:00 -0700</pubDate>
@@ -48,6 +53,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;I tried setting up BuddyBuild for Scorebook. I have the &lt;code&gt;RUN_CLANG_STATIC_ANALYZER&lt;/code&gt; set to Yes. The build fails becuase my Scorebook-Swift.h file doesn’t get built. I turn it off, and the build works. Is this an Xcode bug?&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Jul 2017 21:50:00 -0700</pubDate>
@@ -56,6 +62,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Triggered segues in IB’s storyboards seem like a good idea to get going quickly. But the reality is they can be a debugging nightmare. Glad I get to undo some of this old code.&lt;/p&gt;
 </description>
         <pubDate>Tue, 11 Jul 2017 09:37:00 -0700</pubDate>
@@ -64,6 +71,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;I’m on my annual “hack week” from zulily this week. I’m taking the time to start rebuilding Scorebook for iOS 11, and using the coordinator pattern. I’m super excited about this.&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Jul 2017 09:25:00 -0700</pubDate>
@@ -72,6 +80,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Last night I wrote about how  I make NSNotifications type safe: &lt;a href=&quot;http://jsorge.net/2017/07/10/making-nsnotifications-type-safe/&quot;&gt;jsorge.net/2017/07/1…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Jul 2017 07:36:00 -0700</pubDate>
@@ -80,6 +89,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Are there any good guides for getting started with Sketch for iOS design creation? Something  geared at developers would be perfect.&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Jun 2017 17:34:00 -0700</pubDate>
@@ -88,6 +98,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;My brilliant wife discovered the life hack of putting our toddler’s pajamas on backwards. Now he can’t get out of them during the night and make a mess on his floor.&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Jun 2017 20:55:00 -0700</pubDate>
@@ -96,6 +107,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;I’m so excited to see a Swift conference based out of Seattle! See you at &lt;a href=&quot;https://swiftbynorthwest.com&quot;&gt;Swift By Northwest&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Jun 2017 12:00:00 -0700</pubDate>
@@ -104,6 +116,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;What are some of the best examples of &lt;a href=&quot;https://medium.com/tall-west/lets-ditch-the-nav-bar-3692cb17cc67&quot;&gt;reach navigation&lt;/a&gt; in iOS? I can think of Maps and Overcast to start. I’d love to see an example in a data entry kind of app.&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Jun 2017 16:24:00 -0700</pubDate>
@@ -112,6 +125,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;We are building a play set in our backyard. Started the project on Sunday afternoon and this is step 34/~52.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://jsorge.micro.blog/uploads/2017/48a0fe0149.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
@@ -122,6 +136,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Had a great night of lightning talks at tonight’s @Xcoders meeting. Thanks to all who came out!&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Jun 2017 23:00:00 -0700</pubDate>
@@ -130,6 +145,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;I think my stretch hope for WWDC on Monday is a developer program for the Siri speaker (similar to what they did with the 4th gen Apple TV).&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Jun 2017 07:51:00 -0700</pubDate>
@@ -138,6 +154,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;I’m doing a lightning talk next week at @Xcoders about git submodules. What questions do you have about them?&lt;/p&gt;
 </description>
         <pubDate>Tue, 30 May 2017 19:18:00 -0700</pubDate>
@@ -146,6 +163,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Had my first need arise to make a protocol with an associatedType. I’m really happy with how it turned out. Now we have type-safe Notifications!&lt;/p&gt;
 </description>
         <pubDate>Tue, 30 May 2017 14:33:00 -0700</pubDate>
@@ -154,6 +172,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Ugh. We are trying to buy a Northwest Forest Day pass online, and the “ePass” is out of stock. How is this possible?&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 May 2017 07:47:00 -0700</pubDate>
@@ -162,6 +181,7 @@
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Me to kid: “Let’s not climb on that, it doesn’t look safe.”
 Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
 </description>
@@ -171,6 +191,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Looks like I forgot a digit on my Switch friend code. It’s actually SW-7782-1029-4121.&lt;/p&gt;
 </description>
         <pubDate>Sun, 21 May 2017 08:18:00 -0700</pubDate>
@@ -179,6 +200,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;I got a Switch and Mario Kart yesterday. Let’s be friends! My code is SW-7782-1029-412.&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 May 2017 20:13:00 -0700</pubDate>
@@ -187,6 +209,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;As one who works in a wide open office, my dream someday is to work from home or in an office close to home. Not only will it save me 3 hours of commuting per day, but  I’ll be able to be more productive in a private space without the distractions I have now.&lt;/p&gt;
 </description>
         <pubDate>Thu, 18 May 2017 22:01:00 -0700</pubDate>
@@ -195,6 +218,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;“Dear Executive: Do you want your employees to come into the office and work long hours while they’re there? THEN GIVE THEM PRIVATE OFFICES. At the very least, give them high-walled cubicles that provide a modicum of privacy.”
 - &lt;a href=&quot;https://www.inc.com/geoffrey-james/science-just-proved-that-open-plan-offices-destroy-productivity.html&quot;&gt;Open Office Plans Kill Creativity&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -204,6 +228,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Brain transplant succesful! I now have a 2012 Mac mini with a quad 2.3GHz i7, 16GB  RAM, 512GB SSD, and a 1TB HDD. Now watch Apple rev the mini at WWDC.&lt;/p&gt;
 </description>
         <pubDate>Wed, 17 May 2017 22:24:00 -0700</pubDate>
@@ -212,6 +237,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Ready to perform a mild brain transplant operation. &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://jsorge.micro.blog/uploads/2017/2fa6b4bc77.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
@@ -222,6 +248,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Are there any good reference materials for how Text Kit on macOS works? Looking for something about the whole NSLayoutManager -&amp;gt; NSTextStorage -&amp;gt; NSTextContainer -&amp;gt; NSTextView stack.&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 May 2017 20:54:00 -0700</pubDate>
@@ -230,6 +257,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Back at NSCoder night working on my menubar app for posting to micro.blog.&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 May 2017 19:51:00 -0700</pubDate>
@@ -238,6 +266,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;When presenting a new UIWindow I’ve discovered that it’s best to have a root view controller if you care at all about rotation (or handling the iPad at all correctly)&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 May 2017 13:36:00 -0700</pubDate>
@@ -246,6 +275,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Not a bad way to start the day.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://jsorge.micro.blog/uploads/2017/5070ace9e1.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
@@ -256,6 +286,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;It turns out my error was because of something dumb I did. Trying to add constraints to a UILayoutGuide before adding it to the my view first. So the error happened when making the first constraint.&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 May 2017 15:40:00 -0700</pubDate>
@@ -264,6 +295,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;The most frustrating crash error I have to deal with has to be: “libc++abi.dylib: terminating with uncaught exception of type NSException”&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 May 2017 13:45:00 -0700</pubDate>
@@ -272,6 +304,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;It’s Xcoders tonight! I hope you’ll join us &lt;a href=&quot;https://www.meetup.com/xcoders/events/236892781/&quot;&gt;at the meeting&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 May 2017 08:14:00 -0700</pubDate>
@@ -280,6 +313,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Ugh. We just found and ant nest inside our house. Time to call an exterminator.&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 May 2017 21:59:00 -0700</pubDate>
@@ -288,6 +322,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Our new grill is up and running! First up is lamb.&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 May 2017 18:34:00 -0700</pubDate>
@@ -296,6 +331,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;We just put together our new gas grill and I made the crucial mistake of laying in bed before actually ready to go to bed. Crap.&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 May 2017 22:33:00 -0700</pubDate>
@@ -304,6 +340,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;I feel like I’ve been leveling up a lot as an iOS developer the past month or two. Starting to pull away from using IB to write my layouts and putting them in code instead. I’m really happy with the results thus far but haven’t done too many really complicated things yet.&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 May 2017 20:27:00 -0700</pubDate>
@@ -312,6 +349,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;TIL a lot about he footerView property on UITableView. It doesn’t play well with auto layout, and isn’t a self sizing view. So putting a UIStackView containing 1 or 2 UIButtons just wasn’t working for me.&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 May 2017 20:26:00 -0700</pubDate>
@@ -320,6 +358,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;I love the Cocoa developer community. Being a part of this thing is truly a blessing to me. If you’re an aspiring iOS or Mac developer, the best thing you can do is get involved!&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 May 2017 21:45:00 -0700</pubDate>
@@ -328,6 +367,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Pro tip: When adding an NSTextView programatically, add it to an NSScrollView’s documentView property.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 May 2017 20:58:00 -0700</pubDate>
@@ -336,6 +376,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Testing my micro.blog menubar publishing app.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 May 2017 20:37:00 -0700</pubDate>
@@ -344,6 +385,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Test posting from Paw (the API client I use on the Mac). This is the first step in making my menubar app.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 May 2017 20:22:00 -0700</pubDate>
@@ -352,6 +394,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Nothing like a good fight with “Include of non-modular header inside framework module…” adds fuel to my battle against imposter syndrome.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 May 2017 08:17:00 -0700</pubDate>
@@ -360,6 +403,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Started transferring my media and going to bed. It’s kind of sad I can’t stay awake too late anymore&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Apr 2017 23:03:00 -0700</pubDate>
@@ -368,6 +412,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;I love that the Finder icon for the Synology is an Xserve and Xserve RAID combo. &lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Apr 2017 22:54:00 -0700</pubDate>
@@ -376,6 +421,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;It’s kind of surprising that Synology gear doesn’t come with an OS installed. On the other hand, it’s nice assuming that I won’t have to do a bunch of annoying software updates.&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Apr 2017 22:16:00 -0700</pubDate>
@@ -384,6 +430,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Hardware installed, installing DSM.&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Apr 2017 22:12:00 -0700</pubDate>
@@ -392,6 +439,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Good final night of bowling for the season. We came in 2nd in the playoff and I had a 621 series. Next up is getting the boys to bed and setting up my new Synology DS1515 !&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Apr 2017 21:23:00 -0700</pubDate>
@@ -400,6 +448,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;In doing this refactor work I need to untangle a bunch of references. My biggest enemy has been our “zulily-Swift.h” file because of all the forward declarations. I think all is good until I comment that thing out. Then it’s off to the races.&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Apr 2017 13:26:00 -0700</pubDate>
@@ -408,6 +457,7 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Refactor, refactor, refactor&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Apr 2017 13:17:00 -0700</pubDate>
