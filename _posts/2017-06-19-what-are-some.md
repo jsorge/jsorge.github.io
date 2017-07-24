@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-19 16:24 -0700
 guid: http://jsorge.micro.blog/2017/06/19/what-are-some.html
 ---
