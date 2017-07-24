@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-07-13 14:00 -0700
 guid: http://jsorge.micro.blog/2017/07/13/holy-moly-the.html
 ---
