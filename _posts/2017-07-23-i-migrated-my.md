@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-07-23 09:26 -0700
 guid: http://jsorge.micro.blog/2017/07/23/i-migrated-my.html
 ---
