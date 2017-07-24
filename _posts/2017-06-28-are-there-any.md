@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-27 17:34 -0700
 guid: http://jsorge.micro.blog/2017/06/28/are-there-any.html
 ---
