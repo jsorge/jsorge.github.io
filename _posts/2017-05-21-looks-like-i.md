@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-21 08:18 -0700
 guid: http://jsorge.micro.blog/2017/05/21/looks-like-i.html
 ---
