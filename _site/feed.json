@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/07/26/meetings-meetings-meetings.html",
+	      	
+			"content_html": "<p>Meetings, meetings, meetings. Today was full of meetings. But now the day is done and we go to the ocean tomorrow!</p>\n",
+			"date_published": "2017-07-26T16:51:00-07:00",
+			"url": "http://mb.jsorge.net/2017/07/26/meetings-meetings-meetings.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/07/23/finally-also-got.html",
 	      	
 			"content_html": "<p>Finally also got a custom sub domain setup for my microblog, and am now mirroring micro posts to Github. Hooray for owning my own content 🎉🎉🎉</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Last night I wrote about how  I make NSNotifications type safe: <a href=\"http://jsorge.net/2017/07/10/making-nsnotifications-type-safe/\">jsorge.net/2017/07/1…</a></p>\n",
 			"date_published": "2017-07-10T07:36:00-07:00",
 			"url": "http://mb.jsorge.net/2017/07/10/last-night-i.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/06/28/are-there-any.html",
-	      	
-			"content_html": "<p>Are there any good guides for getting started with Sketch for iOS design creation? Something  geared at developers would be perfect.</p>\n",
-			"date_published": "2017-06-27T17:34:00-07:00",
-			"url": "http://mb.jsorge.net/2017/06/27/are-there-any.html"
 		}
 		
 	]
