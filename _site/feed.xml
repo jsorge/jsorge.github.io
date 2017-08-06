@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Sat, 05 Aug 2017 22:05:50 -0700</pubDate>
-    <lastBuildDate>Sat, 05 Aug 2017 22:05:50 -0700</lastBuildDate>
+    <pubDate>Sat, 05 Aug 2017 22:27:51 -0700</pubDate>
+    <lastBuildDate>Sat, 05 Aug 2017 22:27:51 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Pro Tip: The swift.org instructions for Linux installations aren’t complete. &lt;a href=&quot;https://bugs.swift.org/browse/SR-2743&quot;&gt;Check out the bug report if you’re getting a libpython error.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 05 Aug 2017 22:27:00 -0700</pubDate>
+        <link>http://mb.jsorge.net/2017/08/05/pro-tip-the.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/06/pro-tip-the.html</guid>
+      </item>
     
       <item>
       	
@@ -454,15 +463,6 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
         <pubDate>Sat, 29 Apr 2017 22:12:00 -0700</pubDate>
         <link>http://mb.jsorge.net/2017/04/29/hardware-installed-installing.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/04/30/hardware-installed-installing.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Good final night of bowling for the season. We came in 2nd in the playoff and I had a 621 series. Next up is getting the boys to bed and setting up my new Synology DS1515 !&lt;/p&gt;
-</description>
-        <pubDate>Sat, 29 Apr 2017 21:23:00 -0700</pubDate>
-        <link>http://mb.jsorge.net/2017/04/29/good-final-night.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/04/30/good-final-night.html</guid>
       </item>
     
   </channel>
