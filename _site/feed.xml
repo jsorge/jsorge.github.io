@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Wed, 26 Jul 2017 16:51:11 -0700</pubDate>
-    <lastBuildDate>Wed, 26 Jul 2017 16:51:11 -0700</lastBuildDate>
+    <pubDate>Sat, 05 Aug 2017 22:05:50 -0700</pubDate>
+    <lastBuildDate>Sat, 05 Aug 2017 22:05:50 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Taking my first crack at installing Swift on Linux. Been working to port my company website from sailsjs to Swift using Vapor. It’s quite nice so far.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 05 Aug 2017 22:05:00 -0700</pubDate>
+        <link>http://mb.jsorge.net/2017/08/05/taking-my-first.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/06/taking-my-first.html</guid>
+      </item>
     
       <item>
       	
@@ -454,15 +463,6 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
         <pubDate>Sat, 29 Apr 2017 21:23:00 -0700</pubDate>
         <link>http://mb.jsorge.net/2017/04/29/good-final-night.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/04/30/good-final-night.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;In doing this refactor work I need to untangle a bunch of references. My biggest enemy has been our “zulily-Swift.h” file because of all the forward declarations. I think all is good until I comment that thing out. Then it’s off to the races.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 28 Apr 2017 13:26:00 -0700</pubDate>
-        <link>http://mb.jsorge.net/2017/04/28/in-doing-this.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/04/28/in-doing-this.html</guid>
       </item>
     
   </channel>
