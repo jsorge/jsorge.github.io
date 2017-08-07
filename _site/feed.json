@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/08/07/pulling-the-trigger.html",
+	      	
+			"content_html": "<p>Pulling the trigger and installing iOS 11 b5 on my carry phone. <a href=\"https://media.giphy.com/media/OCu7zWojqFA1W/giphy.gif\">media.giphy.com/media/OCu…</a></p>\n",
+			"date_published": "2017-08-07T12:52:00-07:00",
+			"url": "http://mb.jsorge.net/2017/08/07/pulling-the-trigger.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/08/07/i-have-slain.html",
 	      	
 			"content_html": "<p>I have slain the manual layout dragon!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Holy moly the Xcode 9 refactor tool is great. I just renamed an entry in an  NS_EXTENSIBLE_STRING_ENUM and it renamed the Swift uses as well as the Objective-C ones.</p>\n",
 			"date_published": "2017-07-13T14:00:00-07:00",
 			"url": "http://mb.jsorge.net/2017/07/13/holy-moly-the.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/07/13/ripping-out-fabric.html",
-	      	
-			"content_html": "<p>Ripping out Fabric feels pretty good. They seem to have cluttered up their UI a ton more than I would prefer. So I’m working on a new CloudKit analytics tool that I plan on open sourcing.</p>\n",
-			"date_published": "2017-07-13T10:45:00-07:00",
-			"url": "http://mb.jsorge.net/2017/07/13/ripping-out-fabric.html"
 		}
 		
 	]
