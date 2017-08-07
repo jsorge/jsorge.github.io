@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/08/07/embarking-on-a.html",
+	      	
+			"content_html": "<p>Embarking on a (hopefully) short journey to move one of our table view cells to Auto Layout. We’ve got the same class being used on iPhone and iPad in storyboards for each device, but it’s AL on iPhone and not on the iPad.</p>\n",
+			"date_published": "2017-08-07T07:35:00-07:00",
+			"url": "http://mb.jsorge.net/2017/08/07/embarking-on-a.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/08/06/pro-tip-the.html",
 	      	
 			"content_html": "<p>Pro Tip: The swift.org instructions for Linux installations aren’t complete. <a href=\"https://bugs.swift.org/browse/SR-2743\">Check out the bug report if you’re getting a libpython error.</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I tried setting up BuddyBuild for Scorebook. I have the <code>RUN_CLANG_STATIC_ANALYZER</code> set to Yes. The build fails becuase my Scorebook-Swift.h file doesn’t get built. I turn it off, and the build works. Is this an Xcode bug?</p>\n",
 			"date_published": "2017-07-12T21:50:00-07:00",
 			"url": "http://mb.jsorge.net/2017/07/12/i-tried-setting.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/07/11/triggered-segues-in.html",
-	      	
-			"content_html": "<p>Triggered segues in IB’s storyboards seem like a good idea to get going quickly. But the reality is they can be a debugging nightmare. Glad I get to undo some of this old code.</p>\n",
-			"date_published": "2017-07-11T09:37:00-07:00",
-			"url": "http://mb.jsorge.net/2017/07/11/triggered-segues-in.html"
 		}
 		
 	]
