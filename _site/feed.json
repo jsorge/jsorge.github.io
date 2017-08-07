@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/08/07/i-have-slain.html",
+	      	
+			"content_html": "<p>I have slain the manual layout dragon!</p>\n",
+			"date_published": "2017-08-07T12:08:00-07:00",
+			"url": "http://mb.jsorge.net/2017/08/07/i-have-slain.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/08/07/embarking-on-a.html",
 	      	
 			"content_html": "<p>Embarking on a (hopefully) short journey to move one of our table view cells to Auto Layout. We’ve got the same class being used on iPhone and iPad in storyboards for each device, but it’s AL on iPhone and not on the iPad.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Ripping out Fabric feels pretty good. They seem to have cluttered up their UI a ton more than I would prefer. So I’m working on a new CloudKit analytics tool that I plan on open sourcing.</p>\n",
 			"date_published": "2017-07-13T10:45:00-07:00",
 			"url": "http://mb.jsorge.net/2017/07/13/ripping-out-fabric.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/07/13/i-tried-setting.html",
-	      	
-			"content_html": "<p>I tried setting up BuddyBuild for Scorebook. I have the <code>RUN_CLANG_STATIC_ANALYZER</code> set to Yes. The build fails becuase my Scorebook-Swift.h file doesn’t get built. I turn it off, and the build works. Is this an Xcode bug?</p>\n",
-			"date_published": "2017-07-12T21:50:00-07:00",
-			"url": "http://mb.jsorge.net/2017/07/12/i-tried-setting.html"
 		}
 		
 	]
