@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/08/09/after-using-messages.html",
+	      	
+			"content_html": "<p>After using Messages on my iPhone in iOS 11 for the past couple of days I’m convinced that the new bottom row of app icons is there for the new iPhone Pro (or whatever it’s called). It’s super inconvenient to not have the text field at the very bottom of the screen.</p>\n",
+			"date_published": "2017-08-09T12:23:00-07:00",
+			"url": "http://mb.jsorge.net/2017/08/09/after-using-messages.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/08/07/pulling-the-trigger.html",
 	      	
 			"content_html": "<p>Pulling the trigger and installing iOS 11 b5 on my carry phone. <a href=\"https://media.giphy.com/media/OCu7zWojqFA1W/giphy.gif\">media.giphy.com/media/OCu…</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>We stepped out of the house for a short couple of errands and missed the UPS delivery attempt of my new Kindle. They required a signature so we were greeted by a note on the door. I had no idea that they were going to require that on a $90 Kindle!</p>\n",
 			"date_published": "2017-07-14T14:54:00-07:00",
 			"url": "http://mb.jsorge.net/2017/07/14/we-stepped-out.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/07/13/holy-moly-the.html",
-	      	
-			"content_html": "<p>Holy moly the Xcode 9 refactor tool is great. I just renamed an entry in an  NS_EXTENSIBLE_STRING_ENUM and it renamed the Swift uses as well as the Objective-C ones.</p>\n",
-			"date_published": "2017-07-13T14:00:00-07:00",
-			"url": "http://mb.jsorge.net/2017/07/13/holy-moly-the.html"
 		}
 		
 	]
