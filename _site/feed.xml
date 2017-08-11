@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Wed, 09 Aug 2017 12:23:09 -0700</pubDate>
-    <lastBuildDate>Wed, 09 Aug 2017 12:23:09 -0700</lastBuildDate>
+    <pubDate>Fri, 11 Aug 2017 14:57:06 -0700</pubDate>
+    <lastBuildDate>Fri, 11 Aug 2017 14:57:06 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I just found out about @objcMembers and now my Swift 4 migration for the zulily app is going to be WAY smoother. &lt;a href=&quot;http://evgenii.com/blog/disabling-swift3-objc-inference-in-xcode9/&quot;&gt;Scroll to the bottom of this page&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Aug 2017 14:57:00 -0700</pubDate>
+        <link>http://mb.jsorge.net/2017/08/11/i-just-found.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/11/i-just-found.html</guid>
+      </item>
     
       <item>
       	
@@ -454,15 +463,6 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
         <pubDate>Tue, 02 May 2017 20:22:00 -0700</pubDate>
         <link>http://mb.jsorge.net/2017/05/02/test-posting-from.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/03/test-posting-from.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Nothing like a good fight with “Include of non-modular header inside framework module…” adds fuel to my battle against imposter syndrome.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 01 May 2017 08:17:00 -0700</pubDate>
-        <link>http://mb.jsorge.net/2017/05/01/nothing-like-a.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/01/nothing-like-a.html</guid>
       </item>
     
   </channel>
