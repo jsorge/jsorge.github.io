@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/08/11/i-just-found.html",
+	      	
+			"content_html": "<p>I just found out about @objcMembers and now my Swift 4 migration for the zulily app is going to be WAY smoother. <a href=\"http://evgenii.com/blog/disabling-swift3-objc-inference-in-xcode9/\">Scroll to the bottom of this page</a></p>\n",
+			"date_published": "2017-08-11T14:57:00-07:00",
+			"url": "http://mb.jsorge.net/2017/08/11/i-just-found.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/08/09/after-using-messages.html",
 	      	
 			"content_html": "<p>After using Messages on my iPhone in iOS 11 for the past couple of days I’m convinced that the new bottom row of app icons is there for the new iPhone Pro (or whatever it’s called). It’s super inconvenient to not have the text field at the very bottom of the screen.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I migrated my main blog to a new Ghost 1.0 server hosted on Linode last night. Digital Ocean is great but their $5 plan only has 512MB of RAM, where Linode’s has 1GB.</p>\n",
 			"date_published": "2017-07-23T09:26:00-07:00",
 			"url": "http://mb.jsorge.net/2017/07/23/i-migrated-my.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/07/14/we-stepped-out.html",
-	      	
-			"content_html": "<p>We stepped out of the house for a short couple of errands and missed the UPS delivery attempt of my new Kindle. They required a signature so we were greeted by a note on the door. I had no idea that they were going to require that on a $90 Kindle!</p>\n",
-			"date_published": "2017-07-14T14:54:00-07:00",
-			"url": "http://mb.jsorge.net/2017/07/14/we-stepped-out.html"
 		}
 		
 	]
