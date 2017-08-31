@@ -2,10 +2,28 @@
 <rss version="2.0">
   <channel>
     <title>Jared Sorge</title>
-    <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
+    <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Fri, 11 Aug 2017 14:57:06 -0700</pubDate>
-    <lastBuildDate>Fri, 11 Aug 2017 14:57:06 -0700</lastBuildDate>
+    <pubDate>Wed, 30 Aug 2017 17:37:51 -0700</pubDate>
+    <lastBuildDate>Wed, 30 Aug 2017 17:37:51 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Is there any alternative to Lightroom that doesn’t charge a subscription fee? I’m wanting to improve my photo import workflow since I currently use Photos.app exclusively (importing everything and usually keeping it all too). I’m hoping there’s an Acorn or Pixelmator equivalent to it.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Aug 2017 17:37:00 -0700</pubDate>
+        <link>http://mb.jsorge.net/2017/08/30/is-there-any.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/31/is-there-any.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Been off the communication grid for the last few days. What did I miss?&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Aug 2017 13:28:00 -0700</pubDate>
+        <link>http://mb.jsorge.net/2017/08/25/been-off-the.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/25/been-off-the.html</guid>
+      </item>
     
       <item>
       	
@@ -445,24 +463,6 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
         <pubDate>Tue, 02 May 2017 20:58:00 -0700</pubDate>
         <link>http://mb.jsorge.net/2017/05/02/pro-tip-when.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/03/pro-tip-when.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Testing my micro.blog menubar publishing app.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 02 May 2017 20:37:00 -0700</pubDate>
-        <link>http://mb.jsorge.net/2017/05/02/testing-my-microblog.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/03/testing-my-microblog.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Test posting from Paw (the API client I use on the Mac). This is the first step in making my menubar app.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 02 May 2017 20:22:00 -0700</pubDate>
-        <link>http://mb.jsorge.net/2017/05/02/test-posting-from.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/03/test-posting-from.html</guid>
       </item>
     
   </channel>
