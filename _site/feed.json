@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/09/23/got-my-new.html",
+	      	
+			"content_html": "<p>Got my new Series 3 watch (no LTE) all setup. This thing is really fast!</p>\n",
+			"date_published": "2017-09-22T21:05:00-07:00",
+			"url": "http://mb.jsorge.net/2017/09/22/got-my-new.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/09/05/just-picked-up.html",
 	      	
 			"content_html": "<p>Just picked up The Caledonian Gambit by Dan Moren for my Kindle. It’s on sale for $1.99 and I just finished up a book last week. Stoked to give this a whirl.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Pro Tip: The swift.org instructions for Linux installations aren’t complete. <a href=\"https://bugs.swift.org/browse/SR-2743\">Check out the bug report if you’re getting a libpython error.</a></p>\n",
 			"date_published": "2017-08-05T22:27:00-07:00",
 			"url": "http://mb.jsorge.net/2017/08/05/pro-tip-the.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/08/06/taking-my-first.html",
-	      	
-			"content_html": "<p>Taking my first crack at installing Swift on Linux. Been working to port my company website from sailsjs to Swift using Vapor. It’s quite nice so far.</p>\n",
-			"date_published": "2017-08-05T22:05:00-07:00",
-			"url": "http://mb.jsorge.net/2017/08/05/taking-my-first.html"
 		}
 		
 	]
