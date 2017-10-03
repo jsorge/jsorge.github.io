@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/10/03/183402.html",
+	      	
+			"content_html": "<p>Thanks to <a href=\"https://twitter.com/timothyekl/status/915279780899037189\">@timothyekl</a> for pointing me in the right direction. Now I’ve got an external_bash_profile that syncs in iCloud Drive across my machines, and I can maintain some sanity when context switching.</p>\n",
+			"date_published": "2017-10-03T11:34:00-07:00",
+			"url": "http://mb.jsorge.net/2017/10/03/183402.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/10/03/is-it-possible.html",
 	      	
 			"content_html": "<p>Is it possible to import a file into bash_profile? I’m hoping to setup some sync’d file that can have things that I want across machines, and below that import statement have things that I want local on my given machine.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I have slain the manual layout dragon!</p>\n",
 			"date_published": "2017-08-07T12:08:00-07:00",
 			"url": "http://mb.jsorge.net/2017/08/07/i-have-slain.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/08/07/embarking-on-a.html",
-	      	
-			"content_html": "<p>Embarking on a (hopefully) short journey to move one of our table view cells to Auto Layout. We’ve got the same class being used on iPhone and iPad in storyboards for each device, but it’s AL on iPhone and not on the iPad.</p>\n",
-			"date_published": "2017-08-07T07:35:00-07:00",
-			"url": "http://mb.jsorge.net/2017/08/07/embarking-on-a.html"
 		}
 		
 	]
