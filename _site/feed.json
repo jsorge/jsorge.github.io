@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/10/03/trying-to-migrate.html",
+	      	
+			"content_html": "<p>Trying to migrate from CocoaPods to a Carthage Static Framework is much more challenging than I anticipated.</p>\n",
+			"date_published": "2017-10-03T11:49:00-07:00",
+			"url": "http://mb.jsorge.net/2017/10/03/trying-to-migrate.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/10/03/183402.html",
 	      	
 			"content_html": "<p>Thanks to <a href=\"https://twitter.com/timothyekl/status/915279780899037189\">@timothyekl</a> for pointing me in the right direction. Now I’ve got an external_bash_profile that syncs in iCloud Drive across my machines, and I can maintain some sanity when context switching.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Pulling the trigger and installing iOS 11 b5 on my carry phone. <a href=\"https://media.giphy.com/media/OCu7zWojqFA1W/giphy.gif\">media.giphy.com/media/OCu…</a></p>\n",
 			"date_published": "2017-08-07T12:52:00-07:00",
 			"url": "http://mb.jsorge.net/2017/08/07/pulling-the-trigger.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/08/07/i-have-slain.html",
-	      	
-			"content_html": "<p>I have slain the manual layout dragon!</p>\n",
-			"date_published": "2017-08-07T12:08:00-07:00",
-			"url": "http://mb.jsorge.net/2017/08/07/i-have-slain.html"
 		}
 		
 	]
