@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Tue, 03 Oct 2017 10:49:43 -0700</pubDate>
-    <lastBuildDate>Tue, 03 Oct 2017 10:49:43 -0700</lastBuildDate>
+    <pubDate>Tue, 03 Oct 2017 11:34:02 -0700</pubDate>
+    <lastBuildDate>Tue, 03 Oct 2017 11:34:02 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Thanks to &lt;a href=&quot;https://twitter.com/timothyekl/status/915279780899037189&quot;&gt;@timothyekl&lt;/a&gt; for pointing me in the right direction. Now I’ve got an external_bash_profile that syncs in iCloud Drive across my machines, and I can maintain some sanity when context switching.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Oct 2017 11:34:00 -0700</pubDate>
+        <link>http://mb.jsorge.net/2017/10/03/183402.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/03/183402.html</guid>
+      </item>
     
       <item>
       	
@@ -454,15 +463,6 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
         <pubDate>Tue, 09 May 2017 22:33:00 -0700</pubDate>
         <link>http://mb.jsorge.net/2017/05/09/we-just-put.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/10/we-just-put.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I feel like I’ve been leveling up a lot as an iOS developer the past month or two. Starting to pull away from using IB to write my layouts and putting them in code instead. I’m really happy with the results thus far but haven’t done too many really complicated things yet.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 09 May 2017 20:27:00 -0700</pubDate>
-        <link>http://mb.jsorge.net/2017/05/09/i-feel-like.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/10/i-feel-like.html</guid>
       </item>
     
   </channel>
