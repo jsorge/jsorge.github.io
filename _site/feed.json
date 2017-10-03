@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/10/03/is-it-possible.html",
+	      	
+			"content_html": "<p>Is it possible to import a file into bash_profile? I’m hoping to setup some sync’d file that can have things that I want across machines, and below that import statement have things that I want local on my given machine.</p>\n",
+			"date_published": "2017-10-03T10:49:00-07:00",
+			"url": "http://mb.jsorge.net/2017/10/03/is-it-possible.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/09/23/got-my-new.html",
 	      	
 			"content_html": "<p>Got my new Series 3 watch (no LTE) all setup. This thing is really fast!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Embarking on a (hopefully) short journey to move one of our table view cells to Auto Layout. We’ve got the same class being used on iPhone and iPad in storyboards for each device, but it’s AL on iPhone and not on the iPad.</p>\n",
 			"date_published": "2017-08-07T07:35:00-07:00",
 			"url": "http://mb.jsorge.net/2017/08/07/embarking-on-a.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/08/06/pro-tip-the.html",
-	      	
-			"content_html": "<p>Pro Tip: The swift.org instructions for Linux installations aren’t complete. <a href=\"https://bugs.swift.org/browse/SR-2743\">Check out the bug report if you’re getting a libpython error.</a></p>\n",
-			"date_published": "2017-08-05T22:27:00-07:00",
-			"url": "http://mb.jsorge.net/2017/08/05/pro-tip-the.html"
 		}
 		
 	]
