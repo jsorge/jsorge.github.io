@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Tue, 03 Oct 2017 18:50:30 -0700</pubDate>
-    <lastBuildDate>Tue, 03 Oct 2017 18:50:30 -0700</lastBuildDate>
+    <pubDate>Tue, 10 Oct 2017 13:52:51 -0700</pubDate>
+    <lastBuildDate>Tue, 10 Oct 2017 13:52:51 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;If anyone has experience linking multiple static frameworks into a dylib, I’d be greateful if you would look over &lt;a href=&quot;https://stackoverflow.com/questions/46675792/trying-to-merge-static-frameworks-using-carthage&quot;&gt;this question on Stack Overflow.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Oct 2017 13:52:00 -0700</pubDate>
+        <link>http://mb.jsorge.net/2017/10/10/if-anyone-has.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/10/if-anyone-has.html</guid>
+      </item>
     
       <item>
       	
@@ -456,15 +465,6 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
         <pubDate>Thu, 11 May 2017 08:14:00 -0700</pubDate>
         <link>http://mb.jsorge.net/2017/05/11/its-xcoders-tonight.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/11/its-xcoders-tonight.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Ugh. We just found and ant nest inside our house. Time to call an exterminator.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 10 May 2017 21:59:00 -0700</pubDate>
-        <link>http://mb.jsorge.net/2017/05/10/ugh-we-just.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/11/ugh-we-just.html</guid>
       </item>
     
   </channel>
