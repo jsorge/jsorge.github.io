@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Sun, 15 Oct 2017 15:41:46 -0700</pubDate>
-    <lastBuildDate>Sun, 15 Oct 2017 15:41:46 -0700</lastBuildDate>
+    <pubDate>Mon, 16 Oct 2017 13:09:18 -0700</pubDate>
+    <lastBuildDate>Mon, 16 Oct 2017 13:09:18 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Dear Collection View, why won’t you reload cells when I tell you to reload a section? I really want you to animate this change. Sincerly, me&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Oct 2017 13:09:00 -0700</pubDate>
+        <link>http://mb.jsorge.net/2017/10/16/dear-collection-view.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/16/dear-collection-view.html</guid>
+      </item>
     
       <item>
       	
@@ -456,15 +465,6 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
         <pubDate>Thu, 11 May 2017 15:40:00 -0700</pubDate>
         <link>http://mb.jsorge.net/2017/05/11/it-turns-out.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/11/it-turns-out.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;The most frustrating crash error I have to deal with has to be: “libc++abi.dylib: terminating with uncaught exception of type NSException”&lt;/p&gt;
-</description>
-        <pubDate>Thu, 11 May 2017 13:45:00 -0700</pubDate>
-        <link>http://mb.jsorge.net/2017/05/11/the-most-frustrating.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/11/the-most-frustrating.html</guid>
       </item>
     
   </channel>
