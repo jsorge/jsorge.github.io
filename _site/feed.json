@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/10/16/dear-collection-view.html",
+	      	
+			"content_html": "<p>Dear Collection View, why won’t you reload cells when I tell you to reload a section? I really want you to animate this change. Sincerly, me</p>\n",
+			"date_published": "2017-10-16T13:09:00-07:00",
+			"url": "http://mb.jsorge.net/2017/10/16/dear-collection-view.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/10/15/i-just-discovered.html",
 	      	
 			"content_html": "<p>I just discovered that there’s a free express version of Capture One for Sony camera users. Looking forward to playing with it as a better importer than Photos.app.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Is there any alternative to Lightroom that doesn’t charge a subscription fee? I’m wanting to improve my photo import workflow since I currently use Photos.app exclusively (importing everything and usually keeping it all too). I’m hoping there’s an Acorn or Pixelmator equivalent to it.</p>\n",
 			"date_published": "2017-08-30T17:37:00-07:00",
 			"url": "http://mb.jsorge.net/2017/08/30/is-there-any.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/08/25/been-off-the.html",
-	      	
-			"content_html": "<p>Been off the communication grid for the last few days. What did I miss?</p>\n",
-			"date_published": "2017-08-25T13:28:00-07:00",
-			"url": "http://mb.jsorge.net/2017/08/25/been-off-the.html"
 		}
 		
 	]
