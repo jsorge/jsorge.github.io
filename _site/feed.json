@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/10/17/this-world-is.html",
+	      	
+			"content_html": "<p>This world is an absolutely heartbreaking, broken place. I’ve been devastated all morning. <a href=\"http://q13fox.com/2017/10/16/police-6-year-old-mildly-autistic-boy-missing-in-lynnwood/\">q13fox.com/2017/10/1…</a></p>\n",
+			"date_published": "2017-10-17T09:22:00-07:00",
+			"url": "http://mb.jsorge.net/2017/10/17/this-world-is.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/10/17/put-the-microblog.html",
 	      	
 			"content_html": "<p>Put the micro.blog Mac app on my work machine, but I’m on Sierra. Considering going rogue and upgrading to HS before IT approves it.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Trying to migrate from CocoaPods to a Carthage Static Framework is much more challenging than I anticipated.</p>\n",
 			"date_published": "2017-10-03T11:49:00-07:00",
 			"url": "http://mb.jsorge.net/2017/10/03/trying-to-migrate.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/10/03/183402.html",
-	      	
-			"content_html": "<p>Thanks to <a href=\"https://twitter.com/timothyekl/status/915279780899037189\">@timothyekl</a> for pointing me in the right direction. Now I’ve got an external_bash_profile that syncs in iCloud Drive across my machines, and I can maintain some sanity when context switching.</p>\n",
-			"date_published": "2017-10-03T11:34:00-07:00",
-			"url": "http://mb.jsorge.net/2017/10/03/183402.html"
 		}
 		
 	]
