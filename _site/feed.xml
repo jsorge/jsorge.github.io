@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Tue, 17 Oct 2017 06:40:49 -0700</pubDate>
-    <lastBuildDate>Tue, 17 Oct 2017 06:40:49 -0700</lastBuildDate>
+    <pubDate>Tue, 17 Oct 2017 07:54:39 -0700</pubDate>
+    <lastBuildDate>Tue, 17 Oct 2017 07:54:39 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Put the micro.blog Mac app on my work machine, but I’m on Sierra. Considering going rogue and upgrading to HS before IT approves it.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Oct 2017 07:54:00 -0700</pubDate>
+        <link>http://mb.jsorge.net/2017/10/17/put-the-microblog.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/17/put-the-microblog.html</guid>
+      </item>
     
       <item>
       	
@@ -454,15 +463,6 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
         <pubDate>Tue, 16 May 2017 20:54:00 -0700</pubDate>
         <link>http://mb.jsorge.net/2017/05/16/are-there-any.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/17/are-there-any.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Back at NSCoder night working on my menubar app for posting to micro.blog.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 16 May 2017 19:51:00 -0700</pubDate>
-        <link>http://mb.jsorge.net/2017/05/16/back-at-nscoder.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/17/back-at-nscoder.html</guid>
       </item>
     
   </channel>
