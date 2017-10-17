@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Mon, 16 Oct 2017 18:01:44 -0700</pubDate>
-    <lastBuildDate>Mon, 16 Oct 2017 18:01:44 -0700</lastBuildDate>
+    <pubDate>Tue, 17 Oct 2017 06:40:49 -0700</pubDate>
+    <lastBuildDate>Tue, 17 Oct 2017 06:40:49 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;The Working Copy iOS app is quite a wonder. It’s a full git client on my phone &amp;amp; tablet!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Oct 2017 06:40:00 -0700</pubDate>
+        <link>http://mb.jsorge.net/2017/10/17/the-working-copy.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/17/the-working-copy.html</guid>
+      </item>
     
       <item>
       	
@@ -454,15 +463,6 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
         <pubDate>Tue, 16 May 2017 19:51:00 -0700</pubDate>
         <link>http://mb.jsorge.net/2017/05/16/back-at-nscoder.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/17/back-at-nscoder.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;When presenting a new UIWindow I’ve discovered that it’s best to have a root view controller if you care at all about rotation (or handling the iPad at all correctly)&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 May 2017 13:36:00 -0700</pubDate>
-        <link>http://mb.jsorge.net/2017/05/12/when-presenting-a.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/12/when-presenting-a.html</guid>
       </item>
     
   </channel>
