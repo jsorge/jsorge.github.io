@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Tue, 17 Oct 2017 07:54:39 -0700</pubDate>
-    <lastBuildDate>Tue, 17 Oct 2017 07:54:39 -0700</lastBuildDate>
+    <pubDate>Tue, 17 Oct 2017 09:22:24 -0700</pubDate>
+    <lastBuildDate>Tue, 17 Oct 2017 09:22:24 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;This world is an absolutely heartbreaking, broken place. I’ve been devastated all morning. &lt;a href=&quot;http://q13fox.com/2017/10/16/police-6-year-old-mildly-autistic-boy-missing-in-lynnwood/&quot;&gt;q13fox.com/2017/10/1…&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Oct 2017 09:22:00 -0700</pubDate>
+        <link>http://mb.jsorge.net/2017/10/17/this-world-is.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/17/this-world-is.html</guid>
+      </item>
     
       <item>
       	
@@ -454,15 +463,6 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
         <pubDate>Wed, 17 May 2017 21:24:00 -0700</pubDate>
         <link>http://mb.jsorge.net/2017/05/17/ready-to-perform.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/18/ready-to-perform.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Are there any good reference materials for how Text Kit on macOS works? Looking for something about the whole NSLayoutManager -&amp;gt; NSTextStorage -&amp;gt; NSTextContainer -&amp;gt; NSTextView stack.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 16 May 2017 20:54:00 -0700</pubDate>
-        <link>http://mb.jsorge.net/2017/05/16/are-there-any.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/17/are-there-any.html</guid>
       </item>
     
   </channel>
