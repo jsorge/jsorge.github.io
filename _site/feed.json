@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/10/17/the-working-copy.html",
+	      	
+			"content_html": "<p>The Working Copy iOS app is quite a wonder. It’s a full git client on my phone &amp; tablet!</p>\n",
+			"date_published": "2017-10-17T06:40:00-07:00",
+			"url": "http://mb.jsorge.net/2017/10/17/the-working-copy.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/10/17/yay-for-minor.html",
 	      	
 			"content_html": "<p>Yay for minor dental surgery. Here’s to soft foods for the next week.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Is it possible to import a file into bash_profile? I’m hoping to setup some sync’d file that can have things that I want across machines, and below that import statement have things that I want local on my given machine.</p>\n",
 			"date_published": "2017-10-03T10:49:00-07:00",
 			"url": "http://mb.jsorge.net/2017/10/03/is-it-possible.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/09/23/got-my-new.html",
-	      	
-			"content_html": "<p>Got my new Series 3 watch (no LTE) all setup. This thing is really fast!</p>\n",
-			"date_published": "2017-09-22T21:05:00-07:00",
-			"url": "http://mb.jsorge.net/2017/09/22/got-my-new.html"
 		}
 		
 	]
