@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/10/20/traffic-is-utterly.html",
+	      	
+			"content_html": "<p>Traffic is utterly horrid today. Ugh.</p>\n",
+			"date_published": "2017-10-19T17:08:00-07:00",
+			"url": "http://mb.jsorge.net/2017/10/19/traffic-is-utterly.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/10/17/i-gotta-say.html",
 	      	
 			"content_html": "<p>I gotta say, running <code>pod deintegrate</code> feels really good.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>If anyone has experience linking multiple static frameworks into a dylib, I’d be greateful if you would look over <a href=\"https://stackoverflow.com/questions/46675792/trying-to-merge-static-frameworks-using-carthage\">this question on Stack Overflow.</a></p>\n",
 			"date_published": "2017-10-10T13:52:00-07:00",
 			"url": "http://mb.jsorge.net/2017/10/10/if-anyone-has.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/10/04/watching-playoff-baseball.html",
-	      	
-			"content_html": "<p>Watching playoff baseball with our poor sick baby boy resting on me. These Yankee games take for freaking ever.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2017/6a90f494ec.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-03T18:50:00-07:00",
-			"url": "http://mb.jsorge.net/2017/10/03/watching-playoff-baseball.html"
 		}
 		
 	]
