@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Thu, 19 Oct 2017 17:08:14 -0700</pubDate>
-    <lastBuildDate>Thu, 19 Oct 2017 17:08:14 -0700</lastBuildDate>
+    <pubDate>Tue, 24 Oct 2017 11:20:11 -0700</pubDate>
+    <lastBuildDate>Tue, 24 Oct 2017 11:20:11 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Is there a way to use a git pre-commit hook to add large files to a repo’s LFS file? Is that even how git LFS works?&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Oct 2017 11:20:00 -0700</pubDate>
+        <link>http://mb.jsorge.net/2017/10/24/is-there-a.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/24/is-there-a.html</guid>
+      </item>
     
       <item>
       	
@@ -451,16 +460,6 @@ Kid: “It’s ok, I’m almost Batman.”&lt;/p&gt;
         <pubDate>Thu, 18 May 2017 22:01:00 -0700</pubDate>
         <link>http://mb.jsorge.net/2017/05/18/as-one-who.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/19/as-one-who.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;“Dear Executive: Do you want your employees to come into the office and work long hours while they’re there? THEN GIVE THEM PRIVATE OFFICES. At the very least, give them high-walled cubicles that provide a modicum of privacy.”
-- &lt;a href=&quot;https://www.inc.com/geoffrey-james/science-just-proved-that-open-plan-offices-destroy-productivity.html&quot;&gt;Open Office Plans Kill Creativity&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 18 May 2017 22:00:00 -0700</pubDate>
-        <link>http://mb.jsorge.net/2017/05/18/dear-executive-do.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/19/dear-executive-do.html</guid>
       </item>
     
   </channel>
