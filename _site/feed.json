@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/10/26/im-really-enjoying.html",
+	      	
+			"content_html": "<p>I’m really enjoying updating zulily’s app for the iPhone X. Xcode 9 is such a great upgrade. Kudos to everyone who worked on it!</p>\n",
+			"date_published": "2017-10-26T08:41:00-07:00",
+			"url": "http://mb.jsorge.net/2017/10/26/im-really-enjoying.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/10/24/is-there-a.html",
 	      	
 			"content_html": "<p>Is there a way to use a git pre-commit hook to add large files to a repo’s LFS file? Is that even how git LFS works?</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Dear Collection View, why won’t you reload cells when I tell you to reload a section? I really want you to animate this change. Sincerly, me</p>\n",
 			"date_published": "2017-10-16T13:09:00-07:00",
 			"url": "http://mb.jsorge.net/2017/10/16/dear-collection-view.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/10/15/i-just-discovered.html",
-	      	
-			"content_html": "<p>I just discovered that there’s a free express version of Capture One for Sony camera users. Looking forward to playing with it as a better importer than Photos.app.</p>\n",
-			"date_published": "2017-10-15T15:41:00-07:00",
-			"url": "http://mb.jsorge.net/2017/10/15/i-just-discovered.html"
 		}
 		
 	]
