@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/10/27/riding-the-seattle.html",
+	      	
+			"content_html": "<p>Riding the Seattle light rail for the first time since my last CocoaConf. This time it’s to the @SwiftxNW conference. Super excited for the next two days!</p>\n",
+			"date_published": "2017-10-27T07:11:00-07:00",
+			"url": "http://mb.jsorge.net/2017/10/27/riding-the-seattle.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/10/27/holy-crap-im.html",
 	      	
 			"content_html": "<p>Holy crap! I’m getting an iPhone X on launch day!!!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2017/8877d2f63c.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Put the micro.blog Mac app on my work machine, but I’m on Sierra. Considering going rogue and upgrading to HS before IT approves it.</p>\n",
 			"date_published": "2017-10-17T07:54:00-07:00",
 			"url": "http://mb.jsorge.net/2017/10/17/put-the-microblog.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/10/17/the-working-copy.html",
-	      	
-			"content_html": "<p>The Working Copy iOS app is quite a wonder. It’s a full git client on my phone &amp; tablet!</p>\n",
-			"date_published": "2017-10-17T06:40:00-07:00",
-			"url": "http://mb.jsorge.net/2017/10/17/the-working-copy.html"
 		}
 		
 	]
