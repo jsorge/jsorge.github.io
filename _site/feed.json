@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/10/27/why-yes-i.html",
+	      	
+			"content_html": "<p>Why yes, I would like to download Super Mario Odyssey. Thanks Amazon!</p>\n",
+			"date_published": "2017-10-26T17:08:00-07:00",
+			"url": "http://mb.jsorge.net/2017/10/26/why-yes-i.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/10/26/im-really-enjoying.html",
 	      	
 			"content_html": "<p>I’m really enjoying updating zulily’s app for the iPhone X. Xcode 9 is such a great upgrade. Kudos to everyone who worked on it!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Working with @FrontierCorp billing is almost worse than @ComcastCares. Signed up for a 2 year plan and they didn’t tell me my promo price ($79) was for 6 months and would go up to $114 for the rest of my “2 year term”, after which I can re-negotiate for any promo.</p>\n",
 			"date_published": "2017-10-16T13:49:00-07:00",
 			"url": "http://mb.jsorge.net/2017/10/16/working-with-frontiercorp.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/10/16/dear-collection-view.html",
-	      	
-			"content_html": "<p>Dear Collection View, why won’t you reload cells when I tell you to reload a section? I really want you to animate this change. Sincerly, me</p>\n",
-			"date_published": "2017-10-16T13:09:00-07:00",
-			"url": "http://mb.jsorge.net/2017/10/16/dear-collection-view.html"
 		}
 		
 	]
