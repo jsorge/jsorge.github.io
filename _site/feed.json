@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/10/27/holy-crap-im.html",
+	      	
+			"content_html": "<p>Holy crap! I’m getting an iPhone X on launch day!!!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2017/8877d2f63c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-10-27T00:12:00-07:00",
+			"url": "http://mb.jsorge.net/2017/10/27/holy-crap-im.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/10/27/doh-not-available.html",
 	      	
 			"content_html": "<p>D’oh! Not available until 9PM. Oh well.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>The Working Copy iOS app is quite a wonder. It’s a full git client on my phone &amp; tablet!</p>\n",
 			"date_published": "2017-10-17T06:40:00-07:00",
 			"url": "http://mb.jsorge.net/2017/10/17/the-working-copy.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/10/17/yay-for-minor.html",
-	      	
-			"content_html": "<p>Yay for minor dental surgery. Here’s to soft foods for the next week.</p>\n",
-			"date_published": "2017-10-16T18:01:00-07:00",
-			"url": "http://mb.jsorge.net/2017/10/16/yay-for-minor.html"
 		}
 		
 	]
