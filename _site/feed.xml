@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Fri, 27 Oct 2017 22:13:33 -0700</pubDate>
-    <lastBuildDate>Fri, 27 Oct 2017 22:13:33 -0700</lastBuildDate>
+    <pubDate>Sat, 28 Oct 2017 13:18:45 -0700</pubDate>
+    <lastBuildDate>Sat, 28 Oct 2017 13:18:45 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Pro tip for future me when renewing my SSL certificate for my blog: restart nginx afterward.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Oct 2017 13:18:00 -0700</pubDate>
+        <link>http://mb.jsorge.net/2017/10/28/pro-tip-for.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/28/pro-tip-for.html</guid>
+      </item>
     
       <item>
       	
@@ -452,15 +461,6 @@
         <pubDate>Fri, 02 Jun 2017 07:51:00 -0700</pubDate>
         <link>http://mb.jsorge.net/2017/06/02/i-think-my.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/06/02/i-think-my.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’m doing a lightning talk next week at @Xcoders about git submodules. What questions do you have about them?&lt;/p&gt;
-</description>
-        <pubDate>Tue, 30 May 2017 19:18:00 -0700</pubDate>
-        <link>http://mb.jsorge.net/2017/05/30/im-doing-a.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/05/31/im-doing-a.html</guid>
       </item>
     
   </channel>
