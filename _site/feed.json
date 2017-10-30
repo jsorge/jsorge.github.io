@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/10/30/fighting-with-build.html",
+	      	
+			"content_html": "<p>Fighting with build settings over and over and over again. Wash, rinse, repeat.</p>\n",
+			"date_published": "2017-10-30T14:26:00-07:00",
+			"url": "http://mb.jsorge.net/2017/10/30/fighting-with-build.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/10/28/pro-tip-for.html",
 	      	
 			"content_html": "<p>Pro tip for future me when renewing my SSL certificate for my blog: restart nginx afterward.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Traffic is utterly horrid today. Ugh.</p>\n",
 			"date_published": "2017-10-19T17:08:00-07:00",
 			"url": "http://mb.jsorge.net/2017/10/19/traffic-is-utterly.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/10/17/i-gotta-say.html",
-	      	
-			"content_html": "<p>I gotta say, running <code>pod deintegrate</code> feels really good.</p>\n",
-			"date_published": "2017-10-17T14:16:00-07:00",
-			"url": "http://mb.jsorge.net/2017/10/17/i-gotta-say.html"
 		}
 		
 	]
