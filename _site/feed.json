@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/11/02/its-so-much.html",
+	      	
+			"content_html": "<p>It’s so much fun to watch championship games. I sure hope the Mariners are in one of these someday. But for tonight let’s go Dodgers!</p>\n",
+			"date_published": "2017-11-01T17:09:00-07:00",
+			"url": "http://mb.jsorge.net/2017/11/01/its-so-much.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/10/30/fighting-with-build.html",
 	      	
 			"content_html": "<p>Fighting with build settings over and over and over again. Wash, rinse, repeat.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Is there a way to use a git pre-commit hook to add large files to a repo’s LFS file? Is that even how git LFS works?</p>\n",
 			"date_published": "2017-10-24T11:20:00-07:00",
 			"url": "http://mb.jsorge.net/2017/10/24/is-there-a.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/10/20/traffic-is-utterly.html",
-	      	
-			"content_html": "<p>Traffic is utterly horrid today. Ugh.</p>\n",
-			"date_published": "2017-10-19T17:08:00-07:00",
-			"url": "http://mb.jsorge.net/2017/10/19/traffic-is-utterly.html"
 		}
 		
 	]
