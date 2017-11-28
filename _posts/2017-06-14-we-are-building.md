@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-13 21:53 -0700
+date: 2017-06-13 20:53 -0800
 guid: http://jsorge.micro.blog/2017/06/14/we-are-building.html
 ---
 We are building a play set in our backyard. Started the project on Sunday afternoon and this is step 34/~52.
