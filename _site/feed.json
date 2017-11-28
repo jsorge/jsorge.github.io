@@ -6,10 +6,18 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/11/28/after-years-at.html",
+	      	
+			"content_html": "<p>After 2+ years at zulily, I’m going to be leaving next Friday. I’ve taken a new job as an iOS developer at @lyft. I’m really excited to get started on 12/11!</p>\n",
+			"date_published": "2017-11-27T18:15:00-08:00",
+			"url": "http://mb.jsorge.net/2017/11/27/after-years-at.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/11/03/when-i-want.html",
 	      	
 			"content_html": "<p>When I want placeholder text, I always turn to Batman Ipsum.</p>\n",
-			"date_published": "2017-11-03T08:28:00-07:00",
+			"date_published": "2017-11-03T07:28:00-08:00",
 			"url": "http://mb.jsorge.net/2017/11/03/when-i-want.html"
 		},
 		
@@ -17,7 +25,7 @@
 			"id": "http://jsorge.micro.blog/2017/11/02/its-so-much.html",
 	      	
 			"content_html": "<p>It’s so much fun to watch championship games. I sure hope the Mariners are in one of these someday. But for tonight let’s go Dodgers!</p>\n",
-			"date_published": "2017-11-01T17:09:00-07:00",
+			"date_published": "2017-11-01T16:09:00-08:00",
 			"url": "http://mb.jsorge.net/2017/11/01/its-so-much.html"
 		},
 		
@@ -25,7 +33,7 @@
 			"id": "http://jsorge.micro.blog/2017/10/30/fighting-with-build.html",
 	      	
 			"content_html": "<p>Fighting with build settings over and over and over again. Wash, rinse, repeat.</p>\n",
-			"date_published": "2017-10-30T14:26:00-07:00",
+			"date_published": "2017-10-30T13:26:00-08:00",
 			"url": "http://mb.jsorge.net/2017/10/30/fighting-with-build.html"
 		},
 		
@@ -33,7 +41,7 @@
 			"id": "http://jsorge.micro.blog/2017/10/28/pro-tip-for.html",
 	      	
 			"content_html": "<p>Pro tip for future me when renewing my SSL certificate for my blog: restart nginx afterward.</p>\n",
-			"date_published": "2017-10-28T13:18:00-07:00",
+			"date_published": "2017-10-28T12:18:00-08:00",
 			"url": "http://mb.jsorge.net/2017/10/28/pro-tip-for.html"
 		},
 		
@@ -41,7 +49,7 @@
 			"id": "http://jsorge.micro.blog/2017/10/28/why-yes-i.html",
 	      	
 			"content_html": "<p>Why yes, I did just make a watchOS app to support my Halloween costume. #itcanonlybejared</p>\n",
-			"date_published": "2017-10-27T22:13:00-07:00",
+			"date_published": "2017-10-27T21:13:00-08:00",
 			"url": "http://mb.jsorge.net/2017/10/27/why-yes-i.html"
 		},
 		
@@ -49,7 +57,7 @@
 			"id": "http://jsorge.micro.blog/2017/10/27/riding-the-seattle.html",
 	      	
 			"content_html": "<p>Riding the Seattle light rail for the first time since my last CocoaConf. This time it’s to the @SwiftxNW conference. Super excited for the next two days!</p>\n",
-			"date_published": "2017-10-27T07:11:00-07:00",
+			"date_published": "2017-10-27T06:11:00-08:00",
 			"url": "http://mb.jsorge.net/2017/10/27/riding-the-seattle.html"
 		},
 		
@@ -57,15 +65,15 @@
 			"id": "http://jsorge.micro.blog/2017/10/27/holy-crap-im.html",
 	      	
 			"content_html": "<p>Holy crap! I’m getting an iPhone X on launch day!!!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2017/8877d2f63c.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-27T00:12:00-07:00",
-			"url": "http://mb.jsorge.net/2017/10/27/holy-crap-im.html"
+			"date_published": "2017-10-26T23:12:00-08:00",
+			"url": "http://mb.jsorge.net/2017/10/26/holy-crap-im.html"
 		},
 		
 		{
 			"id": "http://jsorge.micro.blog/2017/10/27/doh-not-available.html",
 	      	
 			"content_html": "<p>D’oh! Not available until 9PM. Oh well.</p>\n",
-			"date_published": "2017-10-26T17:13:00-07:00",
+			"date_published": "2017-10-26T16:13:00-08:00",
 			"url": "http://mb.jsorge.net/2017/10/26/doh-not-available.html"
 		},
 		
@@ -73,16 +81,8 @@
 			"id": "http://jsorge.micro.blog/2017/10/27/why-yes-i.html",
 	      	
 			"content_html": "<p>Why yes, I would like to download Super Mario Odyssey. Thanks Amazon!</p>\n",
-			"date_published": "2017-10-26T17:08:00-07:00",
+			"date_published": "2017-10-26T16:08:00-08:00",
 			"url": "http://mb.jsorge.net/2017/10/26/why-yes-i.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/10/26/im-really-enjoying.html",
-	      	
-			"content_html": "<p>I’m really enjoying updating zulily’s app for the iPhone X. Xcode 9 is such a great upgrade. Kudos to everyone who worked on it!</p>\n",
-			"date_published": "2017-10-26T08:41:00-07:00",
-			"url": "http://mb.jsorge.net/2017/10/26/im-really-enjoying.html"
 		}
 		
 	]
