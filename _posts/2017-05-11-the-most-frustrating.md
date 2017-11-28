@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-11 13:45 -0700
+date: 2017-05-11 12:45 -0800
 guid: http://jsorge.micro.blog/2017/05/11/the-most-frustrating.html
 ---
 The most frustrating crash error I have to deal with has to be: "libc++abi.dylib: terminating with uncaught exception of type NSException"
