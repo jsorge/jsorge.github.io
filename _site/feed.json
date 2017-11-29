@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/11/29/the-most-painful.html",
+	      	
+			"content_html": "<p>The most painful part of the Swift 3 -&gt; 4 migration isn’t Swift itself (unless you’re dealing with a lot of Strings). It’s the renaming of Foundation typealiases to their own types (i.e. UILayoutPriority, AVMediaType, NSAttributedStringKey, etc)</p>\n",
+			"date_published": "2017-11-29T11:27:00-08:00",
+			"url": "http://mb.jsorge.net/2017/11/29/the-most-painful.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/11/29/if-i-have.html",
 	      	
 			"content_html": "<p>If I have a video loaded from the web (either via progressive download or HLS) and it only has a video track, how can I stop my app from pausing other playing audio? I can’t find any properties on AVPlayer or AVPlayerItem. cc <a href=\"https://micro.blog/invalidname\">@invalidname</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Pro tip for future me when renewing my SSL certificate for my blog: restart nginx afterward.</p>\n",
 			"date_published": "2017-10-28T12:18:00-08:00",
 			"url": "http://mb.jsorge.net/2017/10/28/pro-tip-for.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/10/28/why-yes-i.html",
-	      	
-			"content_html": "<p>Why yes, I did just make a watchOS app to support my Halloween costume. #itcanonlybejared</p>\n",
-			"date_published": "2017-10-27T21:13:00-08:00",
-			"url": "http://mb.jsorge.net/2017/10/27/why-yes-i.html"
 		}
 		
 	]
