@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Wed, 29 Nov 2017 06:23:15 -0800</pubDate>
-    <lastBuildDate>Wed, 29 Nov 2017 06:23:15 -0800</lastBuildDate>
+    <pubDate>Wed, 29 Nov 2017 09:58:45 -0800</pubDate>
+    <lastBuildDate>Wed, 29 Nov 2017 09:58:45 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;If I have a video loaded from the web (either via progressive download or HLS) and it only has a video track, how can I stop my app from pausing other playing audio? I can’t find any properties on AVPlayer or AVPlayerItem. cc &lt;a href=&quot;https://micro.blog/invalidname&quot;&gt;@invalidname&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Nov 2017 09:58:00 -0800</pubDate>
+        <link>http://mb.jsorge.net/2017/11/29/if-i-have.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/11/29/if-i-have.html</guid>
+      </item>
     
       <item>
       	
@@ -451,15 +460,6 @@
         <pubDate>Mon, 10 Jul 2017 08:25:00 -0800</pubDate>
         <link>http://mb.jsorge.net/2017/07/10/im-on-my.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/07/10/im-on-my.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Last night I wrote about how  I make NSNotifications type safe: &lt;a href=&quot;http://jsorge.net/2017/07/10/making-nsnotifications-type-safe/&quot;&gt;jsorge.net/2017/07/1…&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 10 Jul 2017 06:36:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/07/10/last-night-i.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/07/10/last-night-i.html</guid>
       </item>
     
   </channel>
