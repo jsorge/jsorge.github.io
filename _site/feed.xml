@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Fri, 01 Dec 2017 07:55:49 -0800</pubDate>
-    <lastBuildDate>Fri, 01 Dec 2017 07:55:49 -0800</lastBuildDate>
+    <pubDate>Fri, 01 Dec 2017 08:35:27 -0800</pubDate>
+    <lastBuildDate>Fri, 01 Dec 2017 08:35:27 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;In my searching I ran across &lt;a href=&quot;http://inessential.com/2015/02/05/uxkit_skepticism&quot;&gt;this old [@brentsimmons](https://micro.blog/brentsimmons) blog post&lt;/a&gt; which linked to &lt;a href=&quot;https://github.com/brentsimmons/QSKit/blob/master/Classes/QSPlatform.h&quot;&gt;this header&lt;/a&gt; that does exactly what I was looking for. Thanks Brent!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Dec 2017 08:35:00 -0800</pubDate>
+        <link>http://mb.jsorge.net/2017/12/01/in-my-searching.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/01/in-my-searching.html</guid>
+      </item>
     
       <item>
       	
@@ -451,15 +460,6 @@
         <pubDate>Thu, 13 Jul 2017 09:45:00 -0800</pubDate>
         <link>http://mb.jsorge.net/2017/07/13/ripping-out-fabric.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/07/13/ripping-out-fabric.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I tried setting up BuddyBuild for Scorebook. I have the &lt;code&gt;RUN_CLANG_STATIC_ANALYZER&lt;/code&gt; set to Yes. The build fails becuase my Scorebook-Swift.h file doesn’t get built. I turn it off, and the build works. Is this an Xcode bug?&lt;/p&gt;
-</description>
-        <pubDate>Wed, 12 Jul 2017 20:50:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/07/12/i-tried-setting.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/07/13/i-tried-setting.html</guid>
       </item>
     
   </channel>
