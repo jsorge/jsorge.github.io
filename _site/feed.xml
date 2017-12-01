@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Fri, 01 Dec 2017 08:35:27 -0800</pubDate>
-    <lastBuildDate>Fri, 01 Dec 2017 08:35:27 -0800</lastBuildDate>
+    <pubDate>Fri, 01 Dec 2017 09:03:21 -0800</pubDate>
+    <lastBuildDate>Fri, 01 Dec 2017 09:03:21 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;And I’ve gotten the skeleton of a Mac app working. This was much simpler than I thought it would be, but the new challenge will be to make the Mac app &lt;em&gt;good&lt;/em&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Dec 2017 09:03:00 -0800</pubDate>
+        <link>http://mb.jsorge.net/2017/12/01/and-ive-gotten.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/01/and-ive-gotten.html</guid>
+      </item>
     
       <item>
       	
@@ -451,15 +460,6 @@
         <pubDate>Thu, 13 Jul 2017 13:00:00 -0800</pubDate>
         <link>http://mb.jsorge.net/2017/07/13/holy-moly-the.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/07/13/holy-moly-the.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Ripping out Fabric feels pretty good. They seem to have cluttered up their UI a ton more than I would prefer. So I’m working on a new CloudKit analytics tool that I plan on open sourcing.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 13 Jul 2017 09:45:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/07/13/ripping-out-fabric.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/07/13/ripping-out-fabric.html</guid>
       </item>
     
   </channel>
