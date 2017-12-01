@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/12/01/in-my-final.html",
+	      	
+			"content_html": "<p>In my final hackday at zulily I’m going to be taking our style framework, making a Mac version, and taking that to make a Mac app to render our custom strings on the Mac. First step: figure out how to generalize UIColor and NSColor, as well as UIFont and NSFont.</p>\n",
+			"date_published": "2017-12-01T07:55:00-08:00",
+			"url": "http://mb.jsorge.net/2017/12/01/in-my-final.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/11/29/the-most-painful.html",
 	      	
 			"content_html": "<p>The most painful part of the Swift 3 -&gt; 4 migration isn’t Swift itself (unless you’re dealing with a lot of Strings). It’s the renaming of Foundation typealiases to their own types (i.e. UILayoutPriority, AVMediaType, NSAttributedStringKey, etc)</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Fighting with build settings over and over and over again. Wash, rinse, repeat.</p>\n",
 			"date_published": "2017-10-30T13:26:00-08:00",
 			"url": "http://mb.jsorge.net/2017/10/30/fighting-with-build.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/10/28/pro-tip-for.html",
-	      	
-			"content_html": "<p>Pro tip for future me when renewing my SSL certificate for my blog: restart nginx afterward.</p>\n",
-			"date_published": "2017-10-28T12:18:00-08:00",
-			"url": "http://mb.jsorge.net/2017/10/28/pro-tip-for.html"
 		}
 		
 	]
