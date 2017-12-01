@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Wed, 29 Nov 2017 11:27:13 -0800</pubDate>
-    <lastBuildDate>Wed, 29 Nov 2017 11:27:13 -0800</lastBuildDate>
+    <pubDate>Fri, 01 Dec 2017 07:55:49 -0800</pubDate>
+    <lastBuildDate>Fri, 01 Dec 2017 07:55:49 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;In my final hackday at zulily I’m going to be taking our style framework, making a Mac version, and taking that to make a Mac app to render our custom strings on the Mac. First step: figure out how to generalize UIColor and NSColor, as well as UIFont and NSFont.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Dec 2017 07:55:00 -0800</pubDate>
+        <link>http://mb.jsorge.net/2017/12/01/in-my-final.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/01/in-my-final.html</guid>
+      </item>
     
       <item>
       	
@@ -451,15 +460,6 @@
         <pubDate>Wed, 12 Jul 2017 20:50:00 -0800</pubDate>
         <link>http://mb.jsorge.net/2017/07/12/i-tried-setting.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/07/13/i-tried-setting.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Triggered segues in IB’s storyboards seem like a good idea to get going quickly. But the reality is they can be a debugging nightmare. Glad I get to undo some of this old code.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 11 Jul 2017 08:37:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/07/11/triggered-segues-in.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/07/11/triggered-segues-in.html</guid>
       </item>
     
   </channel>
