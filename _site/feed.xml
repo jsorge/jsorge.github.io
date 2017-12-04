@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Fri, 01 Dec 2017 09:03:21 -0800</pubDate>
-    <lastBuildDate>Fri, 01 Dec 2017 09:03:21 -0800</lastBuildDate>
+    <pubDate>Mon, 04 Dec 2017 08:43:27 -0800</pubDate>
+    <lastBuildDate>Mon, 04 Dec 2017 08:43:27 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Today begins my last week at zulily.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Dec 2017 08:43:00 -0800</pubDate>
+        <link>http://mb.jsorge.net/2017/12/04/today-begins-my.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/04/today-begins-my.html</guid>
+      </item>
     
       <item>
       	
@@ -451,15 +460,6 @@
         <pubDate>Fri, 14 Jul 2017 13:54:00 -0800</pubDate>
         <link>http://mb.jsorge.net/2017/07/14/we-stepped-out.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/07/14/we-stepped-out.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Holy moly the Xcode 9 refactor tool is great. I just renamed an entry in an  NS_EXTENSIBLE_STRING_ENUM and it renamed the Swift uses as well as the Objective-C ones.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 13 Jul 2017 13:00:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/07/13/holy-moly-the.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/07/13/holy-moly-the.html</guid>
       </item>
     
   </channel>
