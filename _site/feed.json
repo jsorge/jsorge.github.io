@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/12/11/on-my-way.html",
+	      	
+			"content_html": "<p>On my way to the airport. I’m San Francisco bound to start my new journey with @lyft! I’ll be there for a couple of days then fly home and I’ll miss my family like crazy. Never been away for this long before.</p>\n",
+			"date_published": "2017-12-10T18:58:00-08:00",
+			"url": "http://mb.jsorge.net/2017/12/10/on-my-way.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/12/04/today-begins-my.html",
 	      	
 			"content_html": "<p>Today begins my last week at zulily.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Ordered a new standing desk from Autonomous. <a href=\"https://micro.blog/ben\">@ben</a> had a favorable review and they’re only $299! <a href=\"https://www.autonomous.ai?&amp;rid=f76205&amp;utm_campaign=referrals&amp;utm_source=referrals_twitter&amp;utm_medium=f76205&amp;utm_term=referrals_share\">Check out this link for $25 off</a></p>\n",
 			"date_published": "2017-11-27T21:54:00-08:00",
 			"url": "http://mb.jsorge.net/2017/11/27/ordered-a-new.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/11/28/after-years-at.html",
-	      	
-			"content_html": "<p>After 2+ years at zulily, I’m going to be leaving next Friday. I’ve taken a new job as an iOS developer at @lyft. I’m really excited to get started on 12/11!</p>\n",
-			"date_published": "2017-11-27T18:15:00-08:00",
-			"url": "http://mb.jsorge.net/2017/11/27/after-years-at.html"
 		}
 		
 	]
