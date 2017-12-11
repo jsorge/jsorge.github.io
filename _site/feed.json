@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/12/11/safely-arrived-at.html",
+	      	
+			"content_html": "<p>Safely arrived at the hotel. Gotta be in to the office at 9:15. Whee!</p>\n",
+			"date_published": "2017-12-11T00:39:00-08:00",
+			"url": "http://mb.jsorge.net/2017/12/11/safely-arrived-at.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/12/11/on-my-way.html",
 	      	
 			"content_html": "<p>On my way to the airport. I’m San Francisco bound to start my new journey with @lyft! I’ll be there for a couple of days then fly home and I’ll miss my family like crazy. Never been away for this long before.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I really want a Kindle update for the iPhone X. Reading on apps not built for it is such a terrible experience and I’m spoiled to be used to having content on the whole screen.</p>\n",
 			"date_published": "2017-11-28T14:19:00-08:00",
 			"url": "http://mb.jsorge.net/2017/11/28/i-really-want.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/11/28/ordered-a-new.html",
-	      	
-			"content_html": "<p>Ordered a new standing desk from Autonomous. <a href=\"https://micro.blog/ben\">@ben</a> had a favorable review and they’re only $299! <a href=\"https://www.autonomous.ai?&amp;rid=f76205&amp;utm_campaign=referrals&amp;utm_source=referrals_twitter&amp;utm_medium=f76205&amp;utm_term=referrals_share\">Check out this link for $25 off</a></p>\n",
-			"date_published": "2017-11-27T21:54:00-08:00",
-			"url": "http://mb.jsorge.net/2017/11/27/ordered-a-new.html"
 		}
 		
 	]
