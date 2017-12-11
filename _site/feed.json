@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/12/11/first-day-at.html",
+	      	
+			"content_html": "<p>First day at @Lyft! Orientation is about to start. Hoping to get my kit soon and get to work.</p>\n",
+			"date_published": "2017-12-11T09:28:00-08:00",
+			"url": "http://mb.jsorge.net/2017/12/11/first-day-at.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/12/11/safely-arrived-at.html",
 	      	
 			"content_html": "<p>Safely arrived at the hotel. Gotta be in to the office at 9:15. Whee!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Holy smokes the Infinity War trailer looks amazing! I really hope they can pull this off.\n<a href=\"https://m.youtube.com/watch?v=6ZfuNTqbHE8\">m.youtube.com/watch</a></p>\n",
 			"date_published": "2017-11-29T06:23:00-08:00",
 			"url": "http://mb.jsorge.net/2017/11/29/holy-smokes-the.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/11/28/i-really-want.html",
-	      	
-			"content_html": "<p>I really want a Kindle update for the iPhone X. Reading on apps not built for it is such a terrible experience and I’m spoiled to be used to having content on the whole screen.</p>\n",
-			"date_published": "2017-11-28T14:19:00-08:00",
-			"url": "http://mb.jsorge.net/2017/11/28/i-really-want.html"
 		}
 		
 	]
