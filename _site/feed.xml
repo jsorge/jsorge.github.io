@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Sun, 10 Dec 2017 18:58:49 -0800</pubDate>
-    <lastBuildDate>Sun, 10 Dec 2017 18:58:49 -0800</lastBuildDate>
+    <pubDate>Mon, 11 Dec 2017 00:39:16 -0800</pubDate>
+    <lastBuildDate>Mon, 11 Dec 2017 00:39:16 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Safely arrived at the hotel. Gotta be in to the office at 9:15. Whee!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Dec 2017 00:39:00 -0800</pubDate>
+        <link>http://mb.jsorge.net/2017/12/11/safely-arrived-at.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/11/safely-arrived-at.html</guid>
+      </item>
     
       <item>
       	
@@ -451,15 +460,6 @@
         <pubDate>Sun, 23 Jul 2017 10:21:00 -0800</pubDate>
         <link>http://mb.jsorge.net/2017/07/23/finally-also-got.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/07/23/finally-also-got.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I migrated my main blog to a new Ghost 1.0 server hosted on Linode last night. Digital Ocean is great but their $5 plan only has 512MB of RAM, where Linode’s has 1GB.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 23 Jul 2017 08:26:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/07/23/i-migrated-my.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/07/23/i-migrated-my.html</guid>
       </item>
     
   </channel>
