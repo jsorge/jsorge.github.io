@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Mon, 11 Dec 2017 00:39:16 -0800</pubDate>
-    <lastBuildDate>Mon, 11 Dec 2017 00:39:16 -0800</lastBuildDate>
+    <pubDate>Mon, 11 Dec 2017 09:28:32 -0800</pubDate>
+    <lastBuildDate>Mon, 11 Dec 2017 09:28:32 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;First day at @Lyft! Orientation is about to start. Hoping to get my kit soon and get to work.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Dec 2017 09:28:00 -0800</pubDate>
+        <link>http://mb.jsorge.net/2017/12/11/first-day-at.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/11/first-day-at.html</guid>
+      </item>
     
       <item>
       	
@@ -451,15 +460,6 @@
         <pubDate>Wed, 26 Jul 2017 15:51:00 -0800</pubDate>
         <link>http://mb.jsorge.net/2017/07/26/meetings-meetings-meetings.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/07/26/meetings-meetings-meetings.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Finally also got a custom sub domain setup for my microblog, and am now mirroring micro posts to Github. Hooray for owning my own content 🎉🎉🎉&lt;/p&gt;
-</description>
-        <pubDate>Sun, 23 Jul 2017 10:21:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/07/23/finally-also-got.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/07/23/finally-also-got.html</guid>
       </item>
     
   </channel>
