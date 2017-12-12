@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Mon, 11 Dec 2017 19:27:16 -0800</pubDate>
-    <lastBuildDate>Mon, 11 Dec 2017 19:27:16 -0800</lastBuildDate>
+    <pubDate>Tue, 12 Dec 2017 14:43:30 -0800</pubDate>
+    <lastBuildDate>Tue, 12 Dec 2017 14:43:30 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Heading home after a good couple of days in San Francisco. My new team at @lyft seems really great and I’m excited to get to my new desk in the Seattle office tomorrow. I’m mostly excited to see my family when I get home.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Dec 2017 14:43:00 -0800</pubDate>
+        <link>http://mb.jsorge.net/2017/12/12/heading-home-after.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/12/heading-home-after.html</guid>
+      </item>
     
       <item>
       	
@@ -451,15 +460,6 @@
         <pubDate>Sat, 05 Aug 2017 21:27:00 -0800</pubDate>
         <link>http://mb.jsorge.net/2017/08/05/pro-tip-the.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/06/pro-tip-the.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Taking my first crack at installing Swift on Linux. Been working to port my company website from sailsjs to Swift using Vapor. It’s quite nice so far.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 05 Aug 2017 21:05:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/08/05/taking-my-first.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/06/taking-my-first.html</guid>
       </item>
     
   </channel>
