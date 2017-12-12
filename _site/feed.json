@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/12/12/first-day-in.html",
+	      	
+			"content_html": "<p>First day in the books and it was a good success. I’m happy to be part of @lyft and excited to see what we can all do together.</p>\n",
+			"date_published": "2017-12-11T19:27:00-08:00",
+			"url": "http://mb.jsorge.net/2017/12/11/first-day-in.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/12/11/first-day-at.html",
 	      	
 			"content_html": "<p>First day at @Lyft! Orientation is about to start. Hoping to get my kit soon and get to work.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>If I have a video loaded from the web (either via progressive download or HLS) and it only has a video track, how can I stop my app from pausing other playing audio? I can’t find any properties on AVPlayer or AVPlayerItem. cc <a href=\"https://micro.blog/invalidname\">@invalidname</a></p>\n",
 			"date_published": "2017-11-29T09:58:00-08:00",
 			"url": "http://mb.jsorge.net/2017/11/29/if-i-have.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/11/29/holy-smokes-the.html",
-	      	
-			"content_html": "<p>Holy smokes the Infinity War trailer looks amazing! I really hope they can pull this off.\n<a href=\"https://m.youtube.com/watch?v=6ZfuNTqbHE8\">m.youtube.com/watch</a></p>\n",
-			"date_published": "2017-11-29T06:23:00-08:00",
-			"url": "http://mb.jsorge.net/2017/11/29/holy-smokes-the.html"
 		}
 		
 	]
