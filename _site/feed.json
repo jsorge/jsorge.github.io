@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/12/13/its-so-nice.html",
+	      	
+			"content_html": "<p>It’s so nice to be home!</p>\n",
+			"date_published": "2017-12-12T19:06:00-08:00",
+			"url": "http://mb.jsorge.net/2017/12/12/its-so-nice.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/12/12/heading-home-after.html",
 	      	
 			"content_html": "<p>Heading home after a good couple of days in San Francisco. My new team at @lyft seems really great and I’m excited to get to my new desk in the Seattle office tomorrow. I’m mostly excited to see my family when I get home.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>In my final hackday at zulily I’m going to be taking our style framework, making a Mac version, and taking that to make a Mac app to render our custom strings on the Mac. First step: figure out how to generalize UIColor and NSColor, as well as UIFont and NSFont.</p>\n",
 			"date_published": "2017-12-01T07:55:00-08:00",
 			"url": "http://mb.jsorge.net/2017/12/01/in-my-final.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/11/29/the-most-painful.html",
-	      	
-			"content_html": "<p>The most painful part of the Swift 3 -&gt; 4 migration isn’t Swift itself (unless you’re dealing with a lot of Strings). It’s the renaming of Foundation typealiases to their own types (i.e. UILayoutPriority, AVMediaType, NSAttributedStringKey, etc)</p>\n",
-			"date_published": "2017-11-29T11:27:00-08:00",
-			"url": "http://mb.jsorge.net/2017/11/29/the-most-painful.html"
 		}
 		
 	]
