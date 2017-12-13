@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Tue, 12 Dec 2017 19:06:47 -0800</pubDate>
-    <lastBuildDate>Tue, 12 Dec 2017 19:06:47 -0800</lastBuildDate>
+    <pubDate>Wed, 13 Dec 2017 08:14:59 -0800</pubDate>
+    <lastBuildDate>Wed, 13 Dec 2017 08:14:59 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’ve never been a serious Gmail user. Now I get to learn how Google has implemented folders and rules to get going.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 13 Dec 2017 08:14:00 -0800</pubDate>
+        <link>http://mb.jsorge.net/2017/12/13/ive-never-been.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/13/ive-never-been.html</guid>
+      </item>
     
       <item>
       	
@@ -451,15 +460,6 @@
         <pubDate>Mon, 07 Aug 2017 11:08:00 -0800</pubDate>
         <link>http://mb.jsorge.net/2017/08/07/i-have-slain.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/07/i-have-slain.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Embarking on a (hopefully) short journey to move one of our table view cells to Auto Layout. We’ve got the same class being used on iPhone and iPad in storyboards for each device, but it’s AL on iPhone and not on the iPad.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 07 Aug 2017 06:35:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/08/07/embarking-on-a.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/07/embarking-on-a.html</guid>
       </item>
     
   </channel>
