@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>http://mb.jsorge.net/</link>
-    <pubDate>Tue, 12 Dec 2017 14:43:30 -0800</pubDate>
-    <lastBuildDate>Tue, 12 Dec 2017 14:43:30 -0800</lastBuildDate>
+    <pubDate>Tue, 12 Dec 2017 19:06:47 -0800</pubDate>
+    <lastBuildDate>Tue, 12 Dec 2017 19:06:47 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;It’s so nice to be home!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Dec 2017 19:06:00 -0800</pubDate>
+        <link>http://mb.jsorge.net/2017/12/12/its-so-nice.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/13/its-so-nice.html</guid>
+      </item>
     
       <item>
       	
@@ -451,15 +460,6 @@
         <pubDate>Mon, 07 Aug 2017 06:35:00 -0800</pubDate>
         <link>http://mb.jsorge.net/2017/08/07/embarking-on-a.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/07/embarking-on-a.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Pro Tip: The swift.org instructions for Linux installations aren’t complete. &lt;a href=&quot;https://bugs.swift.org/browse/SR-2743&quot;&gt;Check out the bug report if you’re getting a libpython error.&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 05 Aug 2017 21:27:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/08/05/pro-tip-the.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/06/pro-tip-the.html</guid>
       </item>
     
   </channel>
