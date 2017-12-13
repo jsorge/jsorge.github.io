@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/12/13/ive-never-been.html",
+	      	
+			"content_html": "<p>I’ve never been a serious Gmail user. Now I get to learn how Google has implemented folders and rules to get going.</p>\n",
+			"date_published": "2017-12-13T08:14:00-08:00",
+			"url": "http://mb.jsorge.net/2017/12/13/ive-never-been.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/12/13/its-so-nice.html",
 	      	
 			"content_html": "<p>It’s so nice to be home!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>In my searching I ran across <a href=\"http://inessential.com/2015/02/05/uxkit_skepticism\">this old [@brentsimmons](https://micro.blog/brentsimmons) blog post</a> which linked to <a href=\"https://github.com/brentsimmons/QSKit/blob/master/Classes/QSPlatform.h\">this header</a> that does exactly what I was looking for. Thanks Brent!</p>\n",
 			"date_published": "2017-12-01T08:35:00-08:00",
 			"url": "http://mb.jsorge.net/2017/12/01/in-my-searching.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/12/01/in-my-final.html",
-	      	
-			"content_html": "<p>In my final hackday at zulily I’m going to be taking our style framework, making a Mac version, and taking that to make a Mac app to render our custom strings on the Mac. First step: figure out how to generalize UIColor and NSColor, as well as UIFont and NSFont.</p>\n",
-			"date_published": "2017-12-01T07:55:00-08:00",
-			"url": "http://mb.jsorge.net/2017/12/01/in-my-final.html"
 		}
 		
 	]
