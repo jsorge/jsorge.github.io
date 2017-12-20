@@ -3,16 +3,25 @@
   <channel>
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
-    <link>http://mb.jsorge.net/</link>
-    <pubDate>Wed, 13 Dec 2017 08:14:59 -0800</pubDate>
-    <lastBuildDate>Wed, 13 Dec 2017 08:14:59 -0800</lastBuildDate>
+    <link>https://mb.jsorge.net/</link>
+    <pubDate>Tue, 19 Dec 2017 21:08:22 -0800</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2017 21:08:22 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;It’s super frustrating wanting to subscribe to someone’s posts and then finding that they’re on Medium. I can never remember how to get at a Medium RSS feed.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Dec 2017 21:08:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2017/12/19/its-super-frustrating.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/20/its-super-frustrating.html</guid>
+      </item>
     
       <item>
       	
         <description>&lt;p&gt;I’ve never been a serious Gmail user. Now I get to learn how Google has implemented folders and rules to get going.&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Dec 2017 08:14:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/12/13/ive-never-been.html</link>
+        <link>https://mb.jsorge.net/2017/12/13/ive-never-been.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/13/ive-never-been.html</guid>
       </item>
     
@@ -21,7 +30,7 @@
         <description>&lt;p&gt;It’s so nice to be home!&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Dec 2017 19:06:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/12/12/its-so-nice.html</link>
+        <link>https://mb.jsorge.net/2017/12/12/its-so-nice.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/13/its-so-nice.html</guid>
       </item>
     
@@ -30,7 +39,7 @@
         <description>&lt;p&gt;Heading home after a good couple of days in San Francisco. My new team at @lyft seems really great and I’m excited to get to my new desk in the Seattle office tomorrow. I’m mostly excited to see my family when I get home.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Dec 2017 14:43:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/12/12/heading-home-after.html</link>
+        <link>https://mb.jsorge.net/2017/12/12/heading-home-after.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/12/heading-home-after.html</guid>
       </item>
     
@@ -39,7 +48,7 @@
         <description>&lt;p&gt;First day in the books and it was a good success. I’m happy to be part of @lyft and excited to see what we can all do together.&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Dec 2017 19:27:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/12/11/first-day-in.html</link>
+        <link>https://mb.jsorge.net/2017/12/11/first-day-in.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/12/first-day-in.html</guid>
       </item>
     
@@ -48,7 +57,7 @@
         <description>&lt;p&gt;First day at @Lyft! Orientation is about to start. Hoping to get my kit soon and get to work.&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Dec 2017 09:28:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/12/11/first-day-at.html</link>
+        <link>https://mb.jsorge.net/2017/12/11/first-day-at.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/11/first-day-at.html</guid>
       </item>
     
@@ -57,7 +66,7 @@
         <description>&lt;p&gt;Safely arrived at the hotel. Gotta be in to the office at 9:15. Whee!&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Dec 2017 00:39:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/12/11/safely-arrived-at.html</link>
+        <link>https://mb.jsorge.net/2017/12/11/safely-arrived-at.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/11/safely-arrived-at.html</guid>
       </item>
     
@@ -66,7 +75,7 @@
         <description>&lt;p&gt;On my way to the airport. I’m San Francisco bound to start my new journey with @lyft! I’ll be there for a couple of days then fly home and I’ll miss my family like crazy. Never been away for this long before.&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Dec 2017 18:58:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/12/10/on-my-way.html</link>
+        <link>https://mb.jsorge.net/2017/12/10/on-my-way.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/11/on-my-way.html</guid>
       </item>
     
@@ -75,7 +84,7 @@
         <description>&lt;p&gt;Today begins my last week at zulily.&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Dec 2017 08:43:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/12/04/today-begins-my.html</link>
+        <link>https://mb.jsorge.net/2017/12/04/today-begins-my.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/04/today-begins-my.html</guid>
       </item>
     
@@ -84,7 +93,7 @@
         <description>&lt;p&gt;And I’ve gotten the skeleton of a Mac app working. This was much simpler than I thought it would be, but the new challenge will be to make the Mac app &lt;em&gt;good&lt;/em&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Dec 2017 09:03:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/12/01/and-ive-gotten.html</link>
+        <link>https://mb.jsorge.net/2017/12/01/and-ive-gotten.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/01/and-ive-gotten.html</guid>
       </item>
     
@@ -93,7 +102,7 @@
         <description>&lt;p&gt;In my searching I ran across &lt;a href=&quot;http://inessential.com/2015/02/05/uxkit_skepticism&quot;&gt;this old [@brentsimmons](https://micro.blog/brentsimmons) blog post&lt;/a&gt; which linked to &lt;a href=&quot;https://github.com/brentsimmons/QSKit/blob/master/Classes/QSPlatform.h&quot;&gt;this header&lt;/a&gt; that does exactly what I was looking for. Thanks Brent!&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Dec 2017 08:35:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/12/01/in-my-searching.html</link>
+        <link>https://mb.jsorge.net/2017/12/01/in-my-searching.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/01/in-my-searching.html</guid>
       </item>
     
@@ -102,7 +111,7 @@
         <description>&lt;p&gt;In my final hackday at zulily I’m going to be taking our style framework, making a Mac version, and taking that to make a Mac app to render our custom strings on the Mac. First step: figure out how to generalize UIColor and NSColor, as well as UIFont and NSFont.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Dec 2017 07:55:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/12/01/in-my-final.html</link>
+        <link>https://mb.jsorge.net/2017/12/01/in-my-final.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/01/in-my-final.html</guid>
       </item>
     
@@ -111,7 +120,7 @@
         <description>&lt;p&gt;The most painful part of the Swift 3 -&amp;gt; 4 migration isn’t Swift itself (unless you’re dealing with a lot of Strings). It’s the renaming of Foundation typealiases to their own types (i.e. UILayoutPriority, AVMediaType, NSAttributedStringKey, etc)&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Nov 2017 11:27:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/11/29/the-most-painful.html</link>
+        <link>https://mb.jsorge.net/2017/11/29/the-most-painful.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/11/29/the-most-painful.html</guid>
       </item>
     
@@ -120,7 +129,7 @@
         <description>&lt;p&gt;If I have a video loaded from the web (either via progressive download or HLS) and it only has a video track, how can I stop my app from pausing other playing audio? I can’t find any properties on AVPlayer or AVPlayerItem. cc &lt;a href=&quot;https://micro.blog/invalidname&quot;&gt;@invalidname&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Nov 2017 09:58:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/11/29/if-i-have.html</link>
+        <link>https://mb.jsorge.net/2017/11/29/if-i-have.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/11/29/if-i-have.html</guid>
       </item>
     
@@ -130,7 +139,7 @@
 &lt;a href=&quot;https://m.youtube.com/watch?v=6ZfuNTqbHE8&quot;&gt;m.youtube.com/watch&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Nov 2017 06:23:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/11/29/holy-smokes-the.html</link>
+        <link>https://mb.jsorge.net/2017/11/29/holy-smokes-the.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/11/29/holy-smokes-the.html</guid>
       </item>
     
@@ -139,7 +148,7 @@
         <description>&lt;p&gt;I really want a Kindle update for the iPhone X. Reading on apps not built for it is such a terrible experience and I’m spoiled to be used to having content on the whole screen.&lt;/p&gt;
 </description>
         <pubDate>Tue, 28 Nov 2017 14:19:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/11/28/i-really-want.html</link>
+        <link>https://mb.jsorge.net/2017/11/28/i-really-want.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/11/28/i-really-want.html</guid>
       </item>
     
@@ -148,7 +157,7 @@
         <description>&lt;p&gt;Ordered a new standing desk from Autonomous. &lt;a href=&quot;https://micro.blog/ben&quot;&gt;@ben&lt;/a&gt; had a favorable review and they’re only $299! &lt;a href=&quot;https://www.autonomous.ai?&amp;amp;rid=f76205&amp;amp;utm_campaign=referrals&amp;amp;utm_source=referrals_twitter&amp;amp;utm_medium=f76205&amp;amp;utm_term=referrals_share&quot;&gt;Check out this link for $25 off&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Nov 2017 21:54:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/11/27/ordered-a-new.html</link>
+        <link>https://mb.jsorge.net/2017/11/27/ordered-a-new.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/11/28/ordered-a-new.html</guid>
       </item>
     
@@ -157,7 +166,7 @@
         <description>&lt;p&gt;After 2+ years at zulily, I’m going to be leaving next Friday. I’ve taken a new job as an iOS developer at @lyft. I’m really excited to get started on 12/11!&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Nov 2017 18:15:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/11/27/after-years-at.html</link>
+        <link>https://mb.jsorge.net/2017/11/27/after-years-at.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/11/28/after-years-at.html</guid>
       </item>
     
@@ -166,7 +175,7 @@
         <description>&lt;p&gt;When I want placeholder text, I always turn to Batman Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Nov 2017 07:28:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/11/03/when-i-want.html</link>
+        <link>https://mb.jsorge.net/2017/11/03/when-i-want.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/11/03/when-i-want.html</guid>
       </item>
     
@@ -175,7 +184,7 @@
         <description>&lt;p&gt;It’s so much fun to watch championship games. I sure hope the Mariners are in one of these someday. But for tonight let’s go Dodgers!&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Nov 2017 16:09:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/11/01/its-so-much.html</link>
+        <link>https://mb.jsorge.net/2017/11/01/its-so-much.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/11/02/its-so-much.html</guid>
       </item>
     
@@ -184,7 +193,7 @@
         <description>&lt;p&gt;Fighting with build settings over and over and over again. Wash, rinse, repeat.&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 Oct 2017 13:26:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/30/fighting-with-build.html</link>
+        <link>https://mb.jsorge.net/2017/10/30/fighting-with-build.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/30/fighting-with-build.html</guid>
       </item>
     
@@ -193,7 +202,7 @@
         <description>&lt;p&gt;Pro tip for future me when renewing my SSL certificate for my blog: restart nginx afterward.&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 Oct 2017 12:18:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/28/pro-tip-for.html</link>
+        <link>https://mb.jsorge.net/2017/10/28/pro-tip-for.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/28/pro-tip-for.html</guid>
       </item>
     
@@ -202,7 +211,7 @@
         <description>&lt;p&gt;Why yes, I did just make a watchOS app to support my Halloween costume. #itcanonlybejared&lt;/p&gt;
 </description>
         <pubDate>Fri, 27 Oct 2017 21:13:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/27/why-yes-i.html</link>
+        <link>https://mb.jsorge.net/2017/10/27/why-yes-i.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/28/why-yes-i.html</guid>
       </item>
     
@@ -211,7 +220,7 @@
         <description>&lt;p&gt;Riding the Seattle light rail for the first time since my last CocoaConf. This time it’s to the @SwiftxNW conference. Super excited for the next two days!&lt;/p&gt;
 </description>
         <pubDate>Fri, 27 Oct 2017 06:11:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/27/riding-the-seattle.html</link>
+        <link>https://mb.jsorge.net/2017/10/27/riding-the-seattle.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/27/riding-the-seattle.html</guid>
       </item>
     
@@ -222,7 +231,7 @@
 &lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2017/8877d2f63c.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 26 Oct 2017 23:12:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/26/holy-crap-im.html</link>
+        <link>https://mb.jsorge.net/2017/10/26/holy-crap-im.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/27/holy-crap-im.html</guid>
       </item>
     
@@ -231,7 +240,7 @@
         <description>&lt;p&gt;D’oh! Not available until 9PM. Oh well.&lt;/p&gt;
 </description>
         <pubDate>Thu, 26 Oct 2017 16:13:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/26/doh-not-available.html</link>
+        <link>https://mb.jsorge.net/2017/10/26/doh-not-available.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/27/doh-not-available.html</guid>
       </item>
     
@@ -240,7 +249,7 @@
         <description>&lt;p&gt;Why yes, I would like to download Super Mario Odyssey. Thanks Amazon!&lt;/p&gt;
 </description>
         <pubDate>Thu, 26 Oct 2017 16:08:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/26/why-yes-i.html</link>
+        <link>https://mb.jsorge.net/2017/10/26/why-yes-i.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/27/why-yes-i.html</guid>
       </item>
     
@@ -249,7 +258,7 @@
         <description>&lt;p&gt;I’m really enjoying updating zulily’s app for the iPhone X. Xcode 9 is such a great upgrade. Kudos to everyone who worked on it!&lt;/p&gt;
 </description>
         <pubDate>Thu, 26 Oct 2017 07:41:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/26/im-really-enjoying.html</link>
+        <link>https://mb.jsorge.net/2017/10/26/im-really-enjoying.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/26/im-really-enjoying.html</guid>
       </item>
     
@@ -258,7 +267,7 @@
         <description>&lt;p&gt;Is there a way to use a git pre-commit hook to add large files to a repo’s LFS file? Is that even how git LFS works?&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Oct 2017 10:20:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/24/is-there-a.html</link>
+        <link>https://mb.jsorge.net/2017/10/24/is-there-a.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/24/is-there-a.html</guid>
       </item>
     
@@ -267,7 +276,7 @@
         <description>&lt;p&gt;Traffic is utterly horrid today. Ugh.&lt;/p&gt;
 </description>
         <pubDate>Thu, 19 Oct 2017 16:08:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/19/traffic-is-utterly.html</link>
+        <link>https://mb.jsorge.net/2017/10/19/traffic-is-utterly.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/20/traffic-is-utterly.html</guid>
       </item>
     
@@ -276,7 +285,7 @@
         <description>&lt;p&gt;I gotta say, running &lt;code&gt;pod deintegrate&lt;/code&gt; feels really good.&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Oct 2017 13:16:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/17/i-gotta-say.html</link>
+        <link>https://mb.jsorge.net/2017/10/17/i-gotta-say.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/17/i-gotta-say.html</guid>
       </item>
     
@@ -285,7 +294,7 @@
         <description>&lt;p&gt;This world is an absolutely heartbreaking, broken place. I’ve been devastated all morning. &lt;a href=&quot;http://q13fox.com/2017/10/16/police-6-year-old-mildly-autistic-boy-missing-in-lynnwood/&quot;&gt;q13fox.com/2017/10/1…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Oct 2017 08:22:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/17/this-world-is.html</link>
+        <link>https://mb.jsorge.net/2017/10/17/this-world-is.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/17/this-world-is.html</guid>
       </item>
     
@@ -294,7 +303,7 @@
         <description>&lt;p&gt;Put the micro.blog Mac app on my work machine, but I’m on Sierra. Considering going rogue and upgrading to HS before IT approves it.&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Oct 2017 06:54:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/17/put-the-microblog.html</link>
+        <link>https://mb.jsorge.net/2017/10/17/put-the-microblog.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/17/put-the-microblog.html</guid>
       </item>
     
@@ -303,7 +312,7 @@
         <description>&lt;p&gt;The Working Copy iOS app is quite a wonder. It’s a full git client on my phone &amp;amp; tablet!&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Oct 2017 05:40:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/17/the-working-copy.html</link>
+        <link>https://mb.jsorge.net/2017/10/17/the-working-copy.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/17/the-working-copy.html</guid>
       </item>
     
@@ -312,7 +321,7 @@
         <description>&lt;p&gt;Yay for minor dental surgery. Here’s to soft foods for the next week.&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Oct 2017 17:01:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/16/yay-for-minor.html</link>
+        <link>https://mb.jsorge.net/2017/10/16/yay-for-minor.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/17/yay-for-minor.html</guid>
       </item>
     
@@ -321,7 +330,7 @@
         <description>&lt;p&gt;Working with @FrontierCorp billing is almost worse than @ComcastCares. Signed up for a 2 year plan and they didn’t tell me my promo price ($79) was for 6 months and would go up to $114 for the rest of my “2 year term”, after which I can re-negotiate for any promo.&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Oct 2017 12:49:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/16/working-with-frontiercorp.html</link>
+        <link>https://mb.jsorge.net/2017/10/16/working-with-frontiercorp.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/16/working-with-frontiercorp.html</guid>
       </item>
     
@@ -330,7 +339,7 @@
         <description>&lt;p&gt;Dear Collection View, why won’t you reload cells when I tell you to reload a section? I really want you to animate this change. Sincerly, me&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Oct 2017 12:09:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/16/dear-collection-view.html</link>
+        <link>https://mb.jsorge.net/2017/10/16/dear-collection-view.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/16/dear-collection-view.html</guid>
       </item>
     
@@ -339,7 +348,7 @@
         <description>&lt;p&gt;I just discovered that there’s a free express version of Capture One for Sony camera users. Looking forward to playing with it as a better importer than Photos.app.&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Oct 2017 14:41:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/15/i-just-discovered.html</link>
+        <link>https://mb.jsorge.net/2017/10/15/i-just-discovered.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/15/i-just-discovered.html</guid>
       </item>
     
@@ -348,7 +357,7 @@
         <description>&lt;p&gt;If anyone has experience linking multiple static frameworks into a dylib, I’d be greateful if you would look over &lt;a href=&quot;https://stackoverflow.com/questions/46675792/trying-to-merge-static-frameworks-using-carthage&quot;&gt;this question on Stack Overflow.&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Oct 2017 12:52:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/10/if-anyone-has.html</link>
+        <link>https://mb.jsorge.net/2017/10/10/if-anyone-has.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/10/if-anyone-has.html</guid>
       </item>
     
@@ -359,7 +368,7 @@
 &lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2017/6a90f494ec.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Oct 2017 17:50:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/03/watching-playoff-baseball.html</link>
+        <link>https://mb.jsorge.net/2017/10/03/watching-playoff-baseball.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/04/watching-playoff-baseball.html</guid>
       </item>
     
@@ -368,7 +377,7 @@
         <description>&lt;p&gt;Trying to migrate from CocoaPods to a Carthage Static Framework is much more challenging than I anticipated.&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Oct 2017 10:49:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/03/trying-to-migrate.html</link>
+        <link>https://mb.jsorge.net/2017/10/03/trying-to-migrate.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/03/trying-to-migrate.html</guid>
       </item>
     
@@ -377,7 +386,7 @@
         <description>&lt;p&gt;Thanks to &lt;a href=&quot;https://twitter.com/timothyekl/status/915279780899037189&quot;&gt;@timothyekl&lt;/a&gt; for pointing me in the right direction. Now I’ve got an external_bash_profile that syncs in iCloud Drive across my machines, and I can maintain some sanity when context switching.&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Oct 2017 10:34:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/03/183402.html</link>
+        <link>https://mb.jsorge.net/2017/10/03/183402.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/03/183402.html</guid>
       </item>
     
@@ -386,7 +395,7 @@
         <description>&lt;p&gt;Is it possible to import a file into bash_profile? I’m hoping to setup some sync’d file that can have things that I want across machines, and below that import statement have things that I want local on my given machine.&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Oct 2017 09:49:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/10/03/is-it-possible.html</link>
+        <link>https://mb.jsorge.net/2017/10/03/is-it-possible.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/03/is-it-possible.html</guid>
       </item>
     
@@ -395,7 +404,7 @@
         <description>&lt;p&gt;Got my new Series 3 watch (no LTE) all setup. This thing is really fast!&lt;/p&gt;
 </description>
         <pubDate>Fri, 22 Sep 2017 20:05:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/09/22/got-my-new.html</link>
+        <link>https://mb.jsorge.net/2017/09/22/got-my-new.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/09/23/got-my-new.html</guid>
       </item>
     
@@ -404,7 +413,7 @@
         <description>&lt;p&gt;Just picked up The Caledonian Gambit by Dan Moren for my Kindle. It’s on sale for $1.99 and I just finished up a book last week. Stoked to give this a whirl.&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Sep 2017 12:04:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/09/05/just-picked-up.html</link>
+        <link>https://mb.jsorge.net/2017/09/05/just-picked-up.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/09/05/just-picked-up.html</guid>
       </item>
     
@@ -413,7 +422,7 @@
         <description>&lt;p&gt;Is there any alternative to Lightroom that doesn’t charge a subscription fee? I’m wanting to improve my photo import workflow since I currently use Photos.app exclusively (importing everything and usually keeping it all too). I’m hoping there’s an Acorn or Pixelmator equivalent to it.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Aug 2017 16:37:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/08/30/is-there-any.html</link>
+        <link>https://mb.jsorge.net/2017/08/30/is-there-any.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/31/is-there-any.html</guid>
       </item>
     
@@ -422,7 +431,7 @@
         <description>&lt;p&gt;Been off the communication grid for the last few days. What did I miss?&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Aug 2017 12:28:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/08/25/been-off-the.html</link>
+        <link>https://mb.jsorge.net/2017/08/25/been-off-the.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/25/been-off-the.html</guid>
       </item>
     
@@ -431,7 +440,7 @@
         <description>&lt;p&gt;I just found out about @objcMembers and now my Swift 4 migration for the zulily app is going to be WAY smoother. &lt;a href=&quot;http://evgenii.com/blog/disabling-swift3-objc-inference-in-xcode9/&quot;&gt;Scroll to the bottom of this page&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 11 Aug 2017 13:57:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/08/11/i-just-found.html</link>
+        <link>https://mb.jsorge.net/2017/08/11/i-just-found.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/11/i-just-found.html</guid>
       </item>
     
@@ -440,7 +449,7 @@
         <description>&lt;p&gt;After using Messages on my iPhone in iOS 11 for the past couple of days I’m convinced that the new bottom row of app icons is there for the new iPhone Pro (or whatever it’s called). It’s super inconvenient to not have the text field at the very bottom of the screen.&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Aug 2017 11:23:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/08/09/after-using-messages.html</link>
+        <link>https://mb.jsorge.net/2017/08/09/after-using-messages.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/09/after-using-messages.html</guid>
       </item>
     
@@ -449,17 +458,8 @@
         <description>&lt;p&gt;Pulling the trigger and installing iOS 11 b5 on my carry phone. &lt;a href=&quot;https://media.giphy.com/media/OCu7zWojqFA1W/giphy.gif&quot;&gt;media.giphy.com/media/OCu…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Aug 2017 11:52:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/08/07/pulling-the-trigger.html</link>
+        <link>https://mb.jsorge.net/2017/08/07/pulling-the-trigger.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/07/pulling-the-trigger.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I have slain the manual layout dragon!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 07 Aug 2017 11:08:00 -0800</pubDate>
-        <link>http://mb.jsorge.net/2017/08/07/i-have-slain.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/07/i-have-slain.html</guid>
       </item>
     
   </channel>
