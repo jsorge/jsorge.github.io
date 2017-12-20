@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/12/20/filed-a-radar.html",
+	      	
+			"content_html": "<p>Filed a radar using markdown in the description. Then realized that Bug Reporter doesn’t support markdown rendering. So I filed another asking for that feature. Radars all the way down!</p>\n",
+			"date_published": "2017-12-20T15:37:00-08:00",
+			"url": "https://mb.jsorge.net/2017/12/20/filed-a-radar.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/12/20/its-super-frustrating.html",
 	      	
 			"content_html": "<p>It’s super frustrating wanting to subscribe to someone’s posts and then finding that they’re on Medium. I can never remember how to get at a Medium RSS feed.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Today begins my last week at zulily.</p>\n",
 			"date_published": "2017-12-04T08:43:00-08:00",
 			"url": "https://mb.jsorge.net/2017/12/04/today-begins-my.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/12/01/and-ive-gotten.html",
-	      	
-			"content_html": "<p>And I’ve gotten the skeleton of a Mac app working. This was much simpler than I thought it would be, but the new challenge will be to make the Mac app <em>good</em>.</p>\n",
-			"date_published": "2017-12-01T09:03:00-08:00",
-			"url": "https://mb.jsorge.net/2017/12/01/and-ive-gotten.html"
 		}
 		
 	]
