@@ -1,16 +1,24 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Jared Sorge",
-	"home_page_url": "http://mb.jsorge.net/",
-	"feed_url": "http://mb.jsorge.net/feed.json",
+	"home_page_url": "https://mb.jsorge.net/",
+	"feed_url": "https://mb.jsorge.net/feed.json",
 	"items": [
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/20/its-super-frustrating.html",
+	      	
+			"content_html": "<p>It’s super frustrating wanting to subscribe to someone’s posts and then finding that they’re on Medium. I can never remember how to get at a Medium RSS feed.</p>\n",
+			"date_published": "2017-12-19T21:08:00-08:00",
+			"url": "https://mb.jsorge.net/2017/12/19/its-super-frustrating.html"
+		},
 		
 		{
 			"id": "http://jsorge.micro.blog/2017/12/13/ive-never-been.html",
 	      	
 			"content_html": "<p>I’ve never been a serious Gmail user. Now I get to learn how Google has implemented folders and rules to get going.</p>\n",
 			"date_published": "2017-12-13T08:14:00-08:00",
-			"url": "http://mb.jsorge.net/2017/12/13/ive-never-been.html"
+			"url": "https://mb.jsorge.net/2017/12/13/ive-never-been.html"
 		},
 		
 		{
@@ -18,7 +26,7 @@
 	      	
 			"content_html": "<p>It’s so nice to be home!</p>\n",
 			"date_published": "2017-12-12T19:06:00-08:00",
-			"url": "http://mb.jsorge.net/2017/12/12/its-so-nice.html"
+			"url": "https://mb.jsorge.net/2017/12/12/its-so-nice.html"
 		},
 		
 		{
@@ -26,7 +34,7 @@
 	      	
 			"content_html": "<p>Heading home after a good couple of days in San Francisco. My new team at @lyft seems really great and I’m excited to get to my new desk in the Seattle office tomorrow. I’m mostly excited to see my family when I get home.</p>\n",
 			"date_published": "2017-12-12T14:43:00-08:00",
-			"url": "http://mb.jsorge.net/2017/12/12/heading-home-after.html"
+			"url": "https://mb.jsorge.net/2017/12/12/heading-home-after.html"
 		},
 		
 		{
@@ -34,7 +42,7 @@
 	      	
 			"content_html": "<p>First day in the books and it was a good success. I’m happy to be part of @lyft and excited to see what we can all do together.</p>\n",
 			"date_published": "2017-12-11T19:27:00-08:00",
-			"url": "http://mb.jsorge.net/2017/12/11/first-day-in.html"
+			"url": "https://mb.jsorge.net/2017/12/11/first-day-in.html"
 		},
 		
 		{
@@ -42,7 +50,7 @@
 	      	
 			"content_html": "<p>First day at @Lyft! Orientation is about to start. Hoping to get my kit soon and get to work.</p>\n",
 			"date_published": "2017-12-11T09:28:00-08:00",
-			"url": "http://mb.jsorge.net/2017/12/11/first-day-at.html"
+			"url": "https://mb.jsorge.net/2017/12/11/first-day-at.html"
 		},
 		
 		{
@@ -50,7 +58,7 @@
 	      	
 			"content_html": "<p>Safely arrived at the hotel. Gotta be in to the office at 9:15. Whee!</p>\n",
 			"date_published": "2017-12-11T00:39:00-08:00",
-			"url": "http://mb.jsorge.net/2017/12/11/safely-arrived-at.html"
+			"url": "https://mb.jsorge.net/2017/12/11/safely-arrived-at.html"
 		},
 		
 		{
@@ -58,7 +66,7 @@
 	      	
 			"content_html": "<p>On my way to the airport. I’m San Francisco bound to start my new journey with @lyft! I’ll be there for a couple of days then fly home and I’ll miss my family like crazy. Never been away for this long before.</p>\n",
 			"date_published": "2017-12-10T18:58:00-08:00",
-			"url": "http://mb.jsorge.net/2017/12/10/on-my-way.html"
+			"url": "https://mb.jsorge.net/2017/12/10/on-my-way.html"
 		},
 		
 		{
@@ -66,7 +74,7 @@
 	      	
 			"content_html": "<p>Today begins my last week at zulily.</p>\n",
 			"date_published": "2017-12-04T08:43:00-08:00",
-			"url": "http://mb.jsorge.net/2017/12/04/today-begins-my.html"
+			"url": "https://mb.jsorge.net/2017/12/04/today-begins-my.html"
 		},
 		
 		{
@@ -74,15 +82,7 @@
 	      	
 			"content_html": "<p>And I’ve gotten the skeleton of a Mac app working. This was much simpler than I thought it would be, but the new challenge will be to make the Mac app <em>good</em>.</p>\n",
 			"date_published": "2017-12-01T09:03:00-08:00",
-			"url": "http://mb.jsorge.net/2017/12/01/and-ive-gotten.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/12/01/in-my-searching.html",
-	      	
-			"content_html": "<p>In my searching I ran across <a href=\"http://inessential.com/2015/02/05/uxkit_skepticism\">this old [@brentsimmons](https://micro.blog/brentsimmons) blog post</a> which linked to <a href=\"https://github.com/brentsimmons/QSKit/blob/master/Classes/QSPlatform.h\">this header</a> that does exactly what I was looking for. Thanks Brent!</p>\n",
-			"date_published": "2017-12-01T08:35:00-08:00",
-			"url": "http://mb.jsorge.net/2017/12/01/in-my-searching.html"
+			"url": "https://mb.jsorge.net/2017/12/01/and-ive-gotten.html"
 		}
 		
 	]
