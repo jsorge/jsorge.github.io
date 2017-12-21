@@ -4,8 +4,28 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Thu, 21 Dec 2017 09:08:08 -0800</pubDate>
-    <lastBuildDate>Thu, 21 Dec 2017 09:08:08 -0800</lastBuildDate>
+    <pubDate>Thu, 21 Dec 2017 11:39:53 -0800</pubDate>
+    <lastBuildDate>Thu, 21 Dec 2017 11:39:53 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;My hope for a UnicornKit framework is merely a simpler way to make a great Mac app. I’ve tried my hand at it a couple of times and there are some huge differences between AppKit and UIKit that trip me up.&lt;/p&gt;
+
+&lt;p&gt;But I also haven’t put all the time into it that I want/need to.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Dec 2017 11:39:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2017/12/21/my-hope-for.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/21/my-hope-for.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;http://shapeof.com/archives/2017/12/bloomberg_single_ui_experience.html&quot;&gt;There are so many quotable lines in Gus’s post that you should really just go read it.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Dec 2017 11:38:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2017/12/21/there-are-so.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/21/there-are-so.html</guid>
+      </item>
     
       <item>
       	
@@ -442,24 +462,6 @@
         <pubDate>Tue, 05 Sep 2017 12:04:00 -0800</pubDate>
         <link>https://mb.jsorge.net/2017/09/05/just-picked-up.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/09/05/just-picked-up.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Is there any alternative to Lightroom that doesn’t charge a subscription fee? I’m wanting to improve my photo import workflow since I currently use Photos.app exclusively (importing everything and usually keeping it all too). I’m hoping there’s an Acorn or Pixelmator equivalent to it.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 30 Aug 2017 16:37:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2017/08/30/is-there-any.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/31/is-there-any.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Been off the communication grid for the last few days. What did I miss?&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Aug 2017 12:28:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2017/08/25/been-off-the.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/25/been-off-the.html</guid>
       </item>
     
   </channel>
