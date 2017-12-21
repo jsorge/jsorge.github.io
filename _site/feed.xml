@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Wed, 20 Dec 2017 21:48:11 -0800</pubDate>
-    <lastBuildDate>Wed, 20 Dec 2017 21:48:11 -0800</lastBuildDate>
+    <pubDate>Thu, 21 Dec 2017 09:08:08 -0800</pubDate>
+    <lastBuildDate>Thu, 21 Dec 2017 09:08:08 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I must be missing something, but I can’t figure out why Mail.app shows 32 unread messages in my work Gmail inbox but the website shows 0 unread messages. I see 14 messages on the site but 43 in the app. Is it just wrong to attempt to use Mail.app with Gmail?&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Dec 2017 09:08:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2017/12/21/i-must-be.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/21/i-must-be.html</guid>
+      </item>
     
       <item>
       	
@@ -451,15 +460,6 @@
         <pubDate>Fri, 25 Aug 2017 12:28:00 -0800</pubDate>
         <link>https://mb.jsorge.net/2017/08/25/been-off-the.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/25/been-off-the.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I just found out about @objcMembers and now my Swift 4 migration for the zulily app is going to be WAY smoother. &lt;a href=&quot;http://evgenii.com/blog/disabling-swift3-objc-inference-in-xcode9/&quot;&gt;Scroll to the bottom of this page&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 11 Aug 2017 13:57:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2017/08/11/i-just-found.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/08/11/i-just-found.html</guid>
       </item>
     
   </channel>
