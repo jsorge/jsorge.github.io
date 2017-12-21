@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2017/12/21/new-blog-post.html",
+	      	
+			"content_html": "<p>New blog post: Missing Options in Swift <a href=\"https://jsorge.net/2017/12/20/missing-options-in-swift/\">jsorge.net/2017/12/2…</a></p>\n",
+			"date_published": "2017-12-20T21:48:00-08:00",
+			"url": "https://mb.jsorge.net/2017/12/20/new-blog-post.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2017/12/20/filed-a-radar.html",
 	      	
 			"content_html": "<p>Filed a radar using markdown in the description. Then realized that Bug Reporter doesn’t support markdown rendering. So I filed another asking for that feature. Radars all the way down!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>On my way to the airport. I’m San Francisco bound to start my new journey with @lyft! I’ll be there for a couple of days then fly home and I’ll miss my family like crazy. Never been away for this long before.</p>\n",
 			"date_published": "2017-12-10T18:58:00-08:00",
 			"url": "https://mb.jsorge.net/2017/12/10/on-my-way.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/12/04/today-begins-my.html",
-	      	
-			"content_html": "<p>Today begins my last week at zulily.</p>\n",
-			"date_published": "2017-12-04T08:43:00-08:00",
-			"url": "https://mb.jsorge.net/2017/12/04/today-begins-my.html"
 		}
 		
 	]
