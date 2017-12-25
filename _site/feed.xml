@@ -4,8 +4,19 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Sun, 24 Dec 2017 16:59:21 -0800</pubDate>
-    <lastBuildDate>Sun, 24 Dec 2017 16:59:21 -0800</lastBuildDate>
+    <pubDate>Mon, 25 Dec 2017 07:32:11 -0800</pubDate>
+    <lastBuildDate>Mon, 25 Dec 2017 07:32:11 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;It’s a white Christmas morning!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2017/f268a14e53.jpg&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Dec 2017 07:32:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2017/12/25/its-a-white.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/25/its-a-white.html</guid>
+      </item>
     
       <item>
       	
@@ -455,15 +466,6 @@
         <pubDate>Tue, 03 Oct 2017 10:49:00 -0800</pubDate>
         <link>https://mb.jsorge.net/2017/10/03/trying-to-migrate.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/03/trying-to-migrate.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Thanks to &lt;a href=&quot;https://twitter.com/timothyekl/status/915279780899037189&quot;&gt;@timothyekl&lt;/a&gt; for pointing me in the right direction. Now I’ve got an external_bash_profile that syncs in iCloud Drive across my machines, and I can maintain some sanity when context switching.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Oct 2017 10:34:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2017/10/03/183402.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/03/183402.html</guid>
       </item>
     
   </channel>
