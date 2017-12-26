@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Mon, 25 Dec 2017 07:32:11 -0800</pubDate>
-    <lastBuildDate>Mon, 25 Dec 2017 07:32:11 -0800</lastBuildDate>
+    <pubDate>Tue, 26 Dec 2017 07:49:27 -0800</pubDate>
+    <lastBuildDate>Tue, 26 Dec 2017 07:49:27 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I love iCloud Keychain syncing between my devices. But I don’t love how my phone will tether to my iPad when my laptop does. I &lt;em&gt;never&lt;/em&gt; want to tether my phone to my iPad.  &lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Dec 2017 07:46:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2017/12/26/i-love-icloud.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/26/i-love-icloud.html</guid>
+      </item>
     
       <item>
       	
@@ -457,15 +466,6 @@
         <pubDate>Tue, 03 Oct 2017 17:50:00 -0800</pubDate>
         <link>https://mb.jsorge.net/2017/10/03/watching-playoff-baseball.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/04/watching-playoff-baseball.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Trying to migrate from CocoaPods to a Carthage Static Framework is much more challenging than I anticipated.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Oct 2017 10:49:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2017/10/03/trying-to-migrate.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/03/trying-to-migrate.html</guid>
       </item>
     
   </channel>
