@@ -4,8 +4,19 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Wed, 27 Dec 2017 09:39:37 -0800</pubDate>
-    <lastBuildDate>Wed, 27 Dec 2017 09:39:37 -0800</lastBuildDate>
+    <pubDate>Thu, 28 Dec 2017 07:16:14 -0800</pubDate>
+    <lastBuildDate>Thu, 28 Dec 2017 07:16:14 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Well the dongle life seems to be failing me. My beloved MS Sculpt keyboard doesn’t want to work when it’s dongle is plugged into a USB hub which is then converted to USB C. Has anyone gotten this working on a 2017 MacBook Pro?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2017/65efcb7cc6.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Dec 2017 07:16:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2017/12/28/well-the-dongle.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/28/well-the-dongle.html</guid>
+      </item>
     
       <item>
       	
@@ -455,15 +466,6 @@
         <pubDate>Sun, 15 Oct 2017 14:41:00 -0800</pubDate>
         <link>https://mb.jsorge.net/2017/10/15/i-just-discovered.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/15/i-just-discovered.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;If anyone has experience linking multiple static frameworks into a dylib, I’d be greateful if you would look over &lt;a href=&quot;https://stackoverflow.com/questions/46675792/trying-to-merge-static-frameworks-using-carthage&quot;&gt;this question on Stack Overflow.&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 10 Oct 2017 12:52:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2017/10/10/if-anyone-has.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/10/if-anyone-has.html</guid>
       </item>
     
   </channel>
