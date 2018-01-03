@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/01/03/i-closed-out.html",
+	      	
+			"content_html": "<p>I closed out yesterday by realizing a bunch of work that I’d stashed I had done so without including untracked files, so I lost a bunch when I re-applied the stash. Thus, I start today by re-creating a bunch of work I did yesterday. Hopefully I can do it better this time around.</p>\n",
+			"date_published": "2018-01-03T07:32:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/03/i-closed-out.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/01/03/i-finished-my.html",
 	      	
 			"content_html": "<p>I finished my Bible in a year plan yesterday, and want to take the next several months and study Isaiah. Does anyone have a good commentary that they can recommend?</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>My kingdom for the ability to copy/paste in the Keychain lock/unlock password entry field.</p>\n",
 			"date_published": "2017-12-27T09:39:00-08:00",
 			"url": "https://mb.jsorge.net/2017/12/27/my-kingdom-for.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/12/26/i-love-icloud.html",
-	      	
-			"content_html": "<p>I love iCloud Keychain syncing between my devices. But I don’t love how my phone will tether to my iPad when my laptop does. I <em>never</em> want to tether my phone to my iPad.  </p>\n",
-			"date_published": "2017-12-26T07:46:00-08:00",
-			"url": "https://mb.jsorge.net/2017/12/26/i-love-icloud.html"
 		}
 		
 	]
