@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/01/03/i-finished-my.html",
+	      	
+			"content_html": "<p>I finished my Bible in a year plan yesterday, and want to take the next several months and study Isaiah. Does anyone have a good commentary that they can recommend?</p>\n",
+			"date_published": "2018-01-03T05:33:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/03/i-finished-my.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/01/03/i-think-it.html",
 	      	
 			"content_html": "<p>I think it would be cool to do a picture a day challenge,  it I have no idea what I’d photograph on days when my life feels like the same routine over and over again. How do people find new and interesting things to shoot during the same daily routines?</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I love iCloud Keychain syncing between my devices. But I don’t love how my phone will tether to my iPad when my laptop does. I <em>never</em> want to tether my phone to my iPad.  </p>\n",
 			"date_published": "2017-12-26T07:46:00-08:00",
 			"url": "https://mb.jsorge.net/2017/12/26/i-love-icloud.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/12/25/its-a-white.html",
-	      	
-			"content_html": "<p>It’s a white Christmas morning!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2017/f268a14e53.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2017-12-25T07:32:00-08:00",
-			"url": "https://mb.jsorge.net/2017/12/25/its-a-white.html"
 		}
 		
 	]
