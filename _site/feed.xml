@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Wed, 03 Jan 2018 05:33:03 -0800</pubDate>
-    <lastBuildDate>Wed, 03 Jan 2018 05:33:03 -0800</lastBuildDate>
+    <pubDate>Wed, 03 Jan 2018 07:32:23 -0800</pubDate>
+    <lastBuildDate>Wed, 03 Jan 2018 07:32:23 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I closed out yesterday by realizing a bunch of work that I’d stashed I had done so without including untracked files, so I lost a bunch when I re-applied the stash. Thus, I start today by re-creating a bunch of work I did yesterday. Hopefully I can do it better this time around.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Jan 2018 07:32:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2018/01/03/i-closed-out.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/01/03/i-closed-out.html</guid>
+      </item>
     
       <item>
       	
@@ -463,15 +472,6 @@
         <pubDate>Thu, 19 Oct 2017 16:08:00 -0800</pubDate>
         <link>https://mb.jsorge.net/2017/10/19/traffic-is-utterly.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/20/traffic-is-utterly.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I gotta say, running &lt;code&gt;pod deintegrate&lt;/code&gt; feels really good.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 17 Oct 2017 13:16:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2017/10/17/i-gotta-say.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/17/i-gotta-say.html</guid>
       </item>
     
   </channel>
