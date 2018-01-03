@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/01/03/im-looking-for.html",
+	      	
+			"content_html": "<p>I’m looking for a MacBook Pro stand that can work with my older 2014 retina model and my 2017 work-issued TouchBar model. The <a href=\"https://www.twelvesouth.com/store/product/bookarc-mod-for-macbook-espresso\">BookArc möd</a> looks great but they say it doesn’t work that way. Any ideas?</p>\n",
+			"date_published": "2018-01-03T12:29:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/03/im-looking-for.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/01/03/i-closed-out.html",
 	      	
 			"content_html": "<p>I closed out yesterday by realizing a bunch of work that I’d stashed I had done so without including untracked files, so I lost a bunch when I re-applied the stash. Thus, I start today by re-creating a bunch of work I did yesterday. Hopefully I can do it better this time around.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Well the dongle life seems to be failing me. My beloved MS Sculpt keyboard doesn’t want to work when it’s dongle is plugged into a USB hub which is then converted to USB C. Has anyone gotten this working on a 2017 MacBook Pro?</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2017/65efcb7cc6.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-28T07:16:00-08:00",
 			"url": "https://mb.jsorge.net/2017/12/28/well-the-dongle.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/12/27/my-kingdom-for.html",
-	      	
-			"content_html": "<p>My kingdom for the ability to copy/paste in the Keychain lock/unlock password entry field.</p>\n",
-			"date_published": "2017-12-27T09:39:00-08:00",
-			"url": "https://mb.jsorge.net/2017/12/27/my-kingdom-for.html"
 		}
 		
 	]
