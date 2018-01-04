@@ -4,8 +4,19 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Wed, 03 Jan 2018 12:29:41 -0800</pubDate>
-    <lastBuildDate>Wed, 03 Jan 2018 12:29:41 -0800</lastBuildDate>
+    <pubDate>Wed, 03 Jan 2018 19:27:41 -0800</pubDate>
+    <lastBuildDate>Wed, 03 Jan 2018 19:27:41 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’m starting the Creative Photography Challenge from CreativeLive. Day 1 was to take a motion blurred shot. I took it at Ash Way Park and Ride in Lynnwood. Thanks to &lt;a href=&quot;https://micro.blog/dh&quot;&gt;@dh&lt;/a&gt; for suggesting the course to me!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2018/6c2de06477.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Jan 2018 19:27:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2018/01/03/im-starting-the.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/01/04/im-starting-the.html</guid>
+      </item>
     
       <item>
       	
@@ -463,15 +474,6 @@
         <pubDate>Thu, 26 Oct 2017 07:41:00 -0800</pubDate>
         <link>https://mb.jsorge.net/2017/10/26/im-really-enjoying.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/26/im-really-enjoying.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Is there a way to use a git pre-commit hook to add large files to a repo’s LFS file? Is that even how git LFS works?&lt;/p&gt;
-</description>
-        <pubDate>Tue, 24 Oct 2017 10:20:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2017/10/24/is-there-a.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/24/is-there-a.html</guid>
       </item>
     
   </channel>
