@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/01/04/im-starting-the.html",
+	      	
+			"content_html": "<p>I’m starting the Creative Photography Challenge from CreativeLive. Day 1 was to take a motion blurred shot. I took it at Ash Way Park and Ride in Lynnwood. Thanks to <a href=\"https://micro.blog/dh\">@dh</a> for suggesting the course to me!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/6c2de06477.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-01-03T19:27:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/03/im-starting-the.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/01/03/im-looking-for.html",
 	      	
 			"content_html": "<p>I’m looking for a MacBook Pro stand that can work with my older 2014 retina model and my 2017 work-issued TouchBar model. The <a href=\"https://www.twelvesouth.com/store/product/bookarc-mod-for-macbook-espresso\">BookArc möd</a> looks great but they say it doesn’t work that way. Any ideas?</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Today we celebrated our Atticus Jack turning 4. It’s so crazy how fast the time has gone. We took him bowling for the first time, and after we got the shoes on his feet he had a great time.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2017/cbf1d58ade.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-30T20:40:00-08:00",
 			"url": "https://mb.jsorge.net/2017/12/30/today-we-celebrated.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2017/12/28/well-the-dongle.html",
-	      	
-			"content_html": "<p>Well the dongle life seems to be failing me. My beloved MS Sculpt keyboard doesn’t want to work when it’s dongle is plugged into a USB hub which is then converted to USB C. Has anyone gotten this working on a 2017 MacBook Pro?</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2017/65efcb7cc6.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-28T07:16:00-08:00",
-			"url": "https://mb.jsorge.net/2017/12/28/well-the-dongle.html"
 		}
 		
 	]
