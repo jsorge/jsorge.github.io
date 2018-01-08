@@ -4,8 +4,26 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Sun, 07 Jan 2018 16:14:40 -0800</pubDate>
-    <lastBuildDate>Sun, 07 Jan 2018 16:14:40 -0800</lastBuildDate>
+    <pubDate>Sun, 07 Jan 2018 20:46:47 -0800</pubDate>
+    <lastBuildDate>Sun, 07 Jan 2018 20:46:47 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Didn’t realize that Star Trek: Discovery came back today. Guess I’ve got my show to watch on the bus in the morning!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Jan 2018 20:46:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2018/01/07/didnt-realize-that.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/01/08/didnt-realize-that.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Learning all about h-feed, h-entry, and all the things that compose them. Feeling a little out of my element but excited to learn and contribute to an open source project.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Jan 2018 20:45:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2018/01/07/learning-all-about.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/01/08/learning-all-about.html</guid>
+      </item>
     
       <item>
       	
@@ -458,26 +476,6 @@
         <pubDate>Fri, 27 Oct 2017 21:13:00 -0800</pubDate>
         <link>https://mb.jsorge.net/2017/10/27/why-yes-i.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/28/why-yes-i.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Riding the Seattle light rail for the first time since my last CocoaConf. This time it’s to the @SwiftxNW conference. Super excited for the next two days!&lt;/p&gt;
-</description>
-        <pubDate>Fri, 27 Oct 2017 06:11:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2017/10/27/riding-the-seattle.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/27/riding-the-seattle.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Holy crap! I’m getting an iPhone X on launch day!!!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2017/8877d2f63c.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 26 Oct 2017 23:12:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2017/10/26/holy-crap-im.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/27/holy-crap-im.html</guid>
       </item>
     
   </channel>
