@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/01/09/im-watching-the.html",
+	      	
+			"content_html": "<p>I’m watching the latest Swift Talk from the Objc.io guys, and they are refactoring some layout code using <code>UIOffset</code> to introduce spacing. I’ve never heard of that type before! I love watching stuff like this even for no other reason than to learn little things like this.</p>\n",
+			"date_published": "2018-01-09T08:27:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/09/im-watching-the.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/01/09/its-really-fun.html",
 	      	
 			"content_html": "<p>It’s really fun to use the Deliveries app to track the crazy route my new monitor has taken to get from New Jersey to Seattle. Tomorrow I receive it!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/750a6347aa.jpg\" width=\"417\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I closed out yesterday by realizing a bunch of work that I’d stashed I had done so without including untracked files, so I lost a bunch when I re-applied the stash. Thus, I start today by re-creating a bunch of work I did yesterday. Hopefully I can do it better this time around.</p>\n",
 			"date_published": "2018-01-03T07:32:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/03/i-closed-out.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/03/i-finished-my.html",
-	      	
-			"content_html": "<p>I finished my Bible in a year plan yesterday, and want to take the next several months and study Isaiah. Does anyone have a good commentary that they can recommend?</p>\n",
-			"date_published": "2018-01-03T05:33:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/03/i-finished-my.html"
 		}
 		
 	]
