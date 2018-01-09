@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/01/09/i-love-being.html",
+	      	
+			"content_html": "<p>I love being able to tune into work meetings r motley. I can keep up to date while on my commute home. And it’s awesome!</p>\n",
+			"date_published": "2018-01-09T15:20:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/09/i-love-being.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/01/09/im-watching-the.html",
 	      	
 			"content_html": "<p>I’m watching the latest Swift Talk from the Objc.io guys, and they are refactoring some layout code using <code>UIOffset</code> to introduce spacing. I’ve never heard of that type before! I love watching stuff like this even for no other reason than to learn little things like this.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I’m looking for a MacBook Pro stand that can work with my older 2014 retina model and my 2017 work-issued TouchBar model. The <a href=\"https://www.twelvesouth.com/store/product/bookarc-mod-for-macbook-espresso\">BookArc möd</a> looks great but they say it doesn’t work that way. Any ideas?</p>\n",
 			"date_published": "2018-01-03T12:29:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/03/im-looking-for.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/03/i-closed-out.html",
-	      	
-			"content_html": "<p>I closed out yesterday by realizing a bunch of work that I’d stashed I had done so without including untracked files, so I lost a bunch when I re-applied the stash. Thus, I start today by re-creating a bunch of work I did yesterday. Hopefully I can do it better this time around.</p>\n",
-			"date_published": "2018-01-03T07:32:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/03/i-closed-out.html"
 		}
 		
 	]
