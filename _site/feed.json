@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/01/09/its-really-fun.html",
+	      	
+			"content_html": "<p>It’s really fun to use the Deliveries app to track the crazy route my new monitor has taken to get from New Jersey to Seattle. Tomorrow I receive it!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/750a6347aa.jpg\" width=\"417\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-08T22:17:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/08/its-really-fun.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/01/08/didnt-realize-that.html",
 	      	
 			"content_html": "<p>Didn’t realize that Star Trek: Discovery came back today. Guess I’ve got my show to watch on the bus in the morning!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I finished my Bible in a year plan yesterday, and want to take the next several months and study Isaiah. Does anyone have a good commentary that they can recommend?</p>\n",
 			"date_published": "2018-01-03T05:33:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/03/i-finished-my.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/03/i-think-it.html",
-	      	
-			"content_html": "<p>I think it would be cool to do a picture a day challenge,  it I have no idea what I’d photograph on days when my life feels like the same routine over and over again. How do people find new and interesting things to shoot during the same daily routines?</p>\n",
-			"date_published": "2018-01-02T22:41:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/02/i-think-it.html"
 		}
 		
 	]
