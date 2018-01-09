@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Mon, 08 Jan 2018 22:17:38 -0800</pubDate>
-    <lastBuildDate>Mon, 08 Jan 2018 22:17:38 -0800</lastBuildDate>
+    <pubDate>Tue, 09 Jan 2018 08:28:01 -0800</pubDate>
+    <lastBuildDate>Tue, 09 Jan 2018 08:28:01 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’m watching the latest Swift Talk from the Objc.io guys, and they are refactoring some layout code using &lt;code&gt;UIOffset&lt;/code&gt; to introduce spacing. I’ve never heard of that type before! I love watching stuff like this even for no other reason than to learn little things like this.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Jan 2018 08:27:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2018/01/09/im-watching-the.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/01/09/im-watching-the.html</guid>
+      </item>
     
       <item>
       	
@@ -469,15 +478,6 @@
         <pubDate>Mon, 30 Oct 2017 13:26:00 -0800</pubDate>
         <link>https://mb.jsorge.net/2017/10/30/fighting-with-build.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/30/fighting-with-build.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Pro tip for future me when renewing my SSL certificate for my blog: restart nginx afterward.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 28 Oct 2017 12:18:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2017/10/28/pro-tip-for.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/10/28/pro-tip-for.html</guid>
       </item>
     
   </channel>
