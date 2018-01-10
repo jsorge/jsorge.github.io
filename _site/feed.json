@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/01/10/got-word-tonight.html",
+	      	
+			"content_html": "<p>Got word tonight that my grandma is starting hospice care. She had a stroke a month after my wedding and has been effectively “gone” for about 6 years. It still hurts, though. I’m very much looking forward to Revelation 21:4 being fulfilled.</p>\n",
+			"date_published": "2018-01-09T21:13:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/09/got-word-tonight.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/01/09/i-love-being.html",
 	      	
 			"content_html": "<p>I love being able to tune into work meetings r motley. I can keep up to date while on my commute home. And it’s awesome!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I’m starting the Creative Photography Challenge from CreativeLive. Day 1 was to take a motion blurred shot. I took it at Ash Way Park and Ride in Lynnwood. Thanks to <a href=\"https://micro.blog/dh\">@dh</a> for suggesting the course to me!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/6c2de06477.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-01-03T19:27:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/03/im-starting-the.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/03/im-looking-for.html",
-	      	
-			"content_html": "<p>I’m looking for a MacBook Pro stand that can work with my older 2014 retina model and my 2017 work-issued TouchBar model. The <a href=\"https://www.twelvesouth.com/store/product/bookarc-mod-for-macbook-espresso\">BookArc möd</a> looks great but they say it doesn’t work that way. Any ideas?</p>\n",
-			"date_published": "2018-01-03T12:29:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/03/im-looking-for.html"
 		}
 		
 	]
