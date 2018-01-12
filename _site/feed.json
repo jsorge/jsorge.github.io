@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/01/12/github-cracks-me.html",
+	      	
+			"content_html": "<p>GitHub cracks me up. Every time I add a comment, it says that I commented “a minute from now”. I guess dates are hard or something.</p>\n",
+			"date_published": "2018-01-12T09:42:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/12/github-cracks-me.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/01/10/got-word-tonight.html",
 	      	
 			"content_html": "<p>Got word tonight that my grandma is starting hospice care. She had a stroke a month after my wedding and has been effectively “gone” for about 6 years. It still hurts, though. I’m very much looking forward to Revelation 21:4 being fulfilled.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Yay! The bus broke down on its way to my stop this morning. Today was a good day to work from home anyways.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/a9872437f8.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-04T07:11:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/04/yay-the-bus.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/04/im-starting-the.html",
-	      	
-			"content_html": "<p>I’m starting the Creative Photography Challenge from CreativeLive. Day 1 was to take a motion blurred shot. I took it at Ash Way Park and Ride in Lynnwood. Thanks to <a href=\"https://micro.blog/dh\">@dh</a> for suggesting the course to me!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/6c2de06477.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-01-03T19:27:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/03/im-starting-the.html"
 		}
 		
 	]
