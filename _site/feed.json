@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/01/13/yep-im-just.html",
+	      	
+			"content_html": "<p>Yep, I’m just here trying to figure out how custom module maps work in Xcode project. How’s your Friday night going?</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/c5f8dbaae9.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-12T22:08:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/12/yep-im-just.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/01/13/who-says-you.html",
 	      	
 			"content_html": "<p>Who says you can’t make an endlessly confusing box for a computer monitor?</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/e2edc74610.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Learning all about h-feed, h-entry, and all the things that compose them. Feeling a little out of my element but excited to learn and contribute to an open source project.</p>\n",
 			"date_published": "2018-01-07T20:45:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/07/learning-all-about.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/08/got-a-new.html",
-	      	
-			"content_html": "<p>Got a new chair for the office</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/afdabd06fb.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-07T16:14:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/07/got-a-new.html"
 		}
 		
 	]
