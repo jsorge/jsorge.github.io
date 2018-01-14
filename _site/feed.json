@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/01/14/batteries-walk-into.html",
+	      	
+			"content_html": "<p>3 batteries walk into a bar:\nLG: I’ll have (reboot) I’ll Have (reboot) I’ll have…\nApple: I ‘  l  l    h  a  v  e  . . . \nSamsung: I’ll 🔥</p>\n\n<p>Batteries are hard to get right.</p>\n",
+			"date_published": "2018-01-13T21:21:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/13/batteries-walk-into.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/01/13/yep-im-just.html",
 	      	
 			"content_html": "<p>Yep, I’m just here trying to figure out how custom module maps work in Xcode project. How’s your Friday night going?</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/c5f8dbaae9.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Didn’t realize that Star Trek: Discovery came back today. Guess I’ve got my show to watch on the bus in the morning!</p>\n",
 			"date_published": "2018-01-07T20:46:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/07/didnt-realize-that.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/08/learning-all-about.html",
-	      	
-			"content_html": "<p>Learning all about h-feed, h-entry, and all the things that compose them. Feeling a little out of my element but excited to learn and contribute to an open source project.</p>\n",
-			"date_published": "2018-01-07T20:45:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/07/learning-all-about.html"
 		}
 		
 	]
