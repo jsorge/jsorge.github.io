@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/01/21/i-didnt-have.html",
+	      	
+			"content_html": "<p>I didn’t have anything against working with Linode, but find Digital Ocean’s control panel a lot more friendly to work with. Plus the community tutorials are second to none for me. You should check them out! <a href=\"https://m.do.co/c/b54194754f24\">m.do.co/c/b541947…</a></p>\n",
+			"date_published": "2018-01-21T15:38:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/21/i-didnt-have.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/21/a-little-bit.html",
+	      	
+			"content_html": "<p>A little bit ago I tried updating Ghost on my Linode server. That didn’t go well and ended up nuking the whole thing. My fallback in this kind of situation is to just spin up a new server. Thanks to the new Digital Ocean droplets I’m back over there for $5/month!</p>\n",
+			"date_published": "2018-01-21T15:37:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/21/a-little-bit.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/01/14/batteries-walk-into.html",
 	      	
 			"content_html": "<p>3 batteries walk into a bar:\nLG: I’ll have (reboot) I’ll Have (reboot) I’ll have…\nApple: I ‘  l  l    h  a  v  e  . . . \nSamsung: I’ll 🔥</p>\n\n<p>Batteries are hard to get right.</p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>I’m watching the latest Swift Talk from the Objc.io guys, and they are refactoring some layout code using <code>UIOffset</code> to introduce spacing. I’ve never heard of that type before! I love watching stuff like this even for no other reason than to learn little things like this.</p>\n",
 			"date_published": "2018-01-09T08:27:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/09/im-watching-the.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/09/its-really-fun.html",
-	      	
-			"content_html": "<p>It’s really fun to use the Deliveries app to track the crazy route my new monitor has taken to get from New Jersey to Seattle. Tomorrow I receive it!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/750a6347aa.jpg\" width=\"417\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-08T22:17:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/08/its-really-fun.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/08/didnt-realize-that.html",
-	      	
-			"content_html": "<p>Didn’t realize that Star Trek: Discovery came back today. Guess I’ve got my show to watch on the bus in the morning!</p>\n",
-			"date_published": "2018-01-07T20:46:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/07/didnt-realize-that.html"
 		}
 		
 	]
