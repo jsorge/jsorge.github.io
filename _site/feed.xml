@@ -4,8 +4,26 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Sat, 13 Jan 2018 21:21:51 -0800</pubDate>
-    <lastBuildDate>Sat, 13 Jan 2018 21:21:51 -0800</lastBuildDate>
+    <pubDate>Sun, 21 Jan 2018 15:39:00 -0800</pubDate>
+    <lastBuildDate>Sun, 21 Jan 2018 15:39:00 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I didn’t have anything against working with Linode, but find Digital Ocean’s control panel a lot more friendly to work with. Plus the community tutorials are second to none for me. You should check them out! &lt;a href=&quot;https://m.do.co/c/b54194754f24&quot;&gt;m.do.co/c/b541947…&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Jan 2018 15:38:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2018/01/21/i-didnt-have.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/01/21/i-didnt-have.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;A little bit ago I tried updating Ghost on my Linode server. That didn’t go well and ended up nuking the whole thing. My fallback in this kind of situation is to just spin up a new server. Thanks to the new Digital Ocean droplets I’m back over there for $5/month!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Jan 2018 15:37:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2018/01/21/a-little-bit.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/01/21/a-little-bit.html</guid>
+      </item>
     
       <item>
       	
@@ -470,24 +488,6 @@ Samsung: I’ll 🔥&lt;/p&gt;
         <pubDate>Fri, 01 Dec 2017 07:55:00 -0800</pubDate>
         <link>https://mb.jsorge.net/2017/12/01/in-my-final.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/01/in-my-final.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;The most painful part of the Swift 3 -&amp;gt; 4 migration isn’t Swift itself (unless you’re dealing with a lot of Strings). It’s the renaming of Foundation typealiases to their own types (i.e. UILayoutPriority, AVMediaType, NSAttributedStringKey, etc)&lt;/p&gt;
-</description>
-        <pubDate>Wed, 29 Nov 2017 11:27:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2017/11/29/the-most-painful.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/11/29/the-most-painful.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;If I have a video loaded from the web (either via progressive download or HLS) and it only has a video track, how can I stop my app from pausing other playing audio? I can’t find any properties on AVPlayer or AVPlayerItem. cc &lt;a href=&quot;https://micro.blog/invalidname&quot;&gt;@invalidname&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 29 Nov 2017 09:58:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2017/11/29/if-i-have.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/11/29/if-i-have.html</guid>
       </item>
     
   </channel>
