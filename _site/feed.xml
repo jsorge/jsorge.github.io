@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Sun, 21 Jan 2018 15:39:00 -0800</pubDate>
-    <lastBuildDate>Sun, 21 Jan 2018 15:39:00 -0800</lastBuildDate>
+    <pubDate>Mon, 22 Jan 2018 08:03:45 -0800</pubDate>
+    <lastBuildDate>Mon, 22 Jan 2018 08:03:45 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;If someone made a keyboard like the &lt;a href=&quot;http://drops.jsorge.net/SC6o1D&quot;&gt;Microsoft Sculpt&lt;/a&gt; but wired, I would jump all over that in a heartbeat. I love the form factor and key travel but that wireless dongle is just a huge pain in the neck.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 Jan 2018 08:03:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2018/01/22/if-someone-made.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/01/22/if-someone-made.html</guid>
+      </item>
     
       <item>
       	
@@ -479,15 +488,6 @@ Samsung: I’ll 🔥&lt;/p&gt;
         <pubDate>Fri, 01 Dec 2017 08:35:00 -0800</pubDate>
         <link>https://mb.jsorge.net/2017/12/01/in-my-searching.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/01/in-my-searching.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;In my final hackday at zulily I’m going to be taking our style framework, making a Mac version, and taking that to make a Mac app to render our custom strings on the Mac. First step: figure out how to generalize UIColor and NSColor, as well as UIFont and NSFont.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 Dec 2017 07:55:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2017/12/01/in-my-final.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/01/in-my-final.html</guid>
       </item>
     
   </channel>
