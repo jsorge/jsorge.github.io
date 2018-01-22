@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/01/22/if-someone-made.html",
+	      	
+			"content_html": "<p>If someone made a keyboard like the <a href=\"http://drops.jsorge.net/SC6o1D\">Microsoft Sculpt</a> but wired, I would jump all over that in a heartbeat. I love the form factor and key travel but that wireless dongle is just a huge pain in the neck.</p>\n",
+			"date_published": "2018-01-22T08:03:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/22/if-someone-made.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/01/21/i-didnt-have.html",
 	      	
 			"content_html": "<p>I didn’t have anything against working with Linode, but find Digital Ocean’s control panel a lot more friendly to work with. Plus the community tutorials are second to none for me. You should check them out! <a href=\"https://m.do.co/c/b54194754f24\">m.do.co/c/b541947…</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I love being able to tune into work meetings r motley. I can keep up to date while on my commute home. And it’s awesome!</p>\n",
 			"date_published": "2018-01-09T15:20:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/09/i-love-being.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/09/im-watching-the.html",
-	      	
-			"content_html": "<p>I’m watching the latest Swift Talk from the Objc.io guys, and they are refactoring some layout code using <code>UIOffset</code> to introduce spacing. I’ve never heard of that type before! I love watching stuff like this even for no other reason than to learn little things like this.</p>\n",
-			"date_published": "2018-01-09T08:27:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/09/im-watching-the.html"
 		}
 		
 	]
