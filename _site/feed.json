@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/01/25/theres-an-irony.html",
+	      	
+			"content_html": "<p>There’s an irony to keeping my LastPass password and OTP token inside 1Password.</p>\n",
+			"date_published": "2018-01-25T08:44:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/25/theres-an-irony.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/01/25/been-wondering-for.html",
 	      	
 			"content_html": "<p>Been wondering for weeks why I couldn’t get port forwarding to work on my Airport Extreme. Turns out, I was forwarding the port to the wrong internal IP. 🤦‍♂️</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>A little bit ago I tried updating Ghost on my Linode server. That didn’t go well and ended up nuking the whole thing. My fallback in this kind of situation is to just spin up a new server. Thanks to the new Digital Ocean droplets I’m back over there for $5/month!</p>\n",
 			"date_published": "2018-01-21T15:37:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/21/a-little-bit.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/14/batteries-walk-into.html",
-	      	
-			"content_html": "<p>3 batteries walk into a bar:\nLG: I’ll have (reboot) I’ll Have (reboot) I’ll have…\nApple: I ‘  l  l    h  a  v  e  . . . \nSamsung: I’ll 🔥</p>\n\n<p>Batteries are hard to get right.</p>\n",
-			"date_published": "2018-01-13T21:21:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/13/batteries-walk-into.html"
 		}
 		
 	]
