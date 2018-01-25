@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Wed, 24 Jan 2018 19:24:47 -0800</pubDate>
-    <lastBuildDate>Wed, 24 Jan 2018 19:24:47 -0800</lastBuildDate>
+    <pubDate>Wed, 24 Jan 2018 21:28:03 -0800</pubDate>
+    <lastBuildDate>Wed, 24 Jan 2018 21:28:03 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Been wondering for weeks why I couldn’t get port forwarding to work on my Airport Extreme. Turns out, I was forwarding the port to the wrong internal IP. 🤦‍♂️&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Jan 2018 21:28:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2018/01/24/been-wondering-for.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/01/25/been-wondering-for.html</guid>
+      </item>
     
       <item>
       	
@@ -481,15 +490,6 @@ Samsung: I’ll 🔥&lt;/p&gt;
         <pubDate>Mon, 11 Dec 2017 19:27:00 -0800</pubDate>
         <link>https://mb.jsorge.net/2017/12/11/first-day-in.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/12/first-day-in.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;First day at @Lyft! Orientation is about to start. Hoping to get my kit soon and get to work.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 11 Dec 2017 09:28:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2017/12/11/first-day-at.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/11/first-day-at.html</guid>
       </item>
     
   </channel>
