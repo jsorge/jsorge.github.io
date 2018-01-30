@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/01/30/i-see-lots.html",
+	      	
+			"content_html": "<p>I see lots of people talking about the “Snow Leopard” releases of iOS and macOS as meaning focusing on quality. But Snow Leopard also had a 2 year lifecycle and spanned 10.6.0-10.6.8. Will those days of 2 years between major OS releases come back?</p>\n",
+			"date_published": "2018-01-30T13:16:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/30/i-see-lots.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/30/i-really-like.html",
+	      	
+			"content_html": "<p>I really like <a href=\"http://www.manton.org/2018/01/no-applause-for-retweets.html\">this post</a> from Manton Reece about how he’s setting up micro.blog. I took analytics off my site (which were meager at best) because after posting something, I’d check the dashboard regularly. I don’t want to be writing for the (nonexistent) numbers anymore.</p>\n",
+			"date_published": "2018-01-30T12:36:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/30/i-really-like.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/01/29/i-know-portrait.html",
 	      	
 			"content_html": "<p><img src=\"http://mb.jsorge.net/uploads/2018/4dafda1762.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>I know portrait mode isn’t perfect, but it can be pretty darn good.</p>\n\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>YES!!! Pearl Jam is coming to Safeco Field this summer! I saw a rumor about this the other day and hopped back into the Ten Club for ticket pre-sales. I’m can’t wait!</p>\n",
 			"date_published": "2018-01-22T10:51:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/22/yes-pearl-jam.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/22/if-someone-made.html",
-	      	
-			"content_html": "<p>If someone made a keyboard like the <a href=\"http://drops.jsorge.net/SC6o1D\">Microsoft Sculpt</a> but wired, I would jump all over that in a heartbeat. I love the form factor and key travel but that wireless dongle is just a huge pain in the neck.</p>\n",
-			"date_published": "2018-01-22T08:03:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/22/if-someone-made.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/21/i-didnt-have.html",
-	      	
-			"content_html": "<p>I didn’t have anything against working with Linode, but find Digital Ocean’s control panel a lot more friendly to work with. Plus the community tutorials are second to none for me. You should check them out! <a href=\"https://m.do.co/c/b54194754f24\">m.do.co/c/b541947…</a></p>\n",
-			"date_published": "2018-01-21T15:38:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/21/i-didnt-have.html"
 		}
 		
 	]
