@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/01/31/ive-really-been.html",
+	      	
+			"content_html": "<p>I’ve really been enjoying The Omni Show, and am looking forward to listening to <a href=\"https://theomnishow.omnigroup.com/episode/ken-case-on-omnis-2018-roadmap\">this week’s episode with Ken Case</a>. Thanks Omni!</p>\n",
+			"date_published": "2018-01-31T09:37:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/31/ive-really-been.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/01/31/this-seems-to.html",
 	      	
 			"content_html": "<p>This seems to aptly sum up my week thus far.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/c7f06ac29e.jpg\" width=\"600\" height=\"401\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I think my favorite feature of the iPhone X is the battery life. I routinely use it all day listening to Apple Music and Overcast and routinely have around 50% battery at the end of the day. From 5am to 10pm. Just amazing!</p>\n",
 			"date_published": "2018-01-23T22:07:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/23/i-think-my.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/23/i-think-im.html",
-	      	
-			"content_html": "<p>I think I’m raising this one correctly.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/49531d9135.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-22T20:15:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/22/i-think-im.html"
 		}
 		
 	]
