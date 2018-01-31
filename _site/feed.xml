@@ -4,8 +4,19 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Tue, 30 Jan 2018 22:03:37 -0800</pubDate>
-    <lastBuildDate>Tue, 30 Jan 2018 22:03:37 -0800</lastBuildDate>
+    <pubDate>Wed, 31 Jan 2018 09:00:13 -0800</pubDate>
+    <lastBuildDate>Wed, 31 Jan 2018 09:00:13 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;This seems to aptly sum up my week thus far.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2018/c7f06ac29e.jpg&quot; width=&quot;600&quot; height=&quot;401&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 31 Jan 2018 09:00:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2018/01/31/this-seems-to.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/01/31/this-seems-to.html</guid>
+      </item>
     
       <item>
       	
@@ -487,15 +498,6 @@ Samsung: I’ll 🔥&lt;/p&gt;
         <pubDate>Wed, 20 Dec 2017 21:48:00 -0800</pubDate>
         <link>https://mb.jsorge.net/2017/12/20/new-blog-post.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/21/new-blog-post.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Filed a radar using markdown in the description. Then realized that Bug Reporter doesn’t support markdown rendering. So I filed another asking for that feature. Radars all the way down!&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Dec 2017 15:37:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2017/12/20/filed-a-radar.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/20/filed-a-radar.html</guid>
       </item>
     
   </channel>
