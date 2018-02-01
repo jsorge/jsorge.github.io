@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/02/01/i-learned-today.html",
+	      	
+			"content_html": "<p>I learned today that iCloud syncs iPhone call histories. I’ve got a work phone that’s been buzzing with pages all week, and those calls are on my personal phone’s history. Crazy. And there’s no way to disable that sync as far as I can tell.</p>\n",
+			"date_published": "2018-01-31T21:56:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/31/i-learned-today.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/01/31/ugh-dealing-with.html",
 	      	
 			"content_html": "<p>Ugh. Dealing with identity theft that you thought you’d taken care of years ago is the worst.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Been wondering for weeks why I couldn’t get port forwarding to work on my Airport Extreme. Turns out, I was forwarding the port to the wrong internal IP. 🤦‍♂️</p>\n",
 			"date_published": "2018-01-24T21:28:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/24/been-wondering-for.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/25/if-i-ever.html",
-	      	
-			"content_html": "<p>If I ever start a metal band with other dads, we are going to call ourselves Baby Drew Blood.</p>\n",
-			"date_published": "2018-01-24T19:24:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/24/if-i-ever.html"
 		}
 		
 	]
