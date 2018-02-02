@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Wed, 31 Jan 2018 21:56:28 -0800</pubDate>
-    <lastBuildDate>Wed, 31 Jan 2018 21:56:28 -0800</lastBuildDate>
+    <pubDate>Thu, 01 Feb 2018 21:55:06 -0800</pubDate>
+    <lastBuildDate>Thu, 01 Feb 2018 21:55:06 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Sending a fax like it’s 1998, only on the internet because it’s 2018. Why do fraud places that handle “sensitive information” think that this is still a secure way to send data?&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Feb 2018 21:55:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2018/02/01/sending-a-fax.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/02/02/sending-a-fax.html</guid>
+      </item>
     
       <item>
       	
@@ -487,17 +496,6 @@ Samsung: I’ll 🔥&lt;/p&gt;
         <pubDate>Fri, 22 Dec 2017 13:57:00 -0800</pubDate>
         <link>https://mb.jsorge.net/2017/12/22/going-to-pick.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/22/going-to-pick.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;My hope for a UnicornKit framework is merely a simpler way to make a great Mac app. I’ve tried my hand at it a couple of times and there are some huge differences between AppKit and UIKit that trip me up.&lt;/p&gt;
-
-&lt;p&gt;But I also haven’t put all the time into it that I want/need to.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 21 Dec 2017 11:39:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2017/12/21/my-hope-for.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/21/my-hope-for.html</guid>
       </item>
     
   </channel>
