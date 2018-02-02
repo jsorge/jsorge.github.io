@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/02/02/im-starting-a.html",
+	      	
+			"content_html": "<p>I’m starting a Rubber Ducking group of text files to try to figure out solutions to my programming problems. In a completely open office talking to a rubber duck would feel <em>super</em> awkward. This should be a good replacement for pinging coworkers on Slack.</p>\n",
+			"date_published": "2018-02-02T09:03:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/02/im-starting-a.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/02/02/sending-a-fax.html",
 	      	
 			"content_html": "<p>Sending a fax like it’s 1998, only on the internet because it’s 2018. Why do fraud places that handle “sensitive information” think that this is still a secure way to send data?</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><img src=\"http://mb.jsorge.net/uploads/2018/4dafda1762.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>I know portrait mode isn’t perfect, but it can be pretty darn good.</p>\n\n",
 			"date_published": "2018-01-28T21:05:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/28/i-know-portrait.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/25/theres-an-irony.html",
-	      	
-			"content_html": "<p>There’s an irony to keeping my LastPass password and OTP token inside 1Password.</p>\n",
-			"date_published": "2018-01-25T08:44:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/25/theres-an-irony.html"
 		}
 		
 	]
