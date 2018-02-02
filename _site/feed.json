@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/02/02/sending-a-fax.html",
+	      	
+			"content_html": "<p>Sending a fax like it’s 1998, only on the internet because it’s 2018. Why do fraud places that handle “sensitive information” think that this is still a secure way to send data?</p>\n",
+			"date_published": "2018-02-01T21:55:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/01/sending-a-fax.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/02/01/i-learned-today.html",
 	      	
 			"content_html": "<p>I learned today that iCloud syncs iPhone call histories. I’ve got a work phone that’s been buzzing with pages all week, and those calls are on my personal phone’s history. Crazy. And there’s no way to disable that sync as far as I can tell.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>There’s an irony to keeping my LastPass password and OTP token inside 1Password.</p>\n",
 			"date_published": "2018-01-25T08:44:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/25/theres-an-irony.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/25/been-wondering-for.html",
-	      	
-			"content_html": "<p>Been wondering for weeks why I couldn’t get port forwarding to work on my Airport Extreme. Turns out, I was forwarding the port to the wrong internal IP. 🤦‍♂️</p>\n",
-			"date_published": "2018-01-24T21:28:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/24/been-wondering-for.html"
 		}
 		
 	]
