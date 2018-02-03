@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/02/03/throwing-this-out.html",
+	      	
+			"content_html": "<p>Throwing this out there hypothetically of course, but if I have any Apple employee friends who don’t want to use their HomePod discount, I’d be happy to take it off their hands.</p>\n",
+			"date_published": "2018-02-02T21:25:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/02/throwing-this-out.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/02/02/im-starting-a.html",
 	      	
 			"content_html": "<p>I’m starting a Rubber Ducking group of text files to try to figure out solutions to my programming problems. In a completely open office talking to a rubber duck would feel <em>super</em> awkward. This should be a good replacement for pinging coworkers on Slack.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I really like <a href=\"http://www.manton.org/2018/01/no-applause-for-retweets.html\">this post</a> from Manton Reece about how he’s setting up micro.blog. I took analytics off my site (which were meager at best) because after posting something, I’d check the dashboard regularly. I don’t want to be writing for the (nonexistent) numbers anymore.</p>\n",
 			"date_published": "2018-01-30T12:36:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/30/i-really-like.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/29/i-know-portrait.html",
-	      	
-			"content_html": "<p><img src=\"http://mb.jsorge.net/uploads/2018/4dafda1762.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>I know portrait mode isn’t perfect, but it can be pretty darn good.</p>\n\n",
-			"date_published": "2018-01-28T21:05:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/28/i-know-portrait.html"
 		}
 		
 	]
