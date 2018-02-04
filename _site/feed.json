@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/02/04/tweetstorms-should-not.html",
+	      	
+			"content_html": "<p>Tweetstorms should not be used in place of blog posts. I just read a really great chain of thoughts that I <em>really</em> wish was a blog post that I could point a link to, but instead I’d have to pick one or two tweets that I hope get displayed properly in your client of choice.</p>\n",
+			"date_published": "2018-02-04T09:56:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/04/tweetstorms-should-not.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/02/03/throwing-this-out.html",
 	      	
 			"content_html": "<p>Throwing this out there hypothetically of course, but if I have any Apple employee friends who don’t want to use their HomePod discount, I’d be happy to take it off their hands.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I see lots of people talking about the “Snow Leopard” releases of iOS and macOS as meaning focusing on quality. But Snow Leopard also had a 2 year lifecycle and spanned 10.6.0-10.6.8. Will those days of 2 years between major OS releases come back?</p>\n",
 			"date_published": "2018-01-30T13:16:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/30/i-see-lots.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/30/i-really-like.html",
-	      	
-			"content_html": "<p>I really like <a href=\"http://www.manton.org/2018/01/no-applause-for-retweets.html\">this post</a> from Manton Reece about how he’s setting up micro.blog. I took analytics off my site (which were meager at best) because after posting something, I’d check the dashboard regularly. I don’t want to be writing for the (nonexistent) numbers anymore.</p>\n",
-			"date_published": "2018-01-30T12:36:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/30/i-really-like.html"
 		}
 		
 	]
