@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/02/04/today-we-are.html",
+	      	
+			"content_html": "<p>Today we are all Eagles fans.</p>\n",
+			"date_published": "2018-02-04T15:15:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/04/today-we-are.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/02/04/tweetstorms-should-not.html",
 	      	
 			"content_html": "<p>Tweetstorms should not be used in place of blog posts. I just read a really great chain of thoughts that I <em>really</em> wish was a blog post that I could point a link to, but instead I’d have to pick one or two tweets that I hope get displayed properly in your client of choice.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"http://mb.jsorge.net/uploads/2018/5596c79554.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/5596c79554.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a><a href=\"http://mb.jsorge.net/uploads/2018/202b2a1a9c.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/202b2a1a9c.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a></p>\n\n<p>Been getting into making Old Fashions lately. This one turned out quite nicely.</p>\n\n",
 			"date_published": "2018-01-30T22:03:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/30/been-getting-into.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/30/i-see-lots.html",
-	      	
-			"content_html": "<p>I see lots of people talking about the “Snow Leopard” releases of iOS and macOS as meaning focusing on quality. But Snow Leopard also had a 2 year lifecycle and spanned 10.6.0-10.6.8. Will those days of 2 years between major OS releases come back?</p>\n",
-			"date_published": "2018-01-30T13:16:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/30/i-see-lots.html"
 		}
 		
 	]
