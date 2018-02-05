@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/02/05/thats-as-good.html",
+	      	
+			"content_html": "<p>That’s as good as a Super Bowl can get as long as the Seahawks aren’t winning it. Congratulations Eagles! I especially liked when we whooped you 24-10 with your golden boy quarterback. That was a fun night 😊</p>\n",
+			"date_published": "2018-02-04T19:58:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/04/thats-as-good.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/02/05/i-missed-the.html",
 	      	
 			"content_html": "<p>I missed the Solo trailer premiere, which was shown while I was changing a poopy diaper. The crap I endure sometimes…</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I’ve really been enjoying The Omni Show, and am looking forward to listening to <a href=\"https://theomnishow.omnigroup.com/episode/ken-case-on-omnis-2018-roadmap\">this week’s episode with Ken Case</a>. Thanks Omni!</p>\n",
 			"date_published": "2018-01-31T09:37:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/31/ive-really-been.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/31/this-seems-to.html",
-	      	
-			"content_html": "<p>This seems to aptly sum up my week thus far.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/c7f06ac29e.jpg\" width=\"600\" height=\"401\" /></p>\n",
-			"date_published": "2018-01-31T09:00:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/31/this-seems-to.html"
 		}
 		
 	]
