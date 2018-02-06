@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Sun, 04 Feb 2018 19:58:38 -0800</pubDate>
-    <lastBuildDate>Sun, 04 Feb 2018 19:58:38 -0800</lastBuildDate>
+    <pubDate>Mon, 05 Feb 2018 21:06:28 -0800</pubDate>
+    <lastBuildDate>Mon, 05 Feb 2018 21:06:28 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I started the very bare bones of a Slack native Mac app about 18 months ago. Would anyone be interested in my open sourcing of it? I’m tempted to do it if anyone wants it.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Feb 2018 21:06:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2018/02/05/i-started-the.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/02/06/i-started-the.html</guid>
+      </item>
     
       <item>
       	
@@ -481,17 +490,6 @@ Samsung: I’ll 🔥&lt;/p&gt;
         <pubDate>Sat, 30 Dec 2017 20:40:00 -0800</pubDate>
         <link>https://mb.jsorge.net/2017/12/30/today-we-celebrated.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/31/today-we-celebrated.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Well the dongle life seems to be failing me. My beloved MS Sculpt keyboard doesn’t want to work when it’s dongle is plugged into a USB hub which is then converted to USB C. Has anyone gotten this working on a 2017 MacBook Pro?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2017/65efcb7cc6.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 28 Dec 2017 07:16:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2017/12/28/well-the-dongle.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2017/12/28/well-the-dongle.html</guid>
       </item>
     
   </channel>
