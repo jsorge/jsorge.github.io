@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/02/06/i-started-the.html",
+	      	
+			"content_html": "<p>I started the very bare bones of a Slack native Mac app about 18 months ago. Would anyone be interested in my open sourcing of it? I’m tempted to do it if anyone wants it.</p>\n",
+			"date_published": "2018-02-05T21:06:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/05/i-started-the.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/02/05/thats-as-good.html",
 	      	
 			"content_html": "<p>That’s as good as a Super Bowl can get as long as the Seahawks aren’t winning it. Congratulations Eagles! I especially liked when we whooped you 24-10 with your golden boy quarterback. That was a fun night 😊</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Ugh. Dealing with identity theft that you thought you’d taken care of years ago is the worst.</p>\n",
 			"date_published": "2018-01-31T14:11:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/31/ugh-dealing-with.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/31/ive-really-been.html",
-	      	
-			"content_html": "<p>I’ve really been enjoying The Omni Show, and am looking forward to listening to <a href=\"https://theomnishow.omnigroup.com/episode/ken-case-on-omnis-2018-roadmap\">this week’s episode with Ken Case</a>. Thanks Omni!</p>\n",
-			"date_published": "2018-01-31T09:37:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/31/ive-really-been.html"
 		}
 		
 	]
