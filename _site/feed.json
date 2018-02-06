@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/02/06/i-really-love.html",
+	      	
+			"content_html": "<p>I really love it when stuff I’m trying to figure out just starts to click. I’m also a little bit embarrassed when it’s stuff that I feel like either I should have known about, or “someone in my position would have known about it”. Hello imposter syndrome.</p>\n",
+			"date_published": "2018-02-06T11:57:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/06/i-really-love.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/02/06/i-decided-last.html",
 	      	
 			"content_html": "<p>I decided last week to figure out how to get all of my commits to be Verified like they are on GitHub. It was actually pretty easy once I found <a href=\"https://aaronparecki.com/2016/07/29/10/git-tower\">this helpful blog post</a> to guide me! Thanks Aaron!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Sending a fax like it’s 1998, only on the internet because it’s 2018. Why do fraud places that handle “sensitive information” think that this is still a secure way to send data?</p>\n",
 			"date_published": "2018-02-01T21:55:00-08:00",
 			"url": "https://mb.jsorge.net/2018/02/01/sending-a-fax.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/02/01/i-learned-today.html",
-	      	
-			"content_html": "<p>I learned today that iCloud syncs iPhone call histories. I’ve got a work phone that’s been buzzing with pages all week, and those calls are on my personal phone’s history. Crazy. And there’s no way to disable that sync as far as I can tell.</p>\n",
-			"date_published": "2018-01-31T21:56:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/31/i-learned-today.html"
 		}
 		
 	]
