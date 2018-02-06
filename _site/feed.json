@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/02/06/i-decided-last.html",
+	      	
+			"content_html": "<p>I decided last week to figure out how to get all of my commits to be Verified like they are on GitHub. It was actually pretty easy once I found <a href=\"https://aaronparecki.com/2016/07/29/10/git-tower\">this helpful blog post</a> to guide me! Thanks Aaron!</p>\n",
+			"date_published": "2018-02-06T08:51:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/06/i-decided-last.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/02/06/i-started-the.html",
 	      	
 			"content_html": "<p>I started the very bare bones of a Slack native Mac app about 18 months ago. Would anyone be interested in my open sourcing of it? I’m tempted to do it if anyone wants it.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I learned today that iCloud syncs iPhone call histories. I’ve got a work phone that’s been buzzing with pages all week, and those calls are on my personal phone’s history. Crazy. And there’s no way to disable that sync as far as I can tell.</p>\n",
 			"date_published": "2018-01-31T21:56:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/31/i-learned-today.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/31/ugh-dealing-with.html",
-	      	
-			"content_html": "<p>Ugh. Dealing with identity theft that you thought you’d taken care of years ago is the worst.</p>\n",
-			"date_published": "2018-01-31T14:11:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/31/ugh-dealing-with.html"
 		}
 		
 	]
