@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/02/08/interesting-behavior-in.html",
+	      	
+			"content_html": "<p>Interesting behavior in <a href=\"https://micro.blog/manton\">@manton</a>’s new Sunlit. I wasn’t expecting a story to equate to a blog post that gets updated. Feels like a Sunlit story’s entries should each be a micro.blog post. It’s a fun app though and I’m excited to see where it goes from here.</p>\n",
+			"date_published": "2018-02-07T22:04:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/07/interesting-behavior-in.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/02/06/i-really-love.html",
 	      	
 			"content_html": "<p>I really love it when stuff I’m trying to figure out just starts to click. I’m also a little bit embarrassed when it’s stuff that I feel like either I should have known about, or “someone in my position would have known about it”. Hello imposter syndrome.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I’m starting a Rubber Ducking group of text files to try to figure out solutions to my programming problems. In a completely open office talking to a rubber duck would feel <em>super</em> awkward. This should be a good replacement for pinging coworkers on Slack.</p>\n",
 			"date_published": "2018-02-02T09:03:00-08:00",
 			"url": "https://mb.jsorge.net/2018/02/02/im-starting-a.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/02/02/sending-a-fax.html",
-	      	
-			"content_html": "<p>Sending a fax like it’s 1998, only on the internet because it’s 2018. Why do fraud places that handle “sensitive information” think that this is still a secure way to send data?</p>\n",
-			"date_published": "2018-02-01T21:55:00-08:00",
-			"url": "https://mb.jsorge.net/2018/02/01/sending-a-fax.html"
 		}
 		
 	]
