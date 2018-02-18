@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/02/18/hamilton.html",
+	      	
+			"title": "Hamilton!",
+			
+			"content_html": "<p><img src=\"http://mb.jsorge.net/uploads/2018/cf19ce26ad.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n",
+			"date_published": "2018-02-17T19:52:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/17/hamilton.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/18/we-are-at.html",
+	      	
+			"content_html": "<p>We are at the Paramount seeing Hamilton. But I almost didn’t get to.</p>\n\n<p>When we got to the theater only one ticket was in my pocket. So we walked back to the van to behold our other one on the ground behind the van in the garage. Thank God it was still there.  That was terrifying.</p>\n",
+			"date_published": "2018-02-17T19:48:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/17/we-are-at.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/02/18/if-theres-a.html",
 	      	
 			"content_html": "<p>If there’s a sazerac recipe you enjoy, I’d love to hear about it 🥃</p>\n",
@@ -67,22 +85,6 @@
 			"content_html": "<p>I started the very bare bones of a Slack native Mac app about 18 months ago. Would anyone be interested in my open sourcing of it? I’m tempted to do it if anyone wants it.</p>\n",
 			"date_published": "2018-02-05T21:06:00-08:00",
 			"url": "https://mb.jsorge.net/2018/02/05/i-started-the.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/02/05/thats-as-good.html",
-	      	
-			"content_html": "<p>That’s as good as a Super Bowl can get as long as the Seahawks aren’t winning it. Congratulations Eagles! I especially liked when we whooped you 24-10 with your golden boy quarterback. That was a fun night 😊</p>\n",
-			"date_published": "2018-02-04T19:58:00-08:00",
-			"url": "https://mb.jsorge.net/2018/02/04/thats-as-good.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/02/05/i-missed-the.html",
-	      	
-			"content_html": "<p>I missed the Solo trailer premiere, which was shown while I was changing a poopy diaper. The crap I endure sometimes…</p>\n",
-			"date_published": "2018-02-04T16:00:00-08:00",
-			"url": "https://mb.jsorge.net/2018/02/04/i-missed-the.html"
 		}
 		
 	]
