@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/02/22/ugh-i-hate.html",
+	      	
+			"content_html": "<p>Ugh. I hate that Google Meet requires Chrome and doesn’t work on Safari. Are we really going to go back to the proprietary IE 6 days???</p>\n",
+			"date_published": "2018-02-22T09:49:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/22/ugh-i-hate.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/02/18/hamilton.html",
 	      	
 			"title": "Hamilton!",
@@ -85,6 +93,120 @@
 			"content_html": "<p>I started the very bare bones of a Slack native Mac app about 18 months ago. Would anyone be interested in my open sourcing of it? I’m tempted to do it if anyone wants it.</p>\n",
 			"date_published": "2018-02-05T21:06:00-08:00",
 			"url": "https://mb.jsorge.net/2018/02/05/i-started-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/05/thats-as-good.html",
+	      	
+			"content_html": "<p>That’s as good as a Super Bowl can get as long as the Seahawks aren’t winning it. Congratulations Eagles! I especially liked when we whooped you 24-10 with your golden boy quarterback. That was a fun night 😊</p>\n",
+			"date_published": "2018-02-04T19:58:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/04/thats-as-good.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/05/i-missed-the.html",
+	      	
+			"content_html": "<p>I missed the Solo trailer premiere, which was shown while I was changing a poopy diaper. The crap I endure sometimes…</p>\n",
+			"date_published": "2018-02-04T16:00:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/04/i-missed-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/04/today-we-are.html",
+	      	
+			"content_html": "<p>Today we are all Eagles fans.</p>\n",
+			"date_published": "2018-02-04T15:15:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/04/today-we-are.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/04/tweetstorms-should-not.html",
+	      	
+			"content_html": "<p>Tweetstorms should not be used in place of blog posts. I just read a really great chain of thoughts that I <em>really</em> wish was a blog post that I could point a link to, but instead I’d have to pick one or two tweets that I hope get displayed properly in your client of choice.</p>\n",
+			"date_published": "2018-02-04T09:56:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/04/tweetstorms-should-not.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/03/throwing-this-out.html",
+	      	
+			"content_html": "<p>Throwing this out there hypothetically of course, but if I have any Apple employee friends who don’t want to use their HomePod discount, I’d be happy to take it off their hands.</p>\n",
+			"date_published": "2018-02-02T21:25:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/02/throwing-this-out.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/02/im-starting-a.html",
+	      	
+			"content_html": "<p>I’m starting a Rubber Ducking group of text files to try to figure out solutions to my programming problems. In a completely open office talking to a rubber duck would feel <em>super</em> awkward. This should be a good replacement for pinging coworkers on Slack.</p>\n",
+			"date_published": "2018-02-02T09:03:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/02/im-starting-a.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/02/sending-a-fax.html",
+	      	
+			"content_html": "<p>Sending a fax like it’s 1998, only on the internet because it’s 2018. Why do fraud places that handle “sensitive information” think that this is still a secure way to send data?</p>\n",
+			"date_published": "2018-02-01T21:55:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/01/sending-a-fax.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/01/i-learned-today.html",
+	      	
+			"content_html": "<p>I learned today that iCloud syncs iPhone call histories. I’ve got a work phone that’s been buzzing with pages all week, and those calls are on my personal phone’s history. Crazy. And there’s no way to disable that sync as far as I can tell.</p>\n",
+			"date_published": "2018-01-31T21:56:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/31/i-learned-today.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/31/ugh-dealing-with.html",
+	      	
+			"content_html": "<p>Ugh. Dealing with identity theft that you thought you’d taken care of years ago is the worst.</p>\n",
+			"date_published": "2018-01-31T14:11:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/31/ugh-dealing-with.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/31/ive-really-been.html",
+	      	
+			"content_html": "<p>I’ve really been enjoying The Omni Show, and am looking forward to listening to <a href=\"https://theomnishow.omnigroup.com/episode/ken-case-on-omnis-2018-roadmap\">this week’s episode with Ken Case</a>. Thanks Omni!</p>\n",
+			"date_published": "2018-01-31T09:37:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/31/ive-really-been.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/31/this-seems-to.html",
+	      	
+			"content_html": "<p>This seems to aptly sum up my week thus far.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/c7f06ac29e.jpg\" width=\"600\" height=\"401\" /></p>\n",
+			"date_published": "2018-01-31T09:00:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/31/this-seems-to.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/31/been-getting-into.html",
+	      	
+			"title": "Drinkology",
+			
+			"content_html": "<p>2018-01-30</p>\n\n<p><a href=\"http://mb.jsorge.net/uploads/2018/e4ea8ddf8c.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/e4ea8ddf8c.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a><a href=\"http://mb.jsorge.net/uploads/2018/b4fd1d1510.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/b4fd1d1510.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a></p>\n\n<p>Been getting into making Old Fashions lately. This one turned out quite nicely.</p>\n\n<p>2018-02-07</p>\n\n<p><a href=\"http://mb.jsorge.net/uploads/2018/16b5a93dc7.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/16b5a93dc7.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a><a href=\"http://mb.jsorge.net/uploads/2018/2b36a0617d.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/2b36a0617d.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a></p>\n\n<p>I was told I should make a whiskey sour next.  I don’t know if I did this right.</p>\n\n",
+			"date_published": "2018-01-30T22:03:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/30/been-getting-into.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/30/i-see-lots.html",
+	      	
+			"content_html": "<p>I see lots of people talking about the “Snow Leopard” releases of iOS and macOS as meaning focusing on quality. But Snow Leopard also had a 2 year lifecycle and spanned 10.6.0-10.6.8. Will those days of 2 years between major OS releases come back?</p>\n",
+			"date_published": "2018-01-30T13:16:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/30/i-see-lots.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/30/i-really-like.html",
+	      	
+			"content_html": "<p>I really like <a href=\"http://www.manton.org/2018/01/no-applause-for-retweets.html\">this post</a> from Manton Reece about how he’s setting up micro.blog. I took analytics off my site (which were meager at best) because after posting something, I’d check the dashboard regularly. I don’t want to be writing for the (nonexistent) numbers anymore.</p>\n",
+			"date_published": "2018-01-30T12:36:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/30/i-really-like.html"
 		}
 		
 	]
