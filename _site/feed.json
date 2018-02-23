@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/02/23/i-learned-about.html",
+	      	
+			"content_html": "<p>I learned about a really cool new app today, and decided to <a href=\"https://jsorge.net/2018/02/22/making-proper-apps-from-websites/\">write about it.</a></p>\n\n<p>I really should write about small stuff more.</p>\n",
+			"date_published": "2018-02-22T16:04:00-08:00",
+			"url": "https://mb.jsorge.net/2018/02/22/i-learned-about.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/02/22/i-turned-off.html",
 	      	
 			"content_html": "<p>I turned off Dock badging on Slack and I’m feeling much happier now.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>2018-01-30</p>\n\n<p><a href=\"http://mb.jsorge.net/uploads/2018/e4ea8ddf8c.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/e4ea8ddf8c.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a><a href=\"http://mb.jsorge.net/uploads/2018/b4fd1d1510.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/b4fd1d1510.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a></p>\n\n<p>Been getting into making Old Fashions lately. This one turned out quite nicely.</p>\n\n<p>2018-02-07</p>\n\n<p><a href=\"http://mb.jsorge.net/uploads/2018/16b5a93dc7.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/16b5a93dc7.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a><a href=\"http://mb.jsorge.net/uploads/2018/2b36a0617d.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/2b36a0617d.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a></p>\n\n<p>I was told I should make a whiskey sour next.  I don’t know if I did this right.</p>\n\n",
 			"date_published": "2018-01-30T22:03:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/30/been-getting-into.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/30/i-see-lots.html",
-	      	
-			"content_html": "<p>I see lots of people talking about the “Snow Leopard” releases of iOS and macOS as meaning focusing on quality. But Snow Leopard also had a 2 year lifecycle and spanned 10.6.0-10.6.8. Will those days of 2 years between major OS releases come back?</p>\n",
-			"date_published": "2018-01-30T13:16:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/30/i-see-lots.html"
 		}
 		
 	]
