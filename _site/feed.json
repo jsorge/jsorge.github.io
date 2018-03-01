@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/03/01/its-a-weird.html",
+	      	
+			"content_html": "<p>It’s a weird feeling when you learn about someone’s death from your weather app, but because the app has an evil AI you go to Wikipedia to confirm that Alan Thicke really is dead. Of course that AI could have also hacked Wikipedia too. Thanks @CARROT_app!</p>\n",
+			"date_published": "2018-03-01T05:51:00-08:00",
+			"url": "https://mb.jsorge.net/2018/03/01/its-a-weird.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/02/23/i-learned-about.html",
 	      	
 			"content_html": "<p>I learned about a really cool new app today, and decided to <a href=\"https://jsorge.net/2018/02/22/making-proper-apps-from-websites/\">write about it.</a></p>\n\n<p>I really should write about small stuff more.</p>\n",
@@ -197,16 +205,6 @@
 			"content_html": "<p>This seems to aptly sum up my week thus far.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/c7f06ac29e.jpg\" width=\"600\" height=\"401\" /></p>\n",
 			"date_published": "2018-01-31T09:00:00-08:00",
 			"url": "https://mb.jsorge.net/2018/01/31/this-seems-to.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/01/31/been-getting-into.html",
-	      	
-			"title": "Drinkology",
-			
-			"content_html": "<p>2018-01-30</p>\n\n<p><a href=\"http://mb.jsorge.net/uploads/2018/e4ea8ddf8c.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/e4ea8ddf8c.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a><a href=\"http://mb.jsorge.net/uploads/2018/b4fd1d1510.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/b4fd1d1510.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a></p>\n\n<p>Been getting into making Old Fashions lately. This one turned out quite nicely.</p>\n\n<p>2018-02-07</p>\n\n<p><a href=\"http://mb.jsorge.net/uploads/2018/16b5a93dc7.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/16b5a93dc7.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a><a href=\"http://mb.jsorge.net/uploads/2018/2b36a0617d.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/2b36a0617d.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a></p>\n\n<p>I was told I should make a whiskey sour next.  I don’t know if I did this right.</p>\n\n",
-			"date_published": "2018-01-30T22:03:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/30/been-getting-into.html"
 		}
 		
 	]
