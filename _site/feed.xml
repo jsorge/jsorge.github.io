@@ -4,8 +4,26 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Thu, 01 Mar 2018 05:51:45 -0800</pubDate>
-    <lastBuildDate>Thu, 01 Mar 2018 05:51:45 -0800</lastBuildDate>
+    <pubDate>Sun, 04 Mar 2018 22:33:22 -0800</pubDate>
+    <lastBuildDate>Sun, 04 Mar 2018 22:33:22 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;The open web is really cool. I just set up a Zapier hook to add a micro.blog post whenever I post something new to my site. And I’ve got a new post coming in the morning so it will be tested out shortly!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Mar 2018 22:33:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2018/03/04/the-open-web.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/03/05/the-open-web.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’ve been feeling a ton of pain debugging Notification Service extensions. Banging my head against the wall again and again.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Mar 2018 08:45:00 -0800</pubDate>
+        <link>https://mb.jsorge.net/2018/03/01/ive-been-feeling.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/03/01/ive-been-feeling.html</guid>
+      </item>
     
       <item>
       	
@@ -477,24 +495,6 @@ Samsung: I’ll 🔥&lt;/p&gt;
         <pubDate>Mon, 08 Jan 2018 22:17:00 -0800</pubDate>
         <link>https://mb.jsorge.net/2018/01/08/its-really-fun.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/01/09/its-really-fun.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Didn’t realize that Star Trek: Discovery came back today. Guess I’ve got my show to watch on the bus in the morning!&lt;/p&gt;
-</description>
-        <pubDate>Sun, 07 Jan 2018 20:46:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2018/01/07/didnt-realize-that.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/01/08/didnt-realize-that.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Learning all about h-feed, h-entry, and all the things that compose them. Feeling a little out of my element but excited to learn and contribute to an open source project.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 07 Jan 2018 20:45:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2018/01/07/learning-all-about.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/01/08/learning-all-about.html</guid>
       </item>
     
   </channel>
