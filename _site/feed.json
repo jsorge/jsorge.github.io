@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/03/05/over-the-weekend.html",
+	      	
+			"content_html": "<p><img src=\"http://mb.jsorge.net/uploads/2018/dc37b499cf.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Over the weekend I took what may be my favorite iPhone camera picture to date. </p>\n\n",
+			"date_published": "2018-03-05T10:00:00-08:00",
+			"url": "https://mb.jsorge.net/2018/03/05/over-the-weekend.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/05/i-really-liked.html",
+	      	
+			"content_html": "<p>I really liked the discussion on this week’s <a href=\"https://fatalerror.fm/episodes/2018/3/2/59-why-did-they-even-hire-chris\">Fatal Error</a> about impostor syndrome. I deal with this constantly as a newer part of an iOS team that has many <em>way smarter</em> and more experienced people than me.</p>\n",
+			"date_published": "2018-03-05T09:02:00-08:00",
+			"url": "https://mb.jsorge.net/2018/03/05/i-really-liked.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/03/05/new-post-from.html",
 	      	
 			"content_html": "<p>New post from jsorge.net: <a href=\"http://jsorge.net/2018/03/05/xcoders-talk-practical-coordinators/\">Xcoders Talk: Practical Coordinators</a></p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p>I’m starting a Rubber Ducking group of text files to try to figure out solutions to my programming problems. In a completely open office talking to a rubber duck would feel <em>super</em> awkward. This should be a good replacement for pinging coworkers on Slack.</p>\n",
 			"date_published": "2018-02-02T09:03:00-08:00",
 			"url": "https://mb.jsorge.net/2018/02/02/im-starting-a.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/02/02/sending-a-fax.html",
-	      	
-			"content_html": "<p>Sending a fax like it’s 1998, only on the internet because it’s 2018. Why do fraud places that handle “sensitive information” think that this is still a secure way to send data?</p>\n",
-			"date_published": "2018-02-01T21:55:00-08:00",
-			"url": "https://mb.jsorge.net/2018/02/01/sending-a-fax.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/02/01/i-learned-today.html",
-	      	
-			"content_html": "<p>I learned today that iCloud syncs iPhone call histories. I’ve got a work phone that’s been buzzing with pages all week, and those calls are on my personal phone’s history. Crazy. And there’s no way to disable that sync as far as I can tell.</p>\n",
-			"date_published": "2018-01-31T21:56:00-08:00",
-			"url": "https://mb.jsorge.net/2018/01/31/i-learned-today.html"
 		}
 		
 	]
