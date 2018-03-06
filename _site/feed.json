@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/03/06/yes-the-bookarc.html",
+	      	
+			"content_html": "<p>YES!!! The <a href=\"https://www.twelvesouth.com/product/bookarc-mod-for-macbook\">BookArc möd</a> got updated to work with the TouchBar MacBook Pro!</p>\n",
+			"date_published": "2018-03-06T07:45:00-08:00",
+			"url": "https://mb.jsorge.net/2018/03/06/yes-the-bookarc.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/03/06/martini-followup-tasty.html",
 	      	
 			"content_html": "<p>Martini follow-up: tasty but strong. We are really feeling them!</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Today we are all Eagles fans.</p>\n",
 			"date_published": "2018-02-04T15:15:00-08:00",
 			"url": "https://mb.jsorge.net/2018/02/04/today-we-are.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/02/04/tweetstorms-should-not.html",
-	      	
-			"content_html": "<p>Tweetstorms should not be used in place of blog posts. I just read a really great chain of thoughts that I <em>really</em> wish was a blog post that I could point a link to, but instead I’d have to pick one or two tweets that I hope get displayed properly in your client of choice.</p>\n",
-			"date_published": "2018-02-04T09:56:00-08:00",
-			"url": "https://mb.jsorge.net/2018/02/04/tweetstorms-should-not.html"
 		}
 		
 	]
