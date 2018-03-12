@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-04-28 12:26 -0800
 guid: http://jsorge.micro.blog/2017/04/28/in-doing-this.html
 ---
