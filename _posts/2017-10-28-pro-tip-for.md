@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-10-28 12:18 -0800
 guid: http://jsorge.micro.blog/2017/10/28/pro-tip-for.html
 ---
