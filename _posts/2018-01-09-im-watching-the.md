@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-09 08:27 -0800
 guid: http://jsorge.micro.blog/2018/01/09/im-watching-the.html
 ---
