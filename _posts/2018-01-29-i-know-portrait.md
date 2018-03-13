@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-28 21:05 -0800
 guid: http://jsorge.micro.blog/2018/01/29/i-know-portrait.html
 ---
