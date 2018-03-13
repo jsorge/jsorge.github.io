@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-07-26 15:51 -0800
 guid: http://jsorge.micro.blog/2017/07/26/meetings-meetings-meetings.html
 ---
