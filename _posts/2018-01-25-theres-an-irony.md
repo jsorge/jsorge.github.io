@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-25 08:44 -0800
 guid: http://jsorge.micro.blog/2018/01/25/theres-an-irony.html
 ---
