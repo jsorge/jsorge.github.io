@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-03 19:27 -0800
 guid: http://jsorge.micro.blog/2018/01/04/im-starting-the.html
 ---
