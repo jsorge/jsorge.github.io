@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-08-05 21:05 -0800
 guid: http://jsorge.micro.blog/2017/08/06/taking-my-first.html
 ---
