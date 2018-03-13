@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-11-27 18:15 -0800
 guid: http://jsorge.micro.blog/2017/11/28/after-years-at.html
 ---
