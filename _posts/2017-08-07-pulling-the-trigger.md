@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-08-07 11:52 -0800
 guid: http://jsorge.micro.blog/2017/08/07/pulling-the-trigger.html
 ---
