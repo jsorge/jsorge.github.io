@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-11-01 16:09 -0800
 guid: http://jsorge.micro.blog/2017/11/02/its-so-much.html
 ---
