@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-06 08:51 -0800
 guid: http://jsorge.micro.blog/2018/02/06/i-decided-last.html
 ---
