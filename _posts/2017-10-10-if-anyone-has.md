@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-10-10 12:52 -0800
 guid: http://jsorge.micro.blog/2017/10/10/if-anyone-has.html
 ---
