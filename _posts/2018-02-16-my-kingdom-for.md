@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-16 10:01 -0800
 guid: http://jsorge.micro.blog/2018/02/16/my-kingdom-for.html
 ---
