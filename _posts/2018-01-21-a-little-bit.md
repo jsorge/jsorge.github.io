@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-21 15:37 -0800
 guid: http://jsorge.micro.blog/2018/01/21/a-little-bit.html
 ---
