@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-30 20:40 -0800
 guid: http://jsorge.micro.blog/2017/12/31/today-we-celebrated.html
 ---
