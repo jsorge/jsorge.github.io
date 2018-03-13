@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-22 16:04 -0800
 guid: http://jsorge.micro.blog/2018/02/23/i-learned-about.html
 ---
