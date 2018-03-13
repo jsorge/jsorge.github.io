@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-06 09:59 -0800
 guid: http://jsorge.micro.blog/2018/01/06/whats-the-deal.html
 ---
