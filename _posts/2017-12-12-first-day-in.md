@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-11 19:27 -0800
 guid: http://jsorge.micro.blog/2017/12/12/first-day-in.html
 ---
