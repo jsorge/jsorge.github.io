@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-03-06 07:45 -0800
 guid: http://jsorge.micro.blog/2018/03/06/yes-the-bookarc.html
 ---
