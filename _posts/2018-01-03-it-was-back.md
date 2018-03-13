@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-02 21:02 -0800
 guid: http://jsorge.micro.blog/2018/01/03/it-was-back.html
 ---
