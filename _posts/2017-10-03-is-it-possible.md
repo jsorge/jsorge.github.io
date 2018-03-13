@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-10-03 09:49 -0800
 guid: http://jsorge.micro.blog/2017/10/03/is-it-possible.html
 ---
