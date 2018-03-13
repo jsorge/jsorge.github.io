@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-04 07:11 -0800
 guid: http://jsorge.micro.blog/2018/01/04/yay-the-bus.html
 ---
