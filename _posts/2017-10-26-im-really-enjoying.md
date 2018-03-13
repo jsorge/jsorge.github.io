@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-10-26 07:41 -0800
 guid: http://jsorge.micro.blog/2017/10/26/im-really-enjoying.html
 ---
