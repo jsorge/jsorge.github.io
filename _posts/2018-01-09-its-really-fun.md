@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-08 22:17 -0800
 guid: http://jsorge.micro.blog/2018/01/09/its-really-fun.html
 ---
