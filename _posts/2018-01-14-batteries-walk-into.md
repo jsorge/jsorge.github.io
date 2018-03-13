@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-13 21:21 -0800
 guid: http://jsorge.micro.blog/2018/01/14/batteries-walk-into.html
 ---
