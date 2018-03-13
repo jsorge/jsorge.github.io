@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-04 16:00 -0800
 guid: http://jsorge.micro.blog/2018/02/05/i-missed-the.html
 ---
