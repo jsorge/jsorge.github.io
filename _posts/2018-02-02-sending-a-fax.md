@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-01 21:55 -0800
 guid: http://jsorge.micro.blog/2018/02/02/sending-a-fax.html
 ---
