@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-07-13 09:45 -0800
 guid: http://jsorge.micro.blog/2017/07/13/ripping-out-fabric.html
 ---
