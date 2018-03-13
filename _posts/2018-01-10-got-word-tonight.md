@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-09 21:13 -0800
 guid: http://jsorge.micro.blog/2018/01/10/got-word-tonight.html
 ---
