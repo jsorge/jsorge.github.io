@@ -3,7 +3,7 @@ layout: post
 title: "Drinkology"
 microblog: false
 audio: 
-date: 2018-01-30 22:03 -0800
+date: 2018-01-30 23:03 -0700
 guid: http://jsorge.micro.blog/2018/01/31/been-getting-into.html
 ---
 
