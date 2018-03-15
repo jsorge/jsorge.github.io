@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-31 09:00 -0800
+date: 2018-01-31 10:00 -0700
 guid: http://jsorge.micro.blog/2018/01/31/this-seems-to.html
 ---
 This seems to aptly sum up my week thus far.
