@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-01 14:33 -0800
+date: 2018-01-01 15:33 -0700
 guid: http://jsorge.micro.blog/2018/01/01/for-my-birthday.html
 ---
 For my birthday, Emily rented a Tesla for us to drive for the day. It’s such a fun car to drive!
