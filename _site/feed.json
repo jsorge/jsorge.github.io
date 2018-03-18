@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/03/18/i-found-a.html",
+	      	
+			"content_html": "<p>I found a <a href=\"https://www.thespruce.com/sausage-and-mash-with-onion-gravy-434904\">really tasty recipe for bangers and mash</a> and made it for dinner tonight. The only thing I failed to get was Guinness or Jameson.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/7aa58f24a9.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-17T22:08:00-07:00",
+			"url": "https://mb.jsorge.net/2018/03/17/i-found-a.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/03/15/160919.html",
 	      	
 			"content_html": "<p><a href=\"http://mb.jsorge.net/uploads/2018/09719ed1d8.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/09719ed1d8.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>I really like how my desk setup is coming along at my work loft space. Today I got my BookArc möd installed and it really opens up the workspace. And the single cable connection to the TS3Plus dock is a huge win.</p>\n\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>I really love it when stuff I’m trying to figure out just starts to click. I’m also a little bit embarrassed when it’s stuff that I feel like either I should have known about, or “someone in my position would have known about it”. Hello imposter syndrome.</p>\n",
 			"date_published": "2018-02-06T12:57:00-07:00",
 			"url": "https://mb.jsorge.net/2018/02/06/i-really-love.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/02/06/i-decided-last.html",
-	      	
-			"content_html": "<p>I decided last week to figure out how to get all of my commits to be Verified like they are on GitHub. It was actually pretty easy once I found <a href=\"https://aaronparecki.com/2016/07/29/10/git-tower\">this helpful blog post</a> to guide me! Thanks Aaron!</p>\n",
-			"date_published": "2018-02-06T09:51:00-07:00",
-			"url": "https://mb.jsorge.net/2018/02/06/i-decided-last.html"
 		}
 		
 	]
