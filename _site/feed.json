@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/03/20/it-took-years.html",
+	      	
+			"content_html": "<p>It took 35 years, but today I had my first cavity filled (it was found last week). Thankfully it was just an enamel level thing and I didn’t even need to get numbed up for it. In and out in 20 minutes\u0010.</p>\n",
+			"date_published": "2018-03-20T12:41:00-07:00",
+			"url": "https://mb.jsorge.net/2018/03/20/it-took-years.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/03/20/ive-been-trying.html",
 	      	
 			"content_html": "<p>I’ve been trying to put together thoughts on Facebook. It boils down to: I want to delete it, but more than that want some kind of open web replacement that people will use to organize groups and scope things that are shared to certain groups or people.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>I won the Pearl Jam drawing for the Seattle shows on both 8/8 and 8/10! I’m so excited to see them this summer.</p>\n",
 			"date_published": "2018-02-12T21:43:00-07:00",
 			"url": "https://mb.jsorge.net/2018/02/12/i-won-the.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/02/08/got-registered-for.html",
-	      	
-			"content_html": "<p>Got registered for the Pearl Jam home show ticket lottery. Really hoping we can get tickets on Monday!</p>\n",
-			"date_published": "2018-02-07T23:13:00-07:00",
-			"url": "https://mb.jsorge.net/2018/02/07/got-registered-for.html"
 		}
 		
 	]
