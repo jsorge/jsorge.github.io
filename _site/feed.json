@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/03/20/ive-been-trying.html",
+	      	
+			"content_html": "<p>I’ve been trying to put together thoughts on Facebook. It boils down to: I want to delete it, but more than that want some kind of open web replacement that people will use to organize groups and scope things that are shared to certain groups or people.</p>\n",
+			"date_published": "2018-03-19T21:59:00-07:00",
+			"url": "https://mb.jsorge.net/2018/03/19/ive-been-trying.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/03/19/it-takes-a.html",
 	      	
 			"content_html": "<p>It takes a special kind of awful to make a form like this one tab vertically.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/c1db1bf5f9.jpg\" width=\"600\" height=\"501\" /></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Got registered for the Pearl Jam home show ticket lottery. Really hoping we can get tickets on Monday!</p>\n",
 			"date_published": "2018-02-07T23:13:00-07:00",
 			"url": "https://mb.jsorge.net/2018/02/07/got-registered-for.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/02/08/interesting-behavior-in.html",
-	      	
-			"content_html": "<p>Interesting behavior in <a href=\"https://micro.blog/manton\">@manton</a>’s new Sunlit. I wasn’t expecting a story to equate to a blog post that gets updated. Feels like a Sunlit story’s entries should each be a micro.blog post. It’s a fun app though and I’m excited to see where it goes from here.</p>\n",
-			"date_published": "2018-02-07T23:04:00-07:00",
-			"url": "https://mb.jsorge.net/2018/02/07/interesting-behavior-in.html"
 		}
 		
 	]
