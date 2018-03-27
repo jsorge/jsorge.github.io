@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Tue, 27 Mar 2018 07:11:54 -0700</pubDate>
-    <lastBuildDate>Tue, 27 Mar 2018 07:11:54 -0700</lastBuildDate>
+    <pubDate>Tue, 27 Mar 2018 08:00:24 -0700</pubDate>
+    <lastBuildDate>Tue, 27 Mar 2018 08:00:24 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;It’s super weird following liveblogs and tweets from Apple’s event rather than watching the live stream.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Mar 2018 08:00:00 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/03/27/its-super-weird.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/03/27/its-super-weird.html</guid>
+      </item>
     
       <item>
       	
@@ -486,15 +495,6 @@
         <pubDate>Thu, 25 Jan 2018 09:44:00 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/01/25/theres-an-irony.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/01/25/theres-an-irony.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Been wondering for weeks why I couldn’t get port forwarding to work on my Airport Extreme. Turns out, I was forwarding the port to the wrong internal IP. 🤦‍♂️&lt;/p&gt;
-</description>
-        <pubDate>Wed, 24 Jan 2018 22:28:00 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/01/24/been-wondering-for.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/01/25/been-wondering-for.html</guid>
       </item>
     
   </channel>
