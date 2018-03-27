@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/03/27/i-woke-up.html",
+	      	
+			"content_html": "<p>I woke up this morning to my Tower 3 Public Beta invite! After reading the What’s New post I can’t wait to dive in. <a href=\"https://www.git-tower.com/public-beta-2018\">Sign up if you’re interested in the best git client for the Mac.</a></p>\n",
+			"date_published": "2018-03-27T07:11:00-07:00",
+			"url": "https://mb.jsorge.net/2018/03/27/i-woke-up.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/03/26/this-is-going.html",
 	      	
 			"content_html": "<p>This is going to be a good week if for no other reason that the baseball season begins on Thursday.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>We are at the Paramount seeing Hamilton. But I almost didn’t get to.</p>\n\n<p>When we got to the theater only one ticket was in my pocket. So we walked back to the van to behold our other one on the ground behind the van in the garage. Thank God it was still there.  That was terrifying.</p>\n",
 			"date_published": "2018-02-17T20:48:00-07:00",
 			"url": "https://mb.jsorge.net/2018/02/17/we-are-at.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/02/18/if-theres-a.html",
-	      	
-			"content_html": "<p>If there’s a sazerac recipe you enjoy, I’d love to hear about it 🥃</p>\n",
-			"date_published": "2018-02-17T17:24:00-07:00",
-			"url": "https://mb.jsorge.net/2018/02/17/if-theres-a.html"
 		}
 		
 	]
