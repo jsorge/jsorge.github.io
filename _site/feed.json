@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/03/27/its-super-weird.html",
+	      	
+			"content_html": "<p>It’s super weird following liveblogs and tweets from Apple’s event rather than watching the live stream.</p>\n",
+			"date_published": "2018-03-27T08:00:00-07:00",
+			"url": "https://mb.jsorge.net/2018/03/27/its-super-weird.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/03/27/i-woke-up.html",
 	      	
 			"content_html": "<p>I woke up this morning to my Tower 3 Public Beta invite! After reading the What’s New post I can’t wait to dive in. <a href=\"https://www.git-tower.com/public-beta-2018\">Sign up if you’re interested in the best git client for the Mac.</a></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p><img src=\"http://mb.jsorge.net/uploads/2018/cf19ce26ad.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n",
 			"date_published": "2018-02-17T20:52:00-07:00",
 			"url": "https://mb.jsorge.net/2018/02/17/hamilton.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/02/18/we-are-at.html",
-	      	
-			"content_html": "<p>We are at the Paramount seeing Hamilton. But I almost didn’t get to.</p>\n\n<p>When we got to the theater only one ticket was in my pocket. So we walked back to the van to behold our other one on the ground behind the van in the garage. Thank God it was still there.  That was terrifying.</p>\n",
-			"date_published": "2018-02-17T20:48:00-07:00",
-			"url": "https://mb.jsorge.net/2018/02/17/we-are-at.html"
 		}
 		
 	]
