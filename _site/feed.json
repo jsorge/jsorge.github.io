@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/03/28/i-just-downloaded.html",
+	      	
+			"content_html": "<p>I just downloaded <a href=\"https://itunes.apple.com/us/app/charles-proxy/id1134218562?mt=8\">Charles Proxy for iOS</a> and it’s seriously amazing. Go get it!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/5c21c7f204.jpg\" width=\"300\" height=\"300\" /></p>\n",
+			"date_published": "2018-03-27T18:40:00-07:00",
+			"url": "https://mb.jsorge.net/2018/03/27/i-just-downloaded.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/03/27/its-super-weird.html",
 	      	
 			"content_html": "<p>It’s super weird following liveblogs and tweets from Apple’s event rather than watching the live stream.</p>\n",
@@ -195,16 +203,6 @@
 			"content_html": "<p>Ugh. I hate that Google Meet requires Chrome and doesn’t work on Safari. Are we really going to go back to the proprietary IE 6 days???</p>\n",
 			"date_published": "2018-02-22T10:49:00-07:00",
 			"url": "https://mb.jsorge.net/2018/02/22/ugh-i-hate.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/02/18/hamilton.html",
-	      	
-			"title": "Hamilton!",
-			
-			"content_html": "<p><img src=\"http://mb.jsorge.net/uploads/2018/cf19ce26ad.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n",
-			"date_published": "2018-02-17T20:52:00-07:00",
-			"url": "https://mb.jsorge.net/2018/02/17/hamilton.html"
 		}
 		
 	]
