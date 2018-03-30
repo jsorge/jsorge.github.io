@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/03/30/it-wouldnt-be.html",
+	      	
+			"content_html": "<p>It wouldn’t be a Mariners win without an interesting 9th inning. Baseball is back! Go M’s!</p>\n",
+			"date_published": "2018-03-29T21:46:00-07:00",
+			"url": "https://mb.jsorge.net/2018/03/29/it-wouldnt-be.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/03/28/i-just-downloaded.html",
 	      	
 			"content_html": "<p>I just downloaded <a href=\"https://itunes.apple.com/us/app/charles-proxy/id1134218562?mt=8\">Charles Proxy for iOS</a> and it’s seriously amazing. Go get it!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/5c21c7f204.jpg\" width=\"300\" height=\"300\" /></p>\n",
@@ -113,7 +121,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/06/yes-the-bookarc.html",
 	      	
 			"content_html": "<p>YES!!! The <a href=\"https://www.twelvesouth.com/product/bookarc-mod-for-macbook\">BookArc möd</a> got updated to work with the TouchBar MacBook Pro!</p>\n",
-			"date_published": "2018-03-06T08:45:00-07:00",
+			"date_published": "2018-03-06T07:45:00-08:00",
 			"url": "https://mb.jsorge.net/2018/03/06/yes-the-bookarc.html"
 		},
 		
@@ -121,7 +129,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/06/martini-followup-tasty.html",
 	      	
 			"content_html": "<p>Martini follow-up: tasty but strong. We are really feeling them!</p>\n",
-			"date_published": "2018-03-05T22:45:00-07:00",
+			"date_published": "2018-03-05T21:45:00-08:00",
 			"url": "https://mb.jsorge.net/2018/03/05/martini-followup-tasty.html"
 		},
 		
@@ -129,15 +137,15 @@
 			"id": "http://jsorge.micro.blog/2018/03/06/tonights-mixology-experiment.html",
 	      	
 			"content_html": "<p>Tonight’s mixology experiment: sweet martinis. My first attempt at a martini. Got <a href=\"http://www.lostsaloon.com/mixology/how-to-make-a-sweet-vermouth-martini/\">this recipe</a> and they turned out pretty well!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/4789ece8a7.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-05T21:38:00-07:00",
+			"date_published": "2018-03-05T20:38:00-08:00",
 			"url": "https://mb.jsorge.net/2018/03/05/tonights-mixology-experiment.html"
 		},
 		
 		{
 			"id": "http://jsorge.micro.blog/2018/03/05/over-the-weekend.html",
 	      	
-			"content_html": "<p><img src=\"http://mb.jsorge.net/uploads/2018/dc37b499cf.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Over the weekend I took what may be my favorite iPhone camera picture to date. </p>\n\n",
-			"date_published": "2018-03-05T11:00:00-07:00",
+			"content_html": "<p><img src=\"http://mb.jsorge.net/uploads/2018/dc37b499cf.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Over the weekend I took what may be my favorite iPhone camera picture to date.</p>\n\n",
+			"date_published": "2018-03-05T10:00:00-08:00",
 			"url": "https://mb.jsorge.net/2018/03/05/over-the-weekend.html"
 		},
 		
@@ -145,7 +153,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/05/i-really-liked.html",
 	      	
 			"content_html": "<p>I really liked the discussion on this week’s <a href=\"https://fatalerror.fm/episodes/2018/3/2/59-why-did-they-even-hire-chris\">Fatal Error</a> about impostor syndrome. I deal with this constantly as a newer part of an iOS team that has many <em>way smarter</em> and more experienced people than me.</p>\n",
-			"date_published": "2018-03-05T10:02:00-07:00",
+			"date_published": "2018-03-05T09:02:00-08:00",
 			"url": "https://mb.jsorge.net/2018/03/05/i-really-liked.html"
 		},
 		
@@ -153,7 +161,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/05/new-post-from.html",
 	      	
 			"content_html": "<p>New post from jsorge.net: <a href=\"http://jsorge.net/2018/03/05/xcoders-talk-practical-coordinators/\">Xcoders Talk: Practical Coordinators</a></p>\n",
-			"date_published": "2018-03-05T09:25:00-07:00",
+			"date_published": "2018-03-05T08:25:00-08:00",
 			"url": "https://mb.jsorge.net/2018/03/05/new-post-from.html"
 		},
 		
@@ -161,7 +169,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/05/the-open-web.html",
 	      	
 			"content_html": "<p>The open web is really cool. I just set up a Zapier hook to add a micro.blog post whenever I post something new to my site. And I’ve got a new post coming in the morning so it will be tested out shortly!</p>\n",
-			"date_published": "2018-03-04T23:33:00-07:00",
+			"date_published": "2018-03-04T22:33:00-08:00",
 			"url": "https://mb.jsorge.net/2018/03/04/the-open-web.html"
 		},
 		
@@ -169,7 +177,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/01/ive-been-feeling.html",
 	      	
 			"content_html": "<p>I’ve been feeling a ton of pain debugging Notification Service extensions. Banging my head against the wall again and again.</p>\n",
-			"date_published": "2018-03-01T09:45:00-07:00",
+			"date_published": "2018-03-01T08:45:00-08:00",
 			"url": "https://mb.jsorge.net/2018/03/01/ive-been-feeling.html"
 		},
 		
@@ -177,7 +185,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/01/its-a-weird.html",
 	      	
 			"content_html": "<p>It’s a weird feeling when you learn about someone’s death from your weather app, but because the app has an evil AI you go to Wikipedia to confirm that Alan Thicke really is dead. Of course that AI could have also hacked Wikipedia too. Thanks @CARROT_app!</p>\n",
-			"date_published": "2018-03-01T06:51:00-07:00",
+			"date_published": "2018-03-01T05:51:00-08:00",
 			"url": "https://mb.jsorge.net/2018/03/01/its-a-weird.html"
 		},
 		
@@ -185,7 +193,7 @@
 			"id": "http://jsorge.micro.blog/2018/02/23/i-learned-about.html",
 	      	
 			"content_html": "<p>I learned about a really cool new app today, and decided to <a href=\"https://jsorge.net/2018/02/22/making-proper-apps-from-websites/\">write about it.</a></p>\n\n<p>I really should write about small stuff more.</p>\n",
-			"date_published": "2018-02-22T17:04:00-07:00",
+			"date_published": "2018-02-22T16:04:00-08:00",
 			"url": "https://mb.jsorge.net/2018/02/22/i-learned-about.html"
 		},
 		
@@ -193,16 +201,8 @@
 			"id": "http://jsorge.micro.blog/2018/02/22/i-turned-off.html",
 	      	
 			"content_html": "<p>I turned off Dock badging on Slack and I’m feeling much happier now.</p>\n",
-			"date_published": "2018-02-22T15:11:00-07:00",
+			"date_published": "2018-02-22T14:11:00-08:00",
 			"url": "https://mb.jsorge.net/2018/02/22/i-turned-off.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/02/22/ugh-i-hate.html",
-	      	
-			"content_html": "<p>Ugh. I hate that Google Meet requires Chrome and doesn’t work on Safari. Are we really going to go back to the proprietary IE 6 days???</p>\n",
-			"date_published": "2018-02-22T10:49:00-07:00",
-			"url": "https://mb.jsorge.net/2018/02/22/ugh-i-hate.html"
 		}
 		
 	]
