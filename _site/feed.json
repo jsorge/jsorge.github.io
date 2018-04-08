@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/04/08/interesting-weather-fact.html",
+	      	
+			"content_html": "<p>Interesting weather fact: it’s much colder in western Washington right now than it is in Hawaii. Who knew?</p>\n",
+			"date_published": "2018-04-07T23:41:00-07:00",
+			"url": "https://mb.jsorge.net/2018/04/07/interesting-weather-fact.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/08/i-thought-it.html",
+	      	
+			"content_html": "<p>I thought it was a good idea to get Dick’s cheeseburgers because we haven’t eaten since ~2:30pm PDT. Turns out this place is popular at 11:30pm.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/a9dd709705.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-04-07T23:35:00-07:00",
+			"url": "https://mb.jsorge.net/2018/04/07/i-thought-it.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/04/08/back-in-seattle.html",
 	      	
 			"content_html": "<p>Back in Seattle.</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>I really liked the discussion on this week’s <a href=\"https://fatalerror.fm/episodes/2018/3/2/59-why-did-they-even-hire-chris\">Fatal Error</a> about impostor syndrome. I deal with this constantly as a newer part of an iOS team that has many <em>way smarter</em> and more experienced people than me.</p>\n",
 			"date_published": "2018-03-05T09:02:00-08:00",
 			"url": "https://mb.jsorge.net/2018/03/05/i-really-liked.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/03/05/new-post-from.html",
-	      	
-			"content_html": "<p>New post from jsorge.net: <a href=\"http://jsorge.net/2018/03/05/xcoders-talk-practical-coordinators/\">Xcoders Talk: Practical Coordinators</a></p>\n",
-			"date_published": "2018-03-05T08:25:00-08:00",
-			"url": "https://mb.jsorge.net/2018/03/05/new-post-from.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/03/05/the-open-web.html",
-	      	
-			"content_html": "<p>The open web is really cool. I just set up a Zapier hook to add a micro.blog post whenever I post something new to my site. And I’ve got a new post coming in the morning so it will be tested out shortly!</p>\n",
-			"date_published": "2018-03-04T22:33:00-08:00",
-			"url": "https://mb.jsorge.net/2018/03/04/the-open-web.html"
 		}
 		
 	]
