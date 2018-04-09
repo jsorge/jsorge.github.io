@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/04/08/set-up-my.html",
+	      	
+			"content_html": "<p>Set up my SodaStream that came in while I was gone. I’ve been drinking lots of fizzy water while working and I’m happy to be able to make my own now. Any flavor recommendations I should try?</p>\n",
+			"date_published": "2018-04-08T16:14:00-07:00",
+			"url": "https://mb.jsorge.net/2018/04/08/set-up-my.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/04/08/interesting-weather-fact.html",
 	      	
 			"content_html": "<p>Interesting weather fact: it’s much colder in western Washington right now than it is in Hawaii. Who knew?</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><img src=\"http://mb.jsorge.net/uploads/2018/dc37b499cf.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Over the weekend I took what may be my favorite iPhone camera picture to date.</p>\n\n",
 			"date_published": "2018-03-05T10:00:00-08:00",
 			"url": "https://mb.jsorge.net/2018/03/05/over-the-weekend.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/03/05/i-really-liked.html",
-	      	
-			"content_html": "<p>I really liked the discussion on this week’s <a href=\"https://fatalerror.fm/episodes/2018/3/2/59-why-did-they-even-hire-chris\">Fatal Error</a> about impostor syndrome. I deal with this constantly as a newer part of an iOS team that has many <em>way smarter</em> and more experienced people than me.</p>\n",
-			"date_published": "2018-03-05T09:02:00-08:00",
-			"url": "https://mb.jsorge.net/2018/03/05/i-really-liked.html"
 		}
 		
 	]
