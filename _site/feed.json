@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/04/09/i-got-one.html",
+	      	
+			"content_html": "<p>I got one of the SodaStream lemon flavorings and it’s pretty tasty. But the straight up water is good too. I’m really digging this thing.</p>\n",
+			"date_published": "2018-04-09T08:40:00-07:00",
+			"url": "https://mb.jsorge.net/2018/04/09/i-got-one.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/04/09/back-at-work.html",
 	      	
 			"content_html": "<p>Back at work, catching up on emails, commits, Slack messages, etc. And I’ve got a feature to merge in today. Big day!</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>YES!!! The <a href=\"https://www.twelvesouth.com/product/bookarc-mod-for-macbook\">BookArc möd</a> got updated to work with the TouchBar MacBook Pro!</p>\n",
 			"date_published": "2018-03-06T07:45:00-08:00",
 			"url": "https://mb.jsorge.net/2018/03/06/yes-the-bookarc.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/03/06/martini-followup-tasty.html",
-	      	
-			"content_html": "<p>Martini follow-up: tasty but strong. We are really feeling them!</p>\n",
-			"date_published": "2018-03-05T21:45:00-08:00",
-			"url": "https://mb.jsorge.net/2018/03/05/martini-followup-tasty.html"
 		}
 		
 	]
