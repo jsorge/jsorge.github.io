@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Sun, 08 Apr 2018 22:17:07 -0700</pubDate>
-    <lastBuildDate>Sun, 08 Apr 2018 22:17:07 -0700</lastBuildDate>
+    <pubDate>Mon, 09 Apr 2018 07:20:00 -0700</pubDate>
+    <lastBuildDate>Mon, 09 Apr 2018 07:20:00 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Back at work, catching up on emails, commits, Slack messages, etc. And I’ve got a feature to merge in today. Big day!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Apr 2018 07:19:00 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/04/09/back-at-work.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/09/back-at-work.html</guid>
+      </item>
     
       <item>
       	
@@ -476,15 +485,6 @@
         <pubDate>Fri, 02 Feb 2018 21:25:00 -0800</pubDate>
         <link>https://mb.jsorge.net/2018/02/02/throwing-this-out.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/02/03/throwing-this-out.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’m starting a Rubber Ducking group of text files to try to figure out solutions to my programming problems. In a completely open office talking to a rubber duck would feel &lt;em&gt;super&lt;/em&gt; awkward. This should be a good replacement for pinging coworkers on Slack.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 02 Feb 2018 09:03:00 -0800</pubDate>
-        <link>https://mb.jsorge.net/2018/02/02/im-starting-a.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/02/02/im-starting-a.html</guid>
       </item>
     
   </channel>
