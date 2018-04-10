@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/04/10/i-so-often.html",
+	      	
+			"content_html": "<p>I so often find myself trying to write a blog post and disliking how I write. I can get so wordy and my writing voice feels way different from my conversational voice. It’s pretty discouraging.</p>\n",
+			"date_published": "2018-04-09T23:09:00-07:00",
+			"url": "https://mb.jsorge.net/2018/04/09/i-so-often.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/04/09/i-got-one.html",
 	      	
 			"content_html": "<p>I got one of the SodaStream lemon flavorings and it’s pretty tasty. But the straight up water is good too. I’m really digging this thing.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Today I broke out he lawn mower for the first time this year. I’m so happy to have both a relatively small yard and an electric mower to mow it with.</p>\n",
 			"date_published": "2018-03-11T15:51:00-07:00",
 			"url": "https://mb.jsorge.net/2018/03/11/today-i-broke.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/03/06/yes-the-bookarc.html",
-	      	
-			"content_html": "<p>YES!!! The <a href=\"https://www.twelvesouth.com/product/bookarc-mod-for-macbook\">BookArc möd</a> got updated to work with the TouchBar MacBook Pro!</p>\n",
-			"date_published": "2018-03-06T07:45:00-08:00",
-			"url": "https://mb.jsorge.net/2018/03/06/yes-the-bookarc.html"
 		}
 		
 	]
