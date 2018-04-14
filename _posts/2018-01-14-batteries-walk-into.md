@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-13 22:21 -0700
+date: 2018-01-13 22:21:49 -0700
 guid: http://jsorge.micro.blog/2018/01/14/batteries-walk-into.html
 ---
 3 batteries walk into a bar:
