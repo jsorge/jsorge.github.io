@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-01 09:25 -0700
+date: 2018-04-01 09:25:38 -0700
 guid: http://jsorge.micro.blog/2018/04/01/the-tomb-is.html
 ---
 The tomb is empty, because Christ is risen. Happy Easter!
