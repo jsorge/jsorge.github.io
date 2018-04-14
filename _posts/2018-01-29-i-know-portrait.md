@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-28 22:05 -0700
+date: 2018-01-28 22:05:24 -0700
 guid: http://jsorge.micro.blog/2018/01/29/i-know-portrait.html
 ---
 
