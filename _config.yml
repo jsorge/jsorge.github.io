@@ -31,6 +31,7 @@ baseurl: ""
 url: "https://mb.jsorge.net"
 markdown: "kramdown"
 username: "jsorge"
+microblog_user: "jsorge"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Jared Sorge"
@@ -47,3 +48,5 @@ paginate_path: "/page/:num/"
 timezone: "US/Pacific-New"
 site_id: "373"
 gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
