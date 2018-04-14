@@ -6,10 +6,18 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/04/14/a-conversation-ive.html",
+	      	
+			"content_html": "<p>A conversation I’ve been having at work a lot recently is about <code class=\"highlighter-rouge\">flatMap</code> and why the heck we use it on optional types. <a href=\"http://www.figure.ink/blog/2018/3/29/optionals-as-collections\">This is a really nice summary by Joshua Emmons</a> of the things ive been learning.</p>\n",
+			"date_published": "2018-04-14T09:32:53-07:00",
+			"url": "https://mb.jsorge.net/2018/04/14/a-conversation-ive.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/04/10/i-so-often.html",
 	      	
 			"content_html": "<p>I so often find myself trying to write a blog post and disliking how I write. I can get so wordy and my writing voice feels way different from my conversational voice. It’s pretty discouraging.</p>\n",
-			"date_published": "2018-04-09T23:09:00-07:00",
+			"date_published": "2018-04-09T23:09:39-07:00",
 			"url": "https://mb.jsorge.net/2018/04/09/i-so-often.html"
 		},
 		
@@ -17,7 +25,7 @@
 			"id": "http://jsorge.micro.blog/2018/04/09/i-got-one.html",
 	      	
 			"content_html": "<p>I got one of the SodaStream lemon flavorings and it’s pretty tasty. But the straight up water is good too. I’m really digging this thing.</p>\n",
-			"date_published": "2018-04-09T08:40:00-07:00",
+			"date_published": "2018-04-09T08:40:41-07:00",
 			"url": "https://mb.jsorge.net/2018/04/09/i-got-one.html"
 		},
 		
@@ -25,7 +33,7 @@
 			"id": "http://jsorge.micro.blog/2018/04/09/back-at-work.html",
 	      	
 			"content_html": "<p>Back at work, catching up on emails, commits, Slack messages, etc. And I’ve got a feature to merge in today. Big day!</p>\n",
-			"date_published": "2018-04-09T07:19:00-07:00",
+			"date_published": "2018-04-09T07:19:58-07:00",
 			"url": "https://mb.jsorge.net/2018/04/09/back-at-work.html"
 		},
 		
@@ -33,7 +41,7 @@
 			"id": "http://jsorge.micro.blog/2018/04/09/051705.html",
 	      	
 			"content_html": "<p>New post from jsorge.net: <a href=\"http://jsorge.net/2018/04/08/hawaii-trip/\">Hawaii Trip</a></p>\n",
-			"date_published": "2018-04-08T22:17:00-07:00",
+			"date_published": "2018-04-08T22:17:05-07:00",
 			"url": "https://mb.jsorge.net/2018/04/08/051705.html"
 		},
 		
@@ -41,7 +49,7 @@
 			"id": "http://jsorge.micro.blog/2018/04/08/set-up-my.html",
 	      	
 			"content_html": "<p>Set up my SodaStream that came in while I was gone. I’ve been drinking lots of fizzy water while working and I’m happy to be able to make my own now. Any flavor recommendations I should try?</p>\n",
-			"date_published": "2018-04-08T16:14:00-07:00",
+			"date_published": "2018-04-08T16:14:34-07:00",
 			"url": "https://mb.jsorge.net/2018/04/08/set-up-my.html"
 		},
 		
@@ -49,7 +57,7 @@
 			"id": "http://jsorge.micro.blog/2018/04/08/interesting-weather-fact.html",
 	      	
 			"content_html": "<p>Interesting weather fact: it’s much colder in western Washington right now than it is in Hawaii. Who knew?</p>\n",
-			"date_published": "2018-04-07T23:41:00-07:00",
+			"date_published": "2018-04-07T23:41:13-07:00",
 			"url": "https://mb.jsorge.net/2018/04/07/interesting-weather-fact.html"
 		},
 		
@@ -57,7 +65,7 @@
 			"id": "http://jsorge.micro.blog/2018/04/08/i-thought-it.html",
 	      	
 			"content_html": "<p>I thought it was a good idea to get Dick’s cheeseburgers because we haven’t eaten since ~2:30pm PDT. Turns out this place is popular at 11:30pm.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/a9dd709705.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-04-07T23:35:00-07:00",
+			"date_published": "2018-04-07T23:35:36-07:00",
 			"url": "https://mb.jsorge.net/2018/04/07/i-thought-it.html"
 		},
 		
@@ -73,7 +81,7 @@
 			"id": "http://jsorge.micro.blog/2018/04/07/we-head-back.html",
 	      	
 			"content_html": "<p>We head back home today after spending the week in Oahu. It’s been a fun trip, I took a lot of pictures, and the kids did super well. But I’m ready for my bed again. I wish I had written more but there just didn’t feel like time for it.</p>\n",
-			"date_published": "2018-04-07T09:29:00-07:00",
+			"date_published": "2018-04-07T09:29:50-07:00",
 			"url": "https://mb.jsorge.net/2018/04/07/we-head-back.html"
 		},
 		
@@ -81,7 +89,7 @@
 			"id": "http://jsorge.micro.blog/2018/04/03/i-can-confirm.html",
 	      	
 			"content_html": "<p>I can confirm that sunrises are really nice in Hawaii.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/92486e5c1a.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-04-03T10:03:00-07:00",
+			"date_published": "2018-04-03T10:03:16-07:00",
 			"url": "https://mb.jsorge.net/2018/04/03/i-can-confirm.html"
 		},
 		
@@ -89,7 +97,7 @@
 			"id": "http://jsorge.micro.blog/2018/04/01/the-tomb-is.html",
 	      	
 			"content_html": "<p>The tomb is empty, because Christ is risen. Happy Easter!</p>\n\n<p>“The wrapping that had been on His head was not lying with the linen cloths but was folded up in a separate place by itself. The other disciple, who had reached the tomb first, then entered the tomb, saw, and believed. For they still did not understand the Scripture that He must rise from the dead. (John 20:7-9, HCSB)”</p>\n",
-			"date_published": "2018-04-01T09:25:00-07:00",
+			"date_published": "2018-04-01T09:25:38-07:00",
 			"url": "https://mb.jsorge.net/2018/04/01/the-tomb-is.html"
 		},
 		
@@ -97,7 +105,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/30/it-wouldnt-be.html",
 	      	
 			"content_html": "<p>It wouldn’t be a Mariners win without an interesting 9th inning. Baseball is back! Go M’s!</p>\n",
-			"date_published": "2018-03-29T21:46:00-07:00",
+			"date_published": "2018-03-29T21:46:24-07:00",
 			"url": "https://mb.jsorge.net/2018/03/29/it-wouldnt-be.html"
 		},
 		
@@ -105,7 +113,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/28/i-just-downloaded.html",
 	      	
 			"content_html": "<p>I just downloaded <a href=\"https://itunes.apple.com/us/app/charles-proxy/id1134218562?mt=8\">Charles Proxy for iOS</a> and it’s seriously amazing. Go get it!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/5c21c7f204.jpg\" width=\"300\" height=\"300\" /></p>\n",
-			"date_published": "2018-03-27T18:40:00-07:00",
+			"date_published": "2018-03-27T18:40:33-07:00",
 			"url": "https://mb.jsorge.net/2018/03/27/i-just-downloaded.html"
 		},
 		
@@ -113,7 +121,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/27/its-super-weird.html",
 	      	
 			"content_html": "<p>It’s super weird following liveblogs and tweets from Apple’s event rather than watching the live stream.</p>\n",
-			"date_published": "2018-03-27T08:00:00-07:00",
+			"date_published": "2018-03-27T08:00:22-07:00",
 			"url": "https://mb.jsorge.net/2018/03/27/its-super-weird.html"
 		},
 		
@@ -121,7 +129,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/27/i-woke-up.html",
 	      	
 			"content_html": "<p>I woke up this morning to my Tower 3 Public Beta invite! After reading the What’s New post I can’t wait to dive in. <a href=\"https://www.git-tower.com/public-beta-2018\">Sign up if you’re interested in the best git client for the Mac.</a></p>\n",
-			"date_published": "2018-03-27T07:11:00-07:00",
+			"date_published": "2018-03-27T07:11:24-07:00",
 			"url": "https://mb.jsorge.net/2018/03/27/i-woke-up.html"
 		},
 		
@@ -129,7 +137,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/26/this-is-going.html",
 	      	
 			"content_html": "<p>This is going to be a good week if for no other reason that the baseball season begins on Thursday.</p>\n",
-			"date_published": "2018-03-26T11:07:00-07:00",
+			"date_published": "2018-03-26T11:07:55-07:00",
 			"url": "https://mb.jsorge.net/2018/03/26/this-is-going.html"
 		},
 		
@@ -137,7 +145,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/23/just-a-beautiful.html",
 	      	
 			"content_html": "<p><a href=\"http://mb.jsorge.net/uploads/2018/434916b144.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/434916b144.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Just a beautiful spring day.</p>\n\n",
-			"date_published": "2018-03-23T10:26:00-07:00",
+			"date_published": "2018-03-23T10:26:33-07:00",
 			"url": "https://mb.jsorge.net/2018/03/23/just-a-beautiful.html"
 		},
 		
@@ -145,7 +153,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/20/it-took-years.html",
 	      	
 			"content_html": "<p>It took 35 years, but today I had my first cavity filled (it was found last week). Thankfully it was just an enamel level thing and I didn’t even need to get numbed up for it. In and out in 20 minutes\u0010.</p>\n",
-			"date_published": "2018-03-20T12:41:00-07:00",
+			"date_published": "2018-03-20T12:41:36-07:00",
 			"url": "https://mb.jsorge.net/2018/03/20/it-took-years.html"
 		},
 		
@@ -153,7 +161,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/20/ive-been-trying.html",
 	      	
 			"content_html": "<p>I’ve been trying to put together thoughts on Facebook. It boils down to: I want to delete it, but more than that want some kind of open web replacement that people will use to organize groups and scope things that are shared to certain groups or people.</p>\n",
-			"date_published": "2018-03-19T21:59:00-07:00",
+			"date_published": "2018-03-19T21:59:45-07:00",
 			"url": "https://mb.jsorge.net/2018/03/19/ive-been-trying.html"
 		},
 		
@@ -161,7 +169,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/19/it-takes-a.html",
 	      	
 			"content_html": "<p>It takes a special kind of awful to make a form like this one tab vertically.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/c1db1bf5f9.jpg\" width=\"600\" height=\"501\" /></p>\n",
-			"date_published": "2018-03-18T20:39:00-07:00",
+			"date_published": "2018-03-18T20:39:15-07:00",
 			"url": "https://mb.jsorge.net/2018/03/18/it-takes-a.html"
 		},
 		
@@ -169,7 +177,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/18/i-found-a.html",
 	      	
 			"content_html": "<p>I found a <a href=\"https://www.thespruce.com/sausage-and-mash-with-onion-gravy-434904\">really tasty recipe for bangers and mash</a> and made it for dinner tonight. The only thing I failed to get was Guinness or Jameson.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/7aa58f24a9.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-17T22:08:00-07:00",
+			"date_published": "2018-03-17T22:08:08-07:00",
 			"url": "https://mb.jsorge.net/2018/03/17/i-found-a.html"
 		},
 		
@@ -177,7 +185,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/15/160919.html",
 	      	
 			"content_html": "<p><a href=\"http://mb.jsorge.net/uploads/2018/09719ed1d8.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/09719ed1d8.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>I really like how my desk setup is coming along at my work loft space. Today I got my BookArc möd installed and it really opens up the workspace. And the single cable connection to the TS3Plus dock is a huge win.</p>\n\n",
-			"date_published": "2018-03-15T09:09:00-07:00",
+			"date_published": "2018-03-15T09:09:19-07:00",
 			"url": "https://mb.jsorge.net/2018/03/15/160919.html"
 		},
 		
@@ -185,7 +193,7 @@
 			"id": "http://jsorge.micro.blog/2018/03/13/043433.html",
 	      	
 			"content_html": "<p>Are there any free or inexpensive image search APIs out there? I used to use the Bing Marketplace v1 one a couple years ago but that’s not around anymore.</p>\n",
-			"date_published": "2018-03-12T21:34:00-07:00",
+			"date_published": "2018-03-12T21:34:33-07:00",
 			"url": "https://mb.jsorge.net/2018/03/12/043433.html"
 		},
 		
@@ -193,16 +201,8 @@
 			"id": "http://jsorge.micro.blog/2018/03/12/maybe-its-me.html",
 	      	
 			"content_html": "<p>Maybe it’s me, but over the past few years I’ve found Deftones records to be simply wonderful music to work to.</p>\n",
-			"date_published": "2018-03-12T16:58:00-07:00",
+			"date_published": "2018-03-12T16:58:01-07:00",
 			"url": "https://mb.jsorge.net/2018/03/12/maybe-its-me.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/03/11/today-i-broke.html",
-	      	
-			"content_html": "<p>Today I broke out he lawn mower for the first time this year. I’m so happy to have both a relatively small yard and an electric mower to mow it with.</p>\n",
-			"date_published": "2018-03-11T15:51:00-07:00",
-			"url": "https://mb.jsorge.net/2018/03/11/today-i-broke.html"
 		}
 		
 	]
