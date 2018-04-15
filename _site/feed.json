@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/04/15/173327.html",
+	      	
+			"content_html": "<p>New post from jsorge.net: <a href=\"http://jsorge.net/2018/04/15/reconsidering-my-blogging-setup/\">Reconsidering My Blogging Setup</a></p>\n",
+			"date_published": "2018-04-15T10:33:27-07:00",
+			"url": "https://mb.jsorge.net/2018/04/15/173327.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/04/14/a-conversation-ive.html",
 	      	
 			"content_html": "<p>A conversation I’ve been having at work a lot recently is about <code class=\"highlighter-rouge\">flatMap</code> and why the heck we use it on optional types. <a href=\"http://www.figure.ink/blog/2018/3/29/optionals-as-collections\">This is a really nice summary by Joshua Emmons</a> of the things I’ve been learning.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Are there any free or inexpensive image search APIs out there? I used to use the Bing Marketplace v1 one a couple years ago but that’s not around anymore.</p>\n",
 			"date_published": "2018-03-12T21:34:33-07:00",
 			"url": "https://mb.jsorge.net/2018/03/12/043433.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/03/12/maybe-its-me.html",
-	      	
-			"content_html": "<p>Maybe it’s me, but over the past few years I’ve found Deftones records to be simply wonderful music to work to.</p>\n",
-			"date_published": "2018-03-12T16:58:01-07:00",
-			"url": "https://mb.jsorge.net/2018/03/12/maybe-its-me.html"
 		}
 		
 	]
