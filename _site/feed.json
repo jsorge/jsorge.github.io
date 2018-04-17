@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/04/17/i-love-little.html",
+	      	
+			"content_html": "<p>I love little touches in software that make me smile. I just added a footnote to a Day One entry.</p>\n",
+			"date_published": "2018-04-17T14:59:41-07:00",
+			"url": "https://mb.jsorge.net/2018/04/17/i-love-little.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/04/15/173327.html",
 	      	
 			"content_html": "<p>New post from jsorge.net: <a href=\"http://jsorge.net/2018/04/15/reconsidering-my-blogging-setup/\">Reconsidering My Blogging Setup</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"http://mb.jsorge.net/uploads/2018/09719ed1d8.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/09719ed1d8.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>I really like how my desk setup is coming along at my work loft space. Today I got my BookArc möd installed and it really opens up the workspace. And the single cable connection to the TS3Plus dock is a huge win.</p>\n\n",
 			"date_published": "2018-03-15T09:09:19-07:00",
 			"url": "https://mb.jsorge.net/2018/03/15/160919.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/03/13/043433.html",
-	      	
-			"content_html": "<p>Are there any free or inexpensive image search APIs out there? I used to use the Bing Marketplace v1 one a couple years ago but that’s not around anymore.</p>\n",
-			"date_published": "2018-03-12T21:34:33-07:00",
-			"url": "https://mb.jsorge.net/2018/03/12/043433.html"
 		}
 		
 	]
