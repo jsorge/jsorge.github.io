@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/04/20/swift-s-multiline.html",
+	      	
+			"content_html": "<p>Swift 4’s multi-line string literals are amazing!</p>\n",
+			"date_published": "2018-04-20T16:10:35-07:00",
+			"url": "https://mb.jsorge.net/2018/04/20/swift-s-multiline.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/04/17/i-love-little.html",
 	      	
 			"content_html": "<p>I love little touches in software that make me smile. I just added a footnote to a Day One entry.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I found a <a href=\"https://www.thespruce.com/sausage-and-mash-with-onion-gravy-434904\">really tasty recipe for bangers and mash</a> and made it for dinner tonight. The only thing I failed to get was Guinness or Jameson.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/7aa58f24a9.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-03-17T22:08:08-07:00",
 			"url": "https://mb.jsorge.net/2018/03/17/i-found-a.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/03/15/160919.html",
-	      	
-			"content_html": "<p><a href=\"http://mb.jsorge.net/uploads/2018/09719ed1d8.jpg\"><img src=\"http://mb.jsorge.net/uploads/2018/09719ed1d8.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>I really like how my desk setup is coming along at my work loft space. Today I got my BookArc möd installed and it really opens up the workspace. And the single cable connection to the TS3Plus dock is a huge win.</p>\n\n",
-			"date_published": "2018-03-15T09:09:19-07:00",
-			"url": "https://mb.jsorge.net/2018/03/15/160919.html"
 		}
 		
 	]
