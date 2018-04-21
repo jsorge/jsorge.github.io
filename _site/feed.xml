@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Fri, 20 Apr 2018 16:10:37 -0700</pubDate>
-    <lastBuildDate>Fri, 20 Apr 2018 16:10:37 -0700</lastBuildDate>
+    <pubDate>Fri, 20 Apr 2018 17:16:43 -0700</pubDate>
+    <lastBuildDate>Fri, 20 Apr 2018 17:16:43 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;When I can’t blog about something, I’m really glad to have Day One.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Apr 2018 17:16:41 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/04/20/when-i-cant.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/21/when-i-cant.html</guid>
+      </item>
     
       <item>
       	
@@ -476,15 +485,6 @@
         <pubDate>Tue, 06 Feb 2018 11:57:40 -0800</pubDate>
         <link>https://mb.jsorge.net/2018/02/06/i-really-love.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/02/06/i-really-love.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I decided last week to figure out how to get all of my commits to be Verified like they are on GitHub. It was actually pretty easy once I found &lt;a href=&quot;https://aaronparecki.com/2016/07/29/10/git-tower&quot;&gt;this helpful blog post&lt;/a&gt; to guide me! Thanks Aaron!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 06 Feb 2018 08:51:39 -0800</pubDate>
-        <link>https://mb.jsorge.net/2018/02/06/i-decided-last.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/02/06/i-decided-last.html</guid>
       </item>
     
   </channel>
