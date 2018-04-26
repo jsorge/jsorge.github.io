@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/04/26/when-someone-leaves.html",
+	      	
+			"content_html": "<p>When someone leaves a card for their service on your door intended for new customers, they should probably find out if you are already a customer.</p>\n",
+			"date_published": "2018-04-26T14:59:40-07:00",
+			"url": "https://mb.jsorge.net/2018/04/26/when-someone-leaves.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/04/26/sad-day-apple.html",
 	      	
 			"content_html": "<p>Sad day. <a href=\"https://9to5mac.com/2018/04/26/apple-airport-cancellation/\">Apple is officially discontinuing the AirPort line</a>. I guess my next wireless setup will probably be an Eero or some mesh thing. But I’m holding onto my AirPort Extreme until it dies.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I just downloaded <a href=\"https://itunes.apple.com/us/app/charles-proxy/id1134218562?mt=8\">Charles Proxy for iOS</a> and it’s seriously amazing. Go get it!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/5c21c7f204.jpg\" width=\"300\" height=\"300\" /></p>\n",
 			"date_published": "2018-03-27T18:40:33-07:00",
 			"url": "https://mb.jsorge.net/2018/03/27/i-just-downloaded.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/03/27/its-super-weird.html",
-	      	
-			"content_html": "<p>It’s super weird following liveblogs and tweets from Apple’s event rather than watching the live stream.</p>\n",
-			"date_published": "2018-03-27T08:00:22-07:00",
-			"url": "https://mb.jsorge.net/2018/03/27/its-super-weird.html"
 		}
 		
 	]
