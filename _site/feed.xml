@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Tue, 01 May 2018 21:58:47 -0700</pubDate>
-    <lastBuildDate>Tue, 01 May 2018 21:58:47 -0700</lastBuildDate>
+    <pubDate>Wed, 02 May 2018 08:27:17 -0700</pubDate>
+    <lastBuildDate>Wed, 02 May 2018 08:27:17 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Reminder to my future self: setting the &lt;code class=&quot;highlighter-rouge&quot;&gt;delegate&lt;/code&gt; property on a &lt;code class=&quot;highlighter-rouge&quot;&gt;UINavigationController&lt;/code&gt; subclass doesn’t always do what I think it will do. In the case of the &lt;code class=&quot;highlighter-rouge&quot;&gt;MFMessageComposeViewController&lt;/code&gt;, I needed to set the &lt;code class=&quot;highlighter-rouge&quot;&gt;messageComposeDelegate&lt;/code&gt; instead.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 May 2018 08:27:10 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/02/reminder-to-my.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/02/reminder-to-my.html</guid>
+      </item>
     
       <item>
       	
@@ -471,15 +480,6 @@
         <pubDate>Sun, 04 Mar 2018 22:33:20 -0800</pubDate>
         <link>https://mb.jsorge.net/2018/03/04/the-open-web.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/03/05/the-open-web.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’ve been feeling a ton of pain debugging Notification Service extensions. Banging my head against the wall again and again.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 01 Mar 2018 08:45:32 -0800</pubDate>
-        <link>https://mb.jsorge.net/2018/03/01/ive-been-feeling.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/03/01/ive-been-feeling.html</guid>
       </item>
     
   </channel>
