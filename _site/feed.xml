@@ -4,8 +4,19 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Wed, 02 May 2018 22:10:34 -0700</pubDate>
-    <lastBuildDate>Wed, 02 May 2018 22:10:34 -0700</lastBuildDate>
+    <pubDate>Thu, 03 May 2018 10:17:23 -0700</pubDate>
+    <lastBuildDate>Thu, 03 May 2018 10:17:23 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Sad day: My Fluid app for GitHub is considered an “old browser” and is starting to break on me. I emailed the developer of Fluid and hope to get a good response, but it hasn’t been updated in &lt;em&gt;so long&lt;/em&gt; that I’m not optimistic.&lt;/p&gt;
+
+&lt;p&gt;Any other good way to silo a web app on the Mac?&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 May 2018 10:17:18 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/03/sad-day-my.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/03/sad-day-my.html</guid>
+      </item>
     
       <item>
       	
@@ -468,18 +479,6 @@
         <pubDate>Mon, 05 Mar 2018 20:38:06 -0800</pubDate>
         <link>https://mb.jsorge.net/2018/03/05/tonights-mixology-experiment.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/03/06/tonights-mixology-experiment.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2018/dc37b499cf.jpg&quot; width=&quot;450&quot; height=&quot;600&quot; style=&quot;height: auto;&quot; class=&quot;sunlit_image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Over the weekend I took what may be my favorite iPhone camera picture to date.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 05 Mar 2018 10:00:06 -0800</pubDate>
-        <link>https://mb.jsorge.net/2018/03/05/over-the-weekend.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/03/05/over-the-weekend.html</guid>
       </item>
     
   </channel>
