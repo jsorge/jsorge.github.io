@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Wed, 02 May 2018 18:09:19 -0700</pubDate>
-    <lastBuildDate>Wed, 02 May 2018 18:09:19 -0700</lastBuildDate>
+    <pubDate>Wed, 02 May 2018 21:59:38 -0700</pubDate>
+    <lastBuildDate>Wed, 02 May 2018 21:59:38 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’m trying to get a Jekyll instance running locally and I keep running into Ruby and Gems issues. I’ve only used Ruby for Cocoapods and the Gems concept is all new to me. Maybe this isn’t the blog engine for me.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 May 2018 21:59:37 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/02/im-trying-to.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/03/im-trying-to.html</guid>
+      </item>
     
       <item>
       	
@@ -471,15 +480,6 @@
         <pubDate>Mon, 05 Mar 2018 09:02:29 -0800</pubDate>
         <link>https://mb.jsorge.net/2018/03/05/i-really-liked.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/03/05/i-really-liked.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;New post from jsorge.net: &lt;a href=&quot;http://jsorge.net/2018/03/05/xcoders-talk-practical-coordinators/&quot;&gt;Xcoders Talk: Practical Coordinators&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 Mar 2018 08:25:03 -0800</pubDate>
-        <link>https://mb.jsorge.net/2018/03/05/new-post-from.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/03/05/new-post-from.html</guid>
       </item>
     
   </channel>
