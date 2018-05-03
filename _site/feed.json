@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/05/03/ok-i-got.html",
+	      	
+			"content_html": "<p>Ok, I got the site working locally. Victory! Next would be porting over my Ghost template to Jekyll. That’s a battle for another day.</p>\n",
+			"date_published": "2018-05-02T22:10:31-07:00",
+			"url": "https://mb.jsorge.net/2018/05/02/ok-i-got.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/05/03/im-trying-to.html",
 	      	
 			"content_html": "<p>I’m trying to get a Jekyll instance running locally and I keep running into Ruby and Gems issues. I’ve only used Ruby for Cocoapods and the Gems concept is all new to me. Maybe this isn’t the blog engine for me.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>New post from jsorge.net: <a href=\"http://jsorge.net/2018/04/08/hawaii-trip/\">Hawaii Trip</a></p>\n",
 			"date_published": "2018-04-08T22:17:05-07:00",
 			"url": "https://mb.jsorge.net/2018/04/08/051705.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/04/08/set-up-my.html",
-	      	
-			"content_html": "<p>Set up my SodaStream that came in while I was gone. I’ve been drinking lots of fizzy water while working and I’m happy to be able to make my own now. Any flavor recommendations I should try?</p>\n",
-			"date_published": "2018-04-08T16:14:34-07:00",
-			"url": "https://mb.jsorge.net/2018/04/08/set-up-my.html"
 		}
 		
 	]
