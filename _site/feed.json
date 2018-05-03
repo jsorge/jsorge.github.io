@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/05/03/im-trying-to.html",
+	      	
+			"content_html": "<p>I’m trying to get a Jekyll instance running locally and I keep running into Ruby and Gems issues. I’ve only used Ruby for Cocoapods and the Gems concept is all new to me. Maybe this isn’t the blog engine for me.</p>\n",
+			"date_published": "2018-05-02T21:59:37-07:00",
+			"url": "https://mb.jsorge.net/2018/05/02/im-trying-to.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/05/03/star-wars-in.html",
 	      	
 			"content_html": "<p><a href=\"https://youtu.be/o6XERmXsP-U\">Star Wars in the style of Arrested Development</a> is the video we all need to see today.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Set up my SodaStream that came in while I was gone. I’ve been drinking lots of fizzy water while working and I’m happy to be able to make my own now. Any flavor recommendations I should try?</p>\n",
 			"date_published": "2018-04-08T16:14:34-07:00",
 			"url": "https://mb.jsorge.net/2018/04/08/set-up-my.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/04/08/interesting-weather-fact.html",
-	      	
-			"content_html": "<p>Interesting weather fact: it’s much colder in western Washington right now than it is in Hawaii. Who knew?</p>\n",
-			"date_published": "2018-04-07T23:41:13-07:00",
-			"url": "https://mb.jsorge.net/2018/04/07/interesting-weather-fact.html"
 		}
 		
 	]
