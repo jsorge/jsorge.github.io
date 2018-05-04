@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/05/04/i-just-realized.html",
+	      	
+			"content_html": "<p>I just realized I’ve been a 1Password customer for 10 years now. It’s easily in my pantheon of apps I couldn’t live without.</p>\n",
+			"date_published": "2018-05-04T07:37:59-07:00",
+			"url": "https://mb.jsorge.net/2018/05/04/i-just-realized.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/05/03/sad-day-my.html",
 	      	
 			"content_html": "<p>Sad day: My Fluid app for GitHub is considered an “old browser” and is starting to break on me. I emailed the developer of Fluid and hope to get a good response, but it hasn’t been updated in <em>so long</em> that I’m not optimistic.</p>\n\n<p>Any other good way to silo a web app on the Mac?</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I got one of the SodaStream lemon flavorings and it’s pretty tasty. But the straight up water is good too. I’m really digging this thing.</p>\n",
 			"date_published": "2018-04-09T08:40:41-07:00",
 			"url": "https://mb.jsorge.net/2018/04/09/i-got-one.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/04/09/back-at-work.html",
-	      	
-			"content_html": "<p>Back at work, catching up on emails, commits, Slack messages, etc. And I’ve got a feature to merge in today. Big day!</p>\n",
-			"date_published": "2018-04-09T07:19:58-07:00",
-			"url": "https://mb.jsorge.net/2018/04/09/back-at-work.html"
 		}
 		
 	]
