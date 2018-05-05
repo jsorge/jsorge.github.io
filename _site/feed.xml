@@ -4,8 +4,19 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Fri, 04 May 2018 07:38:03 -0700</pubDate>
-    <lastBuildDate>Fri, 04 May 2018 07:38:03 -0700</lastBuildDate>
+    <pubDate>Sat, 05 May 2018 16:46:38 -0700</pubDate>
+    <lastBuildDate>Sat, 05 May 2018 16:46:38 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’m writing a little thing that will take my markdown files and make them textbundles and want to embed images in the bundle.&lt;/p&gt;
+
+&lt;p&gt;Is a regular expression the best way to get any image names from that file?&lt;/p&gt;
+</description>
+        <pubDate>Sat, 05 May 2018 16:46:36 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/05/im-writing-a.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/05/im-writing-a.html</guid>
+      </item>
     
       <item>
       	
@@ -468,15 +479,6 @@
         <pubDate>Tue, 06 Mar 2018 07:45:52 -0800</pubDate>
         <link>https://mb.jsorge.net/2018/03/06/yes-the-bookarc.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/03/06/yes-the-bookarc.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Martini follow-up: tasty but strong. We are really feeling them!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 Mar 2018 21:45:01 -0800</pubDate>
-        <link>https://mb.jsorge.net/2018/03/05/martini-followup-tasty.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/03/06/martini-followup-tasty.html</guid>
       </item>
     
   </channel>
