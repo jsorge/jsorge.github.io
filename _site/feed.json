@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/05/06/mariners-walk-off.html",
+	      	
+			"content_html": "<p>Mariners walk off! What a game!</p>\n",
+			"date_published": "2018-05-05T22:41:37-07:00",
+			"url": "https://mb.jsorge.net/2018/05/05/mariners-walk-off.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/05/05/im-writing-a.html",
 	      	
 			"content_html": "<p>I’m writing a little thing that will take my markdown files and make them textbundles and want to embed images in the bundle.</p>\n\n<p>Is a regular expression the best way to get any image names from that file?</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>A conversation I’ve been having at work a lot recently is about <code class=\"highlighter-rouge\">flatMap</code> and why the heck we use it on optional types. <a href=\"http://www.figure.ink/blog/2018/3/29/optionals-as-collections\">This is a really nice summary by Joshua Emmons</a> of the things I’ve been learning.</p>\n",
 			"date_published": "2018-04-14T09:32:53-07:00",
 			"url": "https://mb.jsorge.net/2018/04/14/a-conversation-ive.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/04/10/i-so-often.html",
-	      	
-			"content_html": "<p>I so often find myself trying to write a blog post and disliking how I write. I can get so wordy and my writing voice feels way different from my conversational voice. It’s pretty discouraging.</p>\n",
-			"date_published": "2018-04-09T23:09:39-07:00",
-			"url": "https://mb.jsorge.net/2018/04/09/i-so-often.html"
 		}
 		
 	]
