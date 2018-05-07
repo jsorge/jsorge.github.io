@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/05/07/044640.html",
+	      	
+			"content_html": "<p>New post from jsorge.net: <a href=\"http://jsorge.net/2018/05/06/my-first-swift-package/\">My First Swift Package</a></p>\n",
+			"date_published": "2018-05-06T21:46:40-07:00",
+			"url": "https://mb.jsorge.net/2018/05/06/044640.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/05/06/mariners-walk-off.html",
 	      	
 			"content_html": "<p>Mariners walk off! What a game!</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>New post from jsorge.net: <a href=\"http://jsorge.net/2018/04/15/reconsidering-my-blogging-setup/\">Reconsidering My Blogging Setup</a></p>\n",
 			"date_published": "2018-04-15T10:33:27-07:00",
 			"url": "https://mb.jsorge.net/2018/04/15/173327.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/04/14/a-conversation-ive.html",
-	      	
-			"content_html": "<p>A conversation I’ve been having at work a lot recently is about <code class=\"highlighter-rouge\">flatMap</code> and why the heck we use it on optional types. <a href=\"http://www.figure.ink/blog/2018/3/29/optionals-as-collections\">This is a really nice summary by Joshua Emmons</a> of the things I’ve been learning.</p>\n",
-			"date_published": "2018-04-14T09:32:53-07:00",
-			"url": "https://mb.jsorge.net/2018/04/14/a-conversation-ive.html"
 		}
 		
 	]
