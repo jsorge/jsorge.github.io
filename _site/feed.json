@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/05/07/im-super-sad.html",
+	      	
+			"content_html": "<p>I’m super sad to learn that <a href=\"https://www.seattlemet.com/articles/2018/5/7/rain-shadow-meats-will-close-in-pioneer-square\">Rain Shadow Meats is closing</a>. Our office just moved to Pioneer Square and I was looking forward to getting their wonderful porchetta sandwich from time to time.</p>\n",
+			"date_published": "2018-05-07T09:59:13-07:00",
+			"url": "https://mb.jsorge.net/2018/05/07/im-super-sad.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/07/im-wanting-to.html",
+	      	
+			"content_html": "<p>I’m wanting to get into scripting a bit more, and <a href=\"http://brettterpstra.com/2018/05/07/shell-tricks-quick-start-scripts/\">this new trick from Brett Terpstra</a> will be a great way to spin up something new to try out.</p>\n",
+			"date_published": "2018-05-07T09:03:31-07:00",
+			"url": "https://mb.jsorge.net/2018/05/07/im-wanting-to.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/05/07/044640.html",
 	      	
 			"content_html": "<p>New post from jsorge.net: <a href=\"http://jsorge.net/2018/05/06/my-first-swift-package/\">My First Swift Package</a></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>Swift 4’s multi-line string literals are amazing!</p>\n",
 			"date_published": "2018-04-20T16:10:35-07:00",
 			"url": "https://mb.jsorge.net/2018/04/20/swift-s-multiline.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/04/17/i-love-little.html",
-	      	
-			"content_html": "<p>I love little touches in software that make me smile. I just added a footnote to a Day One entry.</p>\n",
-			"date_published": "2018-04-17T14:59:41-07:00",
-			"url": "https://mb.jsorge.net/2018/04/17/i-love-little.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/04/15/173327.html",
-	      	
-			"content_html": "<p>New post from jsorge.net: <a href=\"http://jsorge.net/2018/04/15/reconsidering-my-blogging-setup/\">Reconsidering My Blogging Setup</a></p>\n",
-			"date_published": "2018-04-15T10:33:27-07:00",
-			"url": "https://mb.jsorge.net/2018/04/15/173327.html"
 		}
 		
 	]
