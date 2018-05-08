@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/05/08/on-the-phone.html",
+	      	
+			"content_html": "<p>On the phone with a senior Apple technical support guy and he did screen sharing with my iPhone. Never seen that before, but it’s pretty cool.</p>\n",
+			"date_published": "2018-05-08T15:31:27-07:00",
+			"url": "https://mb.jsorge.net/2018/05/08/on-the-phone.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/05/07/im-super-sad.html",
 	      	
 			"content_html": "<p>I’m super sad to learn that <a href=\"https://www.seattlemet.com/articles/2018/5/7/rain-shadow-meats-will-close-in-pioneer-square\">Rain Shadow Meats is closing</a>. Our office just moved to Pioneer Square and I was looking forward to getting their wonderful porchetta sandwich from time to time.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>When I can’t blog about something, I’m really glad to have Day One.</p>\n",
 			"date_published": "2018-04-20T17:16:41-07:00",
 			"url": "https://mb.jsorge.net/2018/04/20/when-i-cant.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/04/20/swift-s-multiline.html",
-	      	
-			"content_html": "<p>Swift 4’s multi-line string literals are amazing!</p>\n",
-			"date_published": "2018-04-20T16:10:35-07:00",
-			"url": "https://mb.jsorge.net/2018/04/20/swift-s-multiline.html"
 		}
 		
 	]
