@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/05/09/thor-ragnarok-is.html",
+	      	
+			"content_html": "<p>Thor Ragnarok is an incredibly rewatchable movie. Just so much fun.</p>\n",
+			"date_published": "2018-05-08T22:01:07-07:00",
+			"url": "https://mb.jsorge.net/2018/05/08/thor-ragnarok-is.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/05/09/just-saw-that.html",
 	      	
 			"content_html": "<p>Just saw that James Paxton threw a no hitter in Toronto. Way to go Big Maple! Go Mariners!</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I get to ride the train home today! Emily and the boys are meeting me at the station. It truly is the best way to commute.</p>\n",
 			"date_published": "2018-04-24T15:51:53-07:00",
 			"url": "https://mb.jsorge.net/2018/04/24/i-get-to.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/04/24/dave-delong-has.html",
-	      	
-			"content_html": "<p>Dave DeLong has <a href=\"https://davedelong.com/blog/2018/04/24/a-better-mvc-part-5-an-evolution/\">added a fifth chapter</a> to his Better MVC series. The whole thing is worth a read. I love how he explains his thought processes and how he’s changed over the last several months of writing, speaking, and looking at Apple’s examples.</p>\n",
-			"date_published": "2018-04-24T12:32:26-07:00",
-			"url": "https://mb.jsorge.net/2018/04/24/dave-delong-has.html"
 		}
 		
 	]
