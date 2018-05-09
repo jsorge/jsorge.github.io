@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/05/09/just-saw-that.html",
+	      	
+			"content_html": "<p>Just saw that James Paxton threw a no hitter in Toronto. Way to go Big Maple! Go Mariners!</p>\n",
+			"date_published": "2018-05-08T19:05:27-07:00",
+			"url": "https://mb.jsorge.net/2018/05/08/just-saw-that.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/05/08/on-the-phone.html",
 	      	
 			"content_html": "<p>On the phone with a senior Apple technical support guy and he did screen sharing with my iPhone. Never seen that before, but it’s pretty cool.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Dave DeLong has <a href=\"https://davedelong.com/blog/2018/04/24/a-better-mvc-part-5-an-evolution/\">added a fifth chapter</a> to his Better MVC series. The whole thing is worth a read. I love how he explains his thought processes and how he’s changed over the last several months of writing, speaking, and looking at Apple’s examples.</p>\n",
 			"date_published": "2018-04-24T12:32:26-07:00",
 			"url": "https://mb.jsorge.net/2018/04/24/dave-delong-has.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/04/21/when-i-cant.html",
-	      	
-			"content_html": "<p>When I can’t blog about something, I’m really glad to have Day One.</p>\n",
-			"date_published": "2018-04-20T17:16:41-07:00",
-			"url": "https://mb.jsorge.net/2018/04/20/when-i-cant.html"
 		}
 		
 	]
