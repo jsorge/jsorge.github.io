@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/05/16/after-minutes-of.html",
+	      	
+			"content_html": "<p>After 30 minutes of screaming, the boys are in bed, I’ve got an Old Fashioned, and I’m ready to tackle Vapor 3.</p>\n",
+			"date_published": "2018-05-15T20:43:16-07:00",
+			"url": "https://mb.jsorge.net/2018/05/15/after-minutes-of.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/05/16/tonights-project-after.html",
 	      	
 			"content_html": "<p>Tonight’s project after the boys go to bed: Get my taphouse.io site up and running in Vapor 3 on a local Docker container. Extra credit will be given out if I’m able to also add nginx, and even more credit still if I can get it running on a server. Stay tuned.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Sad day. <a href=\"https://9to5mac.com/2018/04/26/apple-airport-cancellation/\">Apple is officially discontinuing the AirPort line</a>. I guess my next wireless setup will probably be an Eero or some mesh thing. But I’m holding onto my AirPort Extreme until it dies.</p>\n",
 			"date_published": "2018-04-26T14:30:31-07:00",
 			"url": "https://mb.jsorge.net/2018/04/26/sad-day-apple.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/04/26/achievement-unlocked-an.html",
-	      	
-			"content_html": "<p>Achievement unlocked: An Xcode <code class=\"highlighter-rouge\">Clean</code> failure. Never seen that before!</p>\n",
-			"date_published": "2018-04-26T12:03:53-07:00",
-			"url": "https://mb.jsorge.net/2018/04/26/achievement-unlocked-an.html"
 		}
 		
 	]
