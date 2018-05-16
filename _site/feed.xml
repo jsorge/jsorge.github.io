@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Tue, 15 May 2018 21:48:10 -0700</pubDate>
-    <lastBuildDate>Tue, 15 May 2018 21:48:10 -0700</lastBuildDate>
+    <pubDate>Tue, 15 May 2018 23:01:55 -0700</pubDate>
+    <lastBuildDate>Tue, 15 May 2018 23:01:55 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I had the site running on Vapor 2 last year. I’m &lt;em&gt;just&lt;/em&gt; trying to update to 3 and the Leaf templating system is throwing errors I didn’t see before. So I’ve gotta fix those before adapting for Docker. I don’t expect even full credit at this point.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 May 2018 23:01:30 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/15/i-had-the.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/16/i-had-the.html</guid>
+      </item>
     
       <item>
       	
@@ -462,15 +471,6 @@
         <pubDate>Tue, 27 Mar 2018 18:40:33 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/03/27/i-just-downloaded.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/03/28/i-just-downloaded.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;It’s super weird following liveblogs and tweets from Apple’s event rather than watching the live stream.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 27 Mar 2018 08:00:22 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/03/27/its-super-weird.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/03/27/its-super-weird.html</guid>
       </item>
     
   </channel>
