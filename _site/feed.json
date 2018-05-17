@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/05/17/thanks-to-twostrawss.html",
+	      	
+			"content_html": "<p>Thanks to <a href=\"https://www.hackingwithswift.com/about\">@twostraws</a>’s Vapor book I found that I needed to register a middleware to handle stuff in the public folder. Once that was in my images and styles loaded instantly.</p>\n\n<p>🎉🎉🎉</p>\n",
+			"date_published": "2018-05-16T20:09:13-07:00",
+			"url": "https://mb.jsorge.net/2018/05/16/thanks-to-twostrawss.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/05/17/back-at-my.html",
 	      	
 			"content_html": "<p>Back at my Vapor 3 conversion for taphouse.io. I got the leaf errors figured out. 🎉</p>\n\n<p>Next to get my assets linking properly in the Public folder.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Reminder to my future self: setting the <code class=\"highlighter-rouge\">delegate</code> property on a <code class=\"highlighter-rouge\">UINavigationController</code> subclass doesn’t always do what I think it will do. In the case of the <code class=\"highlighter-rouge\">MFMessageComposeViewController</code>, I needed to set the <code class=\"highlighter-rouge\">messageComposeDelegate</code> instead.</p>\n",
 			"date_published": "2018-05-02T08:27:10-07:00",
 			"url": "https://mb.jsorge.net/2018/05/02/reminder-to-my.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/05/02/045845.html",
-	      	
-			"content_html": "<p>New post from jsorge.net: <a href=\"http://jsorge.net/2018/05/01/view-controllers-make-crummy-navigators/\">View Controllers Make Crummy Navigators</a></p>\n",
-			"date_published": "2018-05-01T21:58:45-07:00",
-			"url": "https://mb.jsorge.net/2018/05/01/045845.html"
 		}
 		
 	]
