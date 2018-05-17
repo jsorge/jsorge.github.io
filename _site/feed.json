@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/05/17/the-money-ive.html",
+	      	
+			"content_html": "<p>The money I’ve spent on <a href=\"https://www.fastmail.com/?STKI=15614818\">Fastmail</a> as my email provider is some of the best I’ve spent. I have 3 domains funneling there as well as all of my “legacy” email (iCloud &amp; Gmail) landing there too. Having only 1 email account setup on all my devices is really great.</p>\n",
+			"date_published": "2018-05-17T07:48:22-07:00",
+			"url": "https://mb.jsorge.net/2018/05/17/the-money-ive.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/05/17/thanks-to-twostrawss.html",
 	      	
 			"content_html": "<p>Thanks to <a href=\"https://www.hackingwithswift.com/about\">@twostraws</a>’s Vapor book I found that I needed to register a middleware to handle stuff in the public folder. Once that was in my images and styles loaded instantly.</p>\n\n<p>🎉🎉🎉</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://youtu.be/o6XERmXsP-U\">Star Wars in the style of Arrested Development</a> is the video we all need to see today.</p>\n",
 			"date_published": "2018-05-02T18:09:14-07:00",
 			"url": "https://mb.jsorge.net/2018/05/02/star-wars-in.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/05/02/reminder-to-my.html",
-	      	
-			"content_html": "<p>Reminder to my future self: setting the <code class=\"highlighter-rouge\">delegate</code> property on a <code class=\"highlighter-rouge\">UINavigationController</code> subclass doesn’t always do what I think it will do. In the case of the <code class=\"highlighter-rouge\">MFMessageComposeViewController</code>, I needed to set the <code class=\"highlighter-rouge\">messageComposeDelegate</code> instead.</p>\n",
-			"date_published": "2018-05-02T08:27:10-07:00",
-			"url": "https://mb.jsorge.net/2018/05/02/reminder-to-my.html"
 		}
 		
 	]
