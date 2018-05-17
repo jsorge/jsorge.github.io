@@ -4,8 +4,19 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Wed, 16 May 2018 07:41:04 -0700</pubDate>
-    <lastBuildDate>Wed, 16 May 2018 07:41:04 -0700</lastBuildDate>
+    <pubDate>Wed, 16 May 2018 19:45:34 -0700</pubDate>
+    <lastBuildDate>Wed, 16 May 2018 19:45:34 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Back at my Vapor 3 conversion for taphouse.io. I got the leaf errors figured out. 🎉&lt;/p&gt;
+
+&lt;p&gt;Next to get my assets linking properly in the Public folder.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 May 2018 19:45:32 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/16/back-at-my.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/17/back-at-my.html</guid>
+      </item>
     
       <item>
       	
@@ -456,17 +467,6 @@
         <pubDate>Sat, 07 Apr 2018 09:29:50 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/04/07/we-head-back.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/07/we-head-back.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I can confirm that sunrises are really nice in Hawaii.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2018/92486e5c1a.jpg&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Apr 2018 10:03:16 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/04/03/i-can-confirm.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/03/i-can-confirm.html</guid>
       </item>
     
   </channel>
