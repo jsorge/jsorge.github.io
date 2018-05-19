@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/05/19/i-stumbled-upon.html",
+	      	
+			"content_html": "<p>I stumbled upon <a href=\"https://learnxinyminutes.com\">this amazing resource</a> to help you learn a language or tool in a short amount of time.</p>\n\n<p>It’s a great reference for getting started on something unfamiliar.</p>\n",
+			"date_published": "2018-05-19T09:18:22-07:00",
+			"url": "https://mb.jsorge.net/2018/05/19/i-stumbled-upon.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/05/19/ive-had-to.html",
 	      	
 			"content_html": "<p>I’ve had to look at the WWDC video for <code class=\"highlighter-rouge\">UIPresentationController</code> and trying to wrap my brain around how view controller transitions work, I think I’ve finally got the basics figured out. Thankfully I don’t have to work with adaptation much yet. Baby steps.</p>\n\n<p>How was your Friday? 🙂</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Ok, I got the site working locally. Victory! Next would be porting over my Ghost template to Jekyll. That’s a battle for another day.</p>\n",
 			"date_published": "2018-05-02T22:10:31-07:00",
 			"url": "https://mb.jsorge.net/2018/05/02/ok-i-got.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/05/03/im-trying-to.html",
-	      	
-			"content_html": "<p>I’m trying to get a Jekyll instance running locally and I keep running into Ruby and Gems issues. I’ve only used Ruby for Cocoapods and the Gems concept is all new to me. Maybe this isn’t the blog engine for me.</p>\n",
-			"date_published": "2018-05-02T21:59:37-07:00",
-			"url": "https://mb.jsorge.net/2018/05/02/im-trying-to.html"
 		}
 		
 	]
