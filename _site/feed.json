@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/05/19/phase-of-my.html",
+	      	
+			"content_html": "<p>Phase 1 of my taphouse.io rewrite accomplished: Vapor is complete!</p>\n\n<p>Next up is Docker, Nginx, and actual hosting on a server at <a href=\"https://m.do.co/c/b54194754f24\">Digital Ocean</a>.</p>\n",
+			"date_published": "2018-05-19T11:28:43-07:00",
+			"url": "https://mb.jsorge.net/2018/05/19/phase-of-my.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/05/19/i-stumbled-upon.html",
 	      	
 			"content_html": "<p>I stumbled upon <a href=\"https://learnxinyminutes.com\">this amazing resource</a> to help you learn a language or tool in a short amount of time.</p>\n\n<p>It’s a great reference for getting started on something unfamiliar.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Sad day: My Fluid app for GitHub is considered an “old browser” and is starting to break on me. I emailed the developer of Fluid and hope to get a good response, but it hasn’t been updated in <em>so long</em> that I’m not optimistic.</p>\n\n<p>Any other good way to silo a web app on the Mac?</p>\n",
 			"date_published": "2018-05-03T10:17:18-07:00",
 			"url": "https://mb.jsorge.net/2018/05/03/sad-day-my.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/05/03/ok-i-got.html",
-	      	
-			"content_html": "<p>Ok, I got the site working locally. Victory! Next would be porting over my Ghost template to Jekyll. That’s a battle for another day.</p>\n",
-			"date_published": "2018-05-02T22:10:31-07:00",
-			"url": "https://mb.jsorge.net/2018/05/02/ok-i-got.html"
 		}
 		
 	]
