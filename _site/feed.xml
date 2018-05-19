@@ -4,8 +4,19 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Thu, 17 May 2018 07:48:55 -0700</pubDate>
-    <lastBuildDate>Thu, 17 May 2018 07:48:55 -0700</lastBuildDate>
+    <pubDate>Fri, 18 May 2018 23:33:16 -0700</pubDate>
+    <lastBuildDate>Fri, 18 May 2018 23:33:16 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’ve had to look at the WWDC video for &lt;code class=&quot;highlighter-rouge&quot;&gt;UIPresentationController&lt;/code&gt; and trying to wrap my brain around how view controller transitions work, I think I’ve finally got the basics figured out. Thankfully I don’t have to work with adaptation much yet. Baby steps.&lt;/p&gt;
+
+&lt;p&gt;How was your Friday? 🙂&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 May 2018 23:33:14 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/18/ive-had-to.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/19/ive-had-to.html</guid>
+      </item>
     
       <item>
       	
@@ -458,17 +469,6 @@
         <pubDate>Sat, 07 Apr 2018 23:41:13 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/04/07/interesting-weather-fact.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/08/interesting-weather-fact.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I thought it was a good idea to get Dick’s cheeseburgers because we haven’t eaten since ~2:30pm PDT. Turns out this place is popular at 11:30pm.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2018/a9dd709705.jpg&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 07 Apr 2018 23:35:36 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/04/07/i-thought-it.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/08/i-thought-it.html</guid>
       </item>
     
   </channel>
