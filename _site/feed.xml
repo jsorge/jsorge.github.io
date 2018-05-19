@@ -4,8 +4,19 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Sat, 19 May 2018 09:18:25 -0700</pubDate>
-    <lastBuildDate>Sat, 19 May 2018 09:18:25 -0700</lastBuildDate>
+    <pubDate>Sat, 19 May 2018 11:28:48 -0700</pubDate>
+    <lastBuildDate>Sat, 19 May 2018 11:28:48 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Phase 1 of my taphouse.io rewrite accomplished: Vapor is complete!&lt;/p&gt;
+
+&lt;p&gt;Next up is Docker, Nginx, and actual hosting on a server at &lt;a href=&quot;https://m.do.co/c/b54194754f24&quot;&gt;Digital Ocean&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 May 2018 11:28:43 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/19/phase-of-my.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/19/phase-of-my.html</guid>
+      </item>
     
       <item>
       	
@@ -462,15 +473,6 @@
         <pubDate>Sun, 08 Apr 2018 22:17:05 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/04/08/051705.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/09/051705.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Set up my SodaStream that came in while I was gone. I’ve been drinking lots of fizzy water while working and I’m happy to be able to make my own now. Any flavor recommendations I should try?&lt;/p&gt;
-</description>
-        <pubDate>Sun, 08 Apr 2018 16:14:34 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/04/08/set-up-my.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/08/set-up-my.html</guid>
       </item>
     
   </channel>
