@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/05/20/i-may-have.html",
+	      	
+			"content_html": "<p>I may have hit the point of searching out too much documentation and tutorials for Docker. But I’m nearing the mental place to be able to understand that a container does not always equal a repo. That has been a mental block for me.</p>\n",
+			"date_published": "2018-05-19T23:05:38-07:00",
+			"url": "https://mb.jsorge.net/2018/05/19/i-may-have.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/05/19/phase-of-my.html",
 	      	
 			"content_html": "<p>Phase 1 of my taphouse.io rewrite accomplished: Vapor is complete!</p>\n\n<p>Next up is Docker, Nginx, and actual hosting on a server at <a href=\"https://m.do.co/c/b54194754f24\">Digital Ocean</a>.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I just realized I’ve been a 1Password customer for 10 years now. It’s easily in my pantheon of apps I couldn’t live without.</p>\n",
 			"date_published": "2018-05-04T07:37:59-07:00",
 			"url": "https://mb.jsorge.net/2018/05/04/i-just-realized.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/05/03/sad-day-my.html",
-	      	
-			"content_html": "<p>Sad day: My Fluid app for GitHub is considered an “old browser” and is starting to break on me. I emailed the developer of Fluid and hope to get a good response, but it hasn’t been updated in <em>so long</em> that I’m not optimistic.</p>\n\n<p>Any other good way to silo a web app on the Mac?</p>\n",
-			"date_published": "2018-05-03T10:17:18-07:00",
-			"url": "https://mb.jsorge.net/2018/05/03/sad-day-my.html"
 		}
 		
 	]
