@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Sat, 19 May 2018 11:28:48 -0700</pubDate>
-    <lastBuildDate>Sat, 19 May 2018 11:28:48 -0700</lastBuildDate>
+    <pubDate>Sat, 19 May 2018 23:05:41 -0700</pubDate>
+    <lastBuildDate>Sat, 19 May 2018 23:05:41 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I may have hit the point of searching out too much documentation and tutorials for Docker. But I’m nearing the mental place to be able to understand that a container does not always equal a repo. That has been a mental block for me.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 May 2018 23:05:38 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/19/i-may-have.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/20/i-may-have.html</guid>
+      </item>
     
       <item>
       	
@@ -464,15 +473,6 @@
         <pubDate>Mon, 09 Apr 2018 07:19:58 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/04/09/back-at-work.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/09/back-at-work.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;New post from jsorge.net: &lt;a href=&quot;http://jsorge.net/2018/04/08/hawaii-trip/&quot;&gt;Hawaii Trip&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 08 Apr 2018 22:17:05 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/04/08/051705.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/09/051705.html</guid>
       </item>
     
   </channel>
