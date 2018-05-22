@@ -4,8 +4,28 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Mon, 21 May 2018 22:27:42 -0700</pubDate>
-    <lastBuildDate>Mon, 21 May 2018 22:27:42 -0700</lastBuildDate>
+    <pubDate>Mon, 21 May 2018 23:17:15 -0700</pubDate>
+    <lastBuildDate>Mon, 21 May 2018 23:17:15 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Madness is not being able to find out how nginx is serving localhost:8080 when it’s not running and nothing is bound to port 8080.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 May 2018 23:16:41 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/21/madness-is-not.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/22/madness-is-not.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’m going to call this a successful end to the night: I just got the taphouse.io site running locally in Docker, and could hit it via localhost.&lt;/p&gt;
+
+&lt;p&gt;Next is to get it behind nginx locally, which is proving a harder challenge.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 May 2018 22:55:49 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/21/im-going-to.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/22/im-going-to.html</guid>
+      </item>
     
       <item>
       	
@@ -455,24 +475,6 @@
         <pubDate>Sat, 14 Apr 2018 09:32:53 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/04/14/a-conversation-ive.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/14/a-conversation-ive.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I so often find myself trying to write a blog post and disliking how I write. I can get so wordy and my writing voice feels way different from my conversational voice. It’s pretty discouraging.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Apr 2018 23:09:39 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/04/09/i-so-often.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/10/i-so-often.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I got one of the SodaStream lemon flavorings and it’s pretty tasty. But the straight up water is good too. I’m really digging this thing.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Apr 2018 08:40:41 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/04/09/i-got-one.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/09/i-got-one.html</guid>
       </item>
     
   </channel>
