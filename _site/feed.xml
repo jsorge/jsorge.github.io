@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Mon, 21 May 2018 23:17:15 -0700</pubDate>
-    <lastBuildDate>Mon, 21 May 2018 23:17:15 -0700</lastBuildDate>
+    <pubDate>Tue, 22 May 2018 09:59:29 -0700</pubDate>
+    <lastBuildDate>Tue, 22 May 2018 09:59:29 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://blog.agilebits.com/2018/05/22/1password-7-for-mac-the-best-ever/&quot;&gt;1Password v7 for the Mac&lt;/a&gt; is out today! You should go get it. I’ve been on the beta for a while now and it’s fantastic.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 May 2018 09:59:23 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/22/password-v-for.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/22/password-v-for.html</guid>
+      </item>
     
       <item>
       	
@@ -466,15 +475,6 @@
         <pubDate>Sun, 15 Apr 2018 10:33:27 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/04/15/173327.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/15/173327.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;A conversation I’ve been having at work a lot recently is about &lt;code class=&quot;highlighter-rouge&quot;&gt;flatMap&lt;/code&gt; and why the heck we use it on optional types. &lt;a href=&quot;http://www.figure.ink/blog/2018/3/29/optionals-as-collections&quot;&gt;This is a really nice summary by Joshua Emmons&lt;/a&gt; of the things I’ve been learning.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 14 Apr 2018 09:32:53 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/04/14/a-conversation-ive.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/14/a-conversation-ive.html</guid>
       </item>
     
   </channel>
