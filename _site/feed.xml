@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Sat, 19 May 2018 23:05:41 -0700</pubDate>
-    <lastBuildDate>Sat, 19 May 2018 23:05:41 -0700</lastBuildDate>
+    <pubDate>Mon, 21 May 2018 22:27:42 -0700</pubDate>
+    <lastBuildDate>Mon, 21 May 2018 22:27:42 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;New post from jsorge.net: &lt;a href=&quot;http://jsorge.net/2018/05/21/rebuilding-taphouse-io/&quot;&gt;Rebuilding taphouse.io&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 May 2018 22:27:35 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/21/052735.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/22/052735.html</guid>
+      </item>
     
       <item>
       	
@@ -464,15 +473,6 @@
         <pubDate>Mon, 09 Apr 2018 08:40:41 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/04/09/i-got-one.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/09/i-got-one.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Back at work, catching up on emails, commits, Slack messages, etc. And I’ve got a feature to merge in today. Big day!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Apr 2018 07:19:58 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/04/09/back-at-work.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/09/back-at-work.html</guid>
       </item>
     
   </channel>
