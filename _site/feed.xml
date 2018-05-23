@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Tue, 22 May 2018 09:59:29 -0700</pubDate>
-    <lastBuildDate>Tue, 22 May 2018 09:59:29 -0700</lastBuildDate>
+    <pubDate>Tue, 22 May 2018 21:42:32 -0700</pubDate>
+    <lastBuildDate>Tue, 22 May 2018 21:42:32 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I got recommended to try &lt;a href=&quot;https://caddyserver.com&quot;&gt;Caddy&lt;/a&gt; instead of nginx. I &lt;em&gt;think&lt;/em&gt; I have a setup starting to work, but need to figure out how to proxy something from one container to the machine’s localhost, and have that display using the machine’s port.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 May 2018 21:42:27 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/22/i-got-recommended.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/23/i-got-recommended.html</guid>
+      </item>
     
       <item>
       	
@@ -466,15 +475,6 @@
         <pubDate>Tue, 17 Apr 2018 14:59:41 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/04/17/i-love-little.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/17/i-love-little.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;New post from jsorge.net: &lt;a href=&quot;http://jsorge.net/2018/04/15/reconsidering-my-blogging-setup/&quot;&gt;Reconsidering My Blogging Setup&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 15 Apr 2018 10:33:27 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/04/15/173327.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/15/173327.html</guid>
       </item>
     
   </channel>
