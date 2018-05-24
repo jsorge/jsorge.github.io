@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Tue, 22 May 2018 21:42:32 -0700</pubDate>
-    <lastBuildDate>Tue, 22 May 2018 21:42:32 -0700</lastBuildDate>
+    <pubDate>Wed, 23 May 2018 18:56:48 -0700</pubDate>
+    <lastBuildDate>Wed, 23 May 2018 18:56:48 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Note to self: instead of tweeting about a crazy linter rule at work, petition to have it changed. Make the codebase better rather than whine about it on the interwebs.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 May 2018 18:56:18 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/23/note-to-self.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/24/note-to-self.html</guid>
+      </item>
     
       <item>
       	
@@ -466,15 +475,6 @@
         <pubDate>Fri, 20 Apr 2018 16:10:35 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/04/20/swift-s-multiline.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/20/swift-s-multiline.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I love little touches in software that make me smile. I just added a footnote to a Day One entry.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 17 Apr 2018 14:59:41 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/04/17/i-love-little.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/17/i-love-little.html</guid>
       </item>
     
   </channel>
