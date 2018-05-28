@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Wed, 23 May 2018 18:56:48 -0700</pubDate>
-    <lastBuildDate>Wed, 23 May 2018 18:56:48 -0700</lastBuildDate>
+    <pubDate>Mon, 28 May 2018 14:05:55 -0700</pubDate>
+    <lastBuildDate>Mon, 28 May 2018 14:05:55 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Dang, I thought I had my Swift Playground woes fixed in Xcode 9.3.1. But alas, I’m getting the never ending running with this one. I’m just trying to parse a text file!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 May 2018 14:05:53 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/28/dang-i-thought.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/28/dang-i-thought.html</guid>
+      </item>
     
       <item>
       	
@@ -466,15 +475,6 @@
         <pubDate>Fri, 20 Apr 2018 17:16:41 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/04/20/when-i-cant.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/21/when-i-cant.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Swift 4’s multi-line string literals are amazing!&lt;/p&gt;
-</description>
-        <pubDate>Fri, 20 Apr 2018 16:10:35 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/04/20/swift-s-multiline.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/20/swift-s-multiline.html</guid>
       </item>
     
   </channel>
