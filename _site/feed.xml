@@ -4,8 +4,26 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Mon, 28 May 2018 19:53:43 -0700</pubDate>
-    <lastBuildDate>Mon, 28 May 2018 19:53:43 -0700</lastBuildDate>
+    <pubDate>Mon, 28 May 2018 21:25:25 -0700</pubDate>
+    <lastBuildDate>Mon, 28 May 2018 21:25:25 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I should have done &lt;em&gt;just a little&lt;/em&gt; more digging before posting, and I would have found &lt;a href=&quot;https://github.com/vapor-community/markdown&quot;&gt;this great library&lt;/a&gt; that uses &lt;code class=&quot;highlighter-rouge&quot;&gt;cmark&lt;/code&gt; under the hood.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 May 2018 21:25:22 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/28/i-should-have.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/29/i-should-have.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I want to take some Markdown text and convert it to HTML, on Linux and calling it from a Vapor 3 project written in Swift. How would I go about doing this?&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 May 2018 21:14:38 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/28/i-want-to.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/29/i-want-to.html</guid>
+      </item>
     
       <item>
       	
@@ -457,24 +475,6 @@
         <pubDate>Tue, 24 Apr 2018 16:17:38 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/04/24/231738.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/24/231738.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I get to ride the train home today! Emily and the boys are meeting me at the station. It truly is the best way to commute.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 24 Apr 2018 15:51:53 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/04/24/i-get-to.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/24/i-get-to.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Dave DeLong has &lt;a href=&quot;https://davedelong.com/blog/2018/04/24/a-better-mvc-part-5-an-evolution/&quot;&gt;added a fifth chapter&lt;/a&gt; to his Better MVC series. The whole thing is worth a read. I love how he explains his thought processes and how he’s changed over the last several months of writing, speaking, and looking at Apple’s examples.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 24 Apr 2018 12:32:26 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/04/24/dave-delong-has.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/24/dave-delong-has.html</guid>
       </item>
     
   </channel>
