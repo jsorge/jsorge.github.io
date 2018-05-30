@@ -4,8 +4,19 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Mon, 28 May 2018 21:25:25 -0700</pubDate>
-    <lastBuildDate>Mon, 28 May 2018 21:25:25 -0700</lastBuildDate>
+    <pubDate>Wed, 30 May 2018 10:53:40 -0700</pubDate>
+    <lastBuildDate>Wed, 30 May 2018 10:53:40 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;This is completely wild. I have an iPhone that’s tethered to my laptop. My laptop is creating a wireless network, which the phone is joined to. And I’m still able to proxy my phone through the laptop using Charles. How does this voodoo work??&lt;/p&gt;
+
+&lt;p&gt;🤯&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 May 2018 10:53:37 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/05/30/this-is-completely.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/30/this-is-completely.html</guid>
+      </item>
     
       <item>
       	
@@ -464,17 +475,6 @@
         <pubDate>Wed, 25 Apr 2018 16:05:15 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/04/25/230515.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/25/230515.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Not a bad view from the train. It’s finally getting nice in Seattle!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2018/68991da2c7.jpg&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 24 Apr 2018 16:17:38 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/04/24/231738.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/24/231738.html</guid>
       </item>
     
   </channel>
