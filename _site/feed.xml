@@ -4,8 +4,55 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Sun, 03 Jun 2018 14:06:35 -0700</pubDate>
-    <lastBuildDate>Sun, 03 Jun 2018 14:06:35 -0700</lastBuildDate>
+    <pubDate>Mon, 04 Jun 2018 12:13:39 -0700</pubDate>
+    <lastBuildDate>Mon, 04 Jun 2018 12:13:39 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I think the WWDC State of the Union this afternoon is going to be absolutely amazing.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Jun 2018 12:13:35 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/06/04/i-think-the.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/04/i-think-the.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;That WWDC bike demo was the most impressive keynote demo since &lt;a href=&quot;https://www.youtube.com/watch?v=1MR4R5LdrJw&quot;&gt;Phil took a plunge in 99&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Jun 2018 11:23:56 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/06/04/that-wwdc-bike.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/04/that-wwdc-bike.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Oh, and if it weren’t enough that this week is WWDC, the Mariners are alone in 1st place in the AL west. I don’t believe this is happening, I don’t think it can last, but boy oh boy am I enjoying the crap out of it!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Jun 2018 07:45:39 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/06/04/oh-and-if.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/04/oh-and-if.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Congratulations to my Apple employee friends for your hard work being revealed to the world today. I’m excited to see what you’ve been up to!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Jun 2018 07:40:21 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/06/04/congratulations-to-my.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/04/congratulations-to-my.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’m completely excited by the lack of leaks and little knowledge of what will be announced at WWDC (aside from the small blunder on Saturday).&lt;/p&gt;
+
+&lt;p&gt;Imagine what last year would’ve been like had the HomePod firmware and GM of iOS 11 not leaked? We would have been totally in the dark.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Jun 2018 07:36:07 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/06/04/im-completely-excited.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/04/im-completely-excited.html</guid>
+      </item>
     
       <item>
       	
@@ -434,51 +481,6 @@
         <pubDate>Wed, 02 May 2018 21:59:37 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/05/02/im-trying-to.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/03/im-trying-to.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://youtu.be/o6XERmXsP-U&quot;&gt;Star Wars in the style of Arrested Development&lt;/a&gt; is the video we all need to see today.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 02 May 2018 18:09:14 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/02/star-wars-in.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/03/star-wars-in.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Reminder to my future self: setting the &lt;code class=&quot;highlighter-rouge&quot;&gt;delegate&lt;/code&gt; property on a &lt;code class=&quot;highlighter-rouge&quot;&gt;UINavigationController&lt;/code&gt; subclass doesn’t always do what I think it will do. In the case of the &lt;code class=&quot;highlighter-rouge&quot;&gt;MFMessageComposeViewController&lt;/code&gt;, I needed to set the &lt;code class=&quot;highlighter-rouge&quot;&gt;messageComposeDelegate&lt;/code&gt; instead.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 02 May 2018 08:27:10 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/02/reminder-to-my.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/02/reminder-to-my.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;New post from jsorge.net: &lt;a href=&quot;http://jsorge.net/2018/05/01/view-controllers-make-crummy-navigators/&quot;&gt;View Controllers Make Crummy Navigators&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 May 2018 21:58:45 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/01/045845.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/02/045845.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;The only reason it’s not insane for parents to pick up after their kids day after day after day is that they don’t expect different results.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 May 2018 20:39:20 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/01/the-only-reason.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/02/the-only-reason.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’m having this really weird and aggravating problem where some Apple Music songs will not play on my iPhone X but they will play on other devices. Hoping Apple’s support can get to the bottom of it. I’ve restarted the phone a few times to no avail.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 30 Apr 2018 07:42:30 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/04/30/im-having-this.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/04/30/im-having-this.html</guid>
       </item>
     
   </channel>
