@@ -6,6 +6,46 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/06/04/i-think-the.html",
+	      	
+			"content_html": "<p>I think the WWDC State of the Union this afternoon is going to be absolutely amazing.</p>\n",
+			"date_published": "2018-06-04T12:13:35-07:00",
+			"url": "https://mb.jsorge.net/2018/06/04/i-think-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/04/that-wwdc-bike.html",
+	      	
+			"content_html": "<p>That WWDC bike demo was the most impressive keynote demo since <a href=\"https://www.youtube.com/watch?v=1MR4R5LdrJw\">Phil took a plunge in 99</a>.</p>\n",
+			"date_published": "2018-06-04T11:23:56-07:00",
+			"url": "https://mb.jsorge.net/2018/06/04/that-wwdc-bike.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/04/oh-and-if.html",
+	      	
+			"content_html": "<p>Oh, and if it weren’t enough that this week is WWDC, the Mariners are alone in 1st place in the AL west. I don’t believe this is happening, I don’t think it can last, but boy oh boy am I enjoying the crap out of it!</p>\n",
+			"date_published": "2018-06-04T07:45:39-07:00",
+			"url": "https://mb.jsorge.net/2018/06/04/oh-and-if.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/04/congratulations-to-my.html",
+	      	
+			"content_html": "<p>Congratulations to my Apple employee friends for your hard work being revealed to the world today. I’m excited to see what you’ve been up to!</p>\n",
+			"date_published": "2018-06-04T07:40:21-07:00",
+			"url": "https://mb.jsorge.net/2018/06/04/congratulations-to-my.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/04/im-completely-excited.html",
+	      	
+			"content_html": "<p>I’m completely excited by the lack of leaks and little knowledge of what will be announced at WWDC (aside from the small blunder on Saturday).</p>\n\n<p>Imagine what last year would’ve been like had the HomePod firmware and GM of iOS 11 not leaked? We would have been totally in the dark.</p>\n",
+			"date_published": "2018-06-04T07:36:07-07:00",
+			"url": "https://mb.jsorge.net/2018/06/04/im-completely-excited.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/06/03/210605.html",
 	      	
 			"content_html": "<p>I don’t know what to think about Microsoft buying GitHub. Should I be happy? Concerned? Thinking about moving all my repos to Bitbucket or self-hosted GitLab?</p>\n",
@@ -163,46 +203,6 @@
 			"content_html": "<p>I stumbled upon <a href=\"https://learnxinyminutes.com\">this amazing resource</a> to help you learn a language or tool in a short amount of time.</p>\n\n<p>It’s a great reference for getting started on something unfamiliar.</p>\n",
 			"date_published": "2018-05-19T09:18:22-07:00",
 			"url": "https://mb.jsorge.net/2018/05/19/i-stumbled-upon.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/05/19/ive-had-to.html",
-	      	
-			"content_html": "<p>I’ve had to look at the WWDC video for <code class=\"highlighter-rouge\">UIPresentationController</code> and trying to wrap my brain around how view controller transitions work, I think I’ve finally got the basics figured out. Thankfully I don’t have to work with adaptation much yet. Baby steps.</p>\n\n<p>How was your Friday? 🙂</p>\n",
-			"date_published": "2018-05-18T23:33:14-07:00",
-			"url": "https://mb.jsorge.net/2018/05/18/ive-had-to.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/05/17/the-money-ive.html",
-	      	
-			"content_html": "<p>The money I’ve spent on <a href=\"https://www.fastmail.com/?STKI=15614818\">Fastmail</a> as my email provider is some of the best I’ve spent. I have 3 domains funneling there as well as all of my “legacy” email (iCloud &amp; Gmail) landing there too. Having only 1 email account setup on all my devices is really great.</p>\n",
-			"date_published": "2018-05-17T07:48:22-07:00",
-			"url": "https://mb.jsorge.net/2018/05/17/the-money-ive.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/05/17/thanks-to-twostrawss.html",
-	      	
-			"content_html": "<p>Thanks to <a href=\"https://www.hackingwithswift.com/about\">@twostraws</a>’s Vapor book I found that I needed to register a middleware to handle stuff in the public folder. Once that was in my images and styles loaded instantly.</p>\n\n<p>🎉🎉🎉</p>\n",
-			"date_published": "2018-05-16T20:09:13-07:00",
-			"url": "https://mb.jsorge.net/2018/05/16/thanks-to-twostrawss.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/05/17/back-at-my.html",
-	      	
-			"content_html": "<p>Back at my Vapor 3 conversion for taphouse.io. I got the leaf errors figured out. 🎉</p>\n\n<p>Next to get my assets linking properly in the Public folder.</p>\n",
-			"date_published": "2018-05-16T19:45:32-07:00",
-			"url": "https://mb.jsorge.net/2018/05/16/back-at-my.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/05/16/the-days-when.html",
-	      	
-			"content_html": "<p>The days when I find something to write (even a short journal or microblog post) are days when I feel better. I don’t know why that is.</p>\n",
-			"date_published": "2018-05-16T07:40:56-07:00",
-			"url": "https://mb.jsorge.net/2018/05/16/the-days-when.html"
 		}
 		
 	]
