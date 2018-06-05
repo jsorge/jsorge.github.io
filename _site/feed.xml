@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Mon, 04 Jun 2018 12:13:39 -0700</pubDate>
-    <lastBuildDate>Mon, 04 Jun 2018 12:13:39 -0700</lastBuildDate>
+    <pubDate>Mon, 04 Jun 2018 23:06:55 -0700</pubDate>
+    <lastBuildDate>Mon, 04 Jun 2018 23:06:55 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I got RSS feeds being created in Maverick! I still need to automate their generation when a new post is dropped into the posts folder (I probably need to learn about Vapor workers) but I’m happy to have output being generated.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Jun 2018 23:06:52 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/06/04/i-got-rss.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/05/i-got-rss.html</guid>
+      </item>
     
       <item>
       	
@@ -472,15 +481,6 @@
         <pubDate>Wed, 02 May 2018 22:10:31 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/05/02/ok-i-got.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/03/ok-i-got.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’m trying to get a Jekyll instance running locally and I keep running into Ruby and Gems issues. I’ve only used Ruby for Cocoapods and the Gems concept is all new to me. Maybe this isn’t the blog engine for me.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 02 May 2018 21:59:37 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/02/im-trying-to.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/03/im-trying-to.html</guid>
       </item>
     
   </channel>
