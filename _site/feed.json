@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/06/05/i-got-rss.html",
+	      	
+			"content_html": "<p>I got RSS feeds being created in Maverick! I still need to automate their generation when a new post is dropped into the posts folder (I probably need to learn about Vapor workers) but I’m happy to have output being generated.</p>\n",
+			"date_published": "2018-06-04T23:06:52-07:00",
+			"url": "https://mb.jsorge.net/2018/06/04/i-got-rss.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/06/04/i-think-the.html",
 	      	
 			"content_html": "<p>I think the WWDC State of the Union this afternoon is going to be absolutely amazing.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Phase 1 of my taphouse.io rewrite accomplished: Vapor is complete!</p>\n\n<p>Next up is Docker, Nginx, and actual hosting on a server at <a href=\"https://m.do.co/c/b54194754f24\">Digital Ocean</a>.</p>\n",
 			"date_published": "2018-05-19T11:28:43-07:00",
 			"url": "https://mb.jsorge.net/2018/05/19/phase-of-my.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/05/19/i-stumbled-upon.html",
-	      	
-			"content_html": "<p>I stumbled upon <a href=\"https://learnxinyminutes.com\">this amazing resource</a> to help you learn a language or tool in a short amount of time.</p>\n\n<p>It’s a great reference for getting started on something unfamiliar.</p>\n",
-			"date_published": "2018-05-19T09:18:22-07:00",
-			"url": "https://mb.jsorge.net/2018/05/19/i-stumbled-upon.html"
 		}
 		
 	]
