@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/06/05/how-cool-would.html",
+	      	
+			"content_html": "<p>How cool would it be if Marzipan comes as part of iOS 12.3 in the spring instead of iOS 13? I mean, there’s no way that could be their big reveal at next year’s WWDC, right?</p>\n\n<p>I would love to see them go on a Marizpan roadshow in the spring.</p>\n",
+			"date_published": "2018-06-05T15:22:21-07:00",
+			"url": "https://mb.jsorge.net/2018/06/05/how-cool-would.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/05/thanks-xcode-i.html",
+	      	
+			"content_html": "<p>Thanks Xcode. I didn’t actually want to run this app on my phone. 🤦‍♂️</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/57bff1eff7.jpg\" width=\"600\" height=\"213\" /></p>\n",
+			"date_published": "2018-06-05T11:43:03-07:00",
+			"url": "https://mb.jsorge.net/2018/06/05/thanks-xcode-i.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/05/im-so-tempted.html",
+	      	
+			"content_html": "<p>I’m so tempted to install iOS 12 Beta 1. I keep hearing how great it is already.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/08e8344c15.jpg\" width=\"500\" height=\"277\" /></p>\n",
+			"date_published": "2018-06-05T10:46:23-07:00",
+			"url": "https://mb.jsorge.net/2018/06/05/im-so-tempted.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/06/05/i-got-rss.html",
 	      	
 			"content_html": "<p>I got RSS feeds being created in Maverick! I still need to automate their generation when a new post is dropped into the posts folder (I probably need to learn about Vapor workers) but I’m happy to have output being generated.</p>\n",
@@ -179,30 +203,6 @@
 			"content_html": "<p>I’m going to call this a successful end to the night: I just got the taphouse.io site running locally in Docker, and could hit it via localhost.</p>\n\n<p>Next is to get it behind nginx locally, which is proving a harder challenge.</p>\n",
 			"date_published": "2018-05-21T22:55:49-07:00",
 			"url": "https://mb.jsorge.net/2018/05/21/im-going-to.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/05/22/052735.html",
-	      	
-			"content_html": "<p>New post from jsorge.net: <a href=\"http://jsorge.net/2018/05/21/rebuilding-taphouse-io/\">Rebuilding taphouse.io</a></p>\n",
-			"date_published": "2018-05-21T22:27:35-07:00",
-			"url": "https://mb.jsorge.net/2018/05/21/052735.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/05/20/i-may-have.html",
-	      	
-			"content_html": "<p>I may have hit the point of searching out too much documentation and tutorials for Docker. But I’m nearing the mental place to be able to understand that a container does not always equal a repo. That has been a mental block for me.</p>\n",
-			"date_published": "2018-05-19T23:05:38-07:00",
-			"url": "https://mb.jsorge.net/2018/05/19/i-may-have.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/05/19/phase-of-my.html",
-	      	
-			"content_html": "<p>Phase 1 of my taphouse.io rewrite accomplished: Vapor is complete!</p>\n\n<p>Next up is Docker, Nginx, and actual hosting on a server at <a href=\"https://m.do.co/c/b54194754f24\">Digital Ocean</a>.</p>\n",
-			"date_published": "2018-05-19T11:28:43-07:00",
-			"url": "https://mb.jsorge.net/2018/05/19/phase-of-my.html"
 		}
 		
 	]
