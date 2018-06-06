@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Tue, 05 Jun 2018 15:22:24 -0700</pubDate>
-    <lastBuildDate>Tue, 05 Jun 2018 15:22:24 -0700</lastBuildDate>
+    <pubDate>Wed, 06 Jun 2018 07:49:29 -0700</pubDate>
+    <lastBuildDate>Wed, 06 Jun 2018 07:49:29 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Did Xcode 9.4 totally change how debugging app extensions works? I used to be able to run an extension target and it would ask what host to attach to. Now it says that it can’t install the target because the target is not an application.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Jun 2018 07:49:08 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/06/06/did-xcode-totally.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/06/did-xcode-totally.html</guid>
+      </item>
     
       <item>
       	
@@ -474,17 +483,6 @@
         <pubDate>Sat, 05 May 2018 22:41:37 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/05/05/mariners-walk-off.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/06/mariners-walk-off.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’m writing a little thing that will take my markdown files and make them textbundles and want to embed images in the bundle.&lt;/p&gt;
-
-&lt;p&gt;Is a regular expression the best way to get any image names from that file?&lt;/p&gt;
-</description>
-        <pubDate>Sat, 05 May 2018 16:46:36 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/05/im-writing-a.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/05/im-writing-a.html</guid>
       </item>
     
   </channel>
