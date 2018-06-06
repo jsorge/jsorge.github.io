@@ -4,8 +4,41 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Mon, 04 Jun 2018 23:06:55 -0700</pubDate>
-    <lastBuildDate>Mon, 04 Jun 2018 23:06:55 -0700</lastBuildDate>
+    <pubDate>Tue, 05 Jun 2018 15:22:24 -0700</pubDate>
+    <lastBuildDate>Tue, 05 Jun 2018 15:22:24 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;How cool would it be if Marzipan comes as part of iOS 12.3 in the spring instead of iOS 13? I mean, there’s no way that could be their big reveal at next year’s WWDC, right?&lt;/p&gt;
+
+&lt;p&gt;I would love to see them go on a Marizpan roadshow in the spring.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Jun 2018 15:22:21 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/06/05/how-cool-would.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/05/how-cool-would.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Thanks Xcode. I didn’t actually want to run this app on my phone. 🤦‍♂️&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2018/57bff1eff7.jpg&quot; width=&quot;600&quot; height=&quot;213&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Jun 2018 11:43:03 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/06/05/thanks-xcode-i.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/05/thanks-xcode-i.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’m so tempted to install iOS 12 Beta 1. I keep hearing how great it is already.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2018/08e8344c15.jpg&quot; width=&quot;500&quot; height=&quot;277&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Jun 2018 10:46:23 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/06/05/im-so-tempted.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/05/im-so-tempted.html</guid>
+      </item>
     
       <item>
       	
@@ -452,35 +485,6 @@
         <pubDate>Sat, 05 May 2018 16:46:36 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/05/05/im-writing-a.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/05/im-writing-a.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I just realized I’ve been a 1Password customer for 10 years now. It’s easily in my pantheon of apps I couldn’t live without.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 04 May 2018 07:37:59 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/04/i-just-realized.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/04/i-just-realized.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Sad day: My Fluid app for GitHub is considered an “old browser” and is starting to break on me. I emailed the developer of Fluid and hope to get a good response, but it hasn’t been updated in &lt;em&gt;so long&lt;/em&gt; that I’m not optimistic.&lt;/p&gt;
-
-&lt;p&gt;Any other good way to silo a web app on the Mac?&lt;/p&gt;
-</description>
-        <pubDate>Thu, 03 May 2018 10:17:18 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/03/sad-day-my.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/03/sad-day-my.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Ok, I got the site working locally. Victory! Next would be porting over my Ghost template to Jekyll. That’s a battle for another day.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 02 May 2018 22:10:31 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/02/ok-i-got.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/03/ok-i-got.html</guid>
       </item>
     
   </channel>
