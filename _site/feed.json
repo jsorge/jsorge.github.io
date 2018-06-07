@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/06/07/214629.html",
+	      	
+			"content_html": "<p>As one who doesn’t really know much about algorithms, the WWDC session on them was quite insightful into how they could be used to refactor “practical” code. I’ll have to come back to this one.</p>\n",
+			"date_published": "2018-06-07T14:46:29-07:00",
+			"url": "https://mb.jsorge.net/2018/06/07/214629.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/06/07/holy-crap-ive.html",
 	      	
 			"content_html": "<p>Holy crap. I’ve got got micropub publishing working on Maverick. Still need to figure out images but I’m super happy with how things are shaping up.</p>\n\n<p>🎉</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I got recommended to try <a href=\"https://caddyserver.com\">Caddy</a> instead of nginx. I <em>think</em> I have a setup starting to work, but need to figure out how to proxy something from one container to the machine’s localhost, and have that display using the machine’s port.</p>\n",
 			"date_published": "2018-05-22T21:42:27-07:00",
 			"url": "https://mb.jsorge.net/2018/05/22/i-got-recommended.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/05/22/password-v-for.html",
-	      	
-			"content_html": "<p><a href=\"https://blog.agilebits.com/2018/05/22/1password-7-for-mac-the-best-ever/\">1Password v7 for the Mac</a> is out today! You should go get it. I’ve been on the beta for a while now and it’s fantastic.</p>\n",
-			"date_published": "2018-05-22T09:59:23-07:00",
-			"url": "https://mb.jsorge.net/2018/05/22/password-v-for.html"
 		}
 		
 	]
