@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/06/07/holy-crap-ive.html",
+	      	
+			"content_html": "<p>Holy crap. I’ve got got micropub publishing working on Maverick. Still need to figure out images but I’m super happy with how things are shaping up.</p>\n\n<p>🎉</p>\n",
+			"date_published": "2018-06-06T22:18:11-07:00",
+			"url": "https://mb.jsorge.net/2018/06/06/holy-crap-ive.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/06/06/did-xcode-totally.html",
 	      	
 			"content_html": "<p>Did Xcode 9.4 totally change how debugging app extensions works? I used to be able to run an extension target and it would ask what host to attach to. Now it says that it can’t install the target because the target is not an application.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://blog.agilebits.com/2018/05/22/1password-7-for-mac-the-best-ever/\">1Password v7 for the Mac</a> is out today! You should go get it. I’ve been on the beta for a while now and it’s fantastic.</p>\n",
 			"date_published": "2018-05-22T09:59:23-07:00",
 			"url": "https://mb.jsorge.net/2018/05/22/password-v-for.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/05/22/madness-is-not.html",
-	      	
-			"content_html": "<p>Madness is not being able to find out how nginx is serving localhost:8080 when it’s not running and nothing is bound to port 8080.</p>\n",
-			"date_published": "2018-05-21T23:16:41-07:00",
-			"url": "https://mb.jsorge.net/2018/05/21/madness-is-not.html"
 		}
 		
 	]
