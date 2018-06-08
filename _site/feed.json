@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/06/08/190755.html",
+	      	
+			"content_html": "<p>I just got an <em>incredibly</em> convincing spam email from the “App Store” confirming my subscription to YouTube Red (which I don’t subscribe to). This is your reminder to be very critical of messages that look official!</p>\n",
+			"date_published": "2018-06-08T12:07:55-07:00",
+			"url": "https://mb.jsorge.net/2018/06/08/190755.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/06/07/214629.html",
 	      	
 			"content_html": "<p>As one who doesn’t really know much about algorithms, the WWDC session on them was quite insightful into how they could be used to refactor “practical” code. I’ll have to come back to this one.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Note to self: instead of tweeting about a crazy linter rule at work, petition to have it changed. Make the codebase better rather than whine about it on the interwebs.</p>\n",
 			"date_published": "2018-05-23T18:56:18-07:00",
 			"url": "https://mb.jsorge.net/2018/05/23/note-to-self.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/05/23/i-got-recommended.html",
-	      	
-			"content_html": "<p>I got recommended to try <a href=\"https://caddyserver.com\">Caddy</a> instead of nginx. I <em>think</em> I have a setup starting to work, but need to figure out how to proxy something from one container to the machine’s localhost, and have that display using the machine’s port.</p>\n",
-			"date_published": "2018-05-22T21:42:27-07:00",
-			"url": "https://mb.jsorge.net/2018/05/22/i-got-recommended.html"
 		}
 		
 	]
