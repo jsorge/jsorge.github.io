@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/06/11/152041.html",
+	      	
+			"content_html": "<p>Is there any way to direct the deployment target of the Swift Package Manager’s Xcode project generation function? It insists on making my project with 10.10 as the target but I want 10.12.</p>\n",
+			"date_published": "2018-06-11T08:20:41-07:00",
+			"url": "https://mb.jsorge.net/2018/06/11/152041.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/06/11/touched-down-in.html",
 	      	
 			"content_html": "<p>Touched down in San Francisco. I’m here just for a couple of days for work, heading home on Tuesday evening.</p>\n\n<p>Miss my family already.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I want to take some Markdown text and convert it to HTML, on Linux and calling it from a Vapor 3 project written in Swift. How would I go about doing this?</p>\n",
 			"date_published": "2018-05-28T21:14:38-07:00",
 			"url": "https://mb.jsorge.net/2018/05/28/i-want-to.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/05/29/i-dont-know.html",
-	      	
-			"content_html": "<p>I don’t know much about hockey. But I’m watching the first game of the Stanley Cup Finals and the score is currently 5-4. Isn’t that really high?</p>\n",
-			"date_published": "2018-05-28T19:53:33-07:00",
-			"url": "https://mb.jsorge.net/2018/05/28/i-dont-know.html"
 		}
 		
 	]
