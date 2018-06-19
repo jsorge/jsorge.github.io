@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Mon, 18 Jun 2018 21:10:00 -0700</pubDate>
-    <lastBuildDate>Mon, 18 Jun 2018 21:10:00 -0700</lastBuildDate>
+    <pubDate>Tue, 19 Jun 2018 09:07:54 -0700</pubDate>
+    <lastBuildDate>Tue, 19 Jun 2018 09:07:54 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;New post from jsorge.net: &lt;a href=&quot;http://jsorge.net/2018/06/19/proxying-vapor-3-using-nginx-and-docker/&quot;&gt;Proxying Vapor 3 Using nginx and Docker&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Jun 2018 09:07:14 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/06/19/160714.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/19/160714.html</guid>
+      </item>
     
       <item>
       	
@@ -480,15 +489,6 @@
         <pubDate>Tue, 15 May 2018 21:48:08 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/05/15/vapor-rum-it.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/16/vapor-rum-it.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;After 30 minutes of screaming, the boys are in bed, I’ve got an Old Fashioned, and I’m ready to tackle Vapor 3.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 May 2018 20:43:16 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/15/after-minutes-of.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/16/after-minutes-of.html</guid>
       </item>
     
   </channel>
