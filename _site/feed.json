@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/06/21/im-incredibly-excited.html",
+	      	
+			"content_html": "<p>I’m incredibly excited to get my hands on the <a href=\"https://dwellapp.io\">Dwell audio Bible</a>. Their samples that have posted are amazing. I’ve been wanting a non-cheesy, well spoken Bible for a while now. Check it out to save 30% if you pre-order!</p>\n",
+			"date_published": "2018-06-21T10:50:08-07:00",
+			"url": "https://mb.jsorge.net/2018/06/21/im-incredibly-excited.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/21/seahawks-training-camp.html",
+	      	
+			"content_html": "<p>Seahawks training camp tickets acquired! That was surprisingly easy. Looking forward to the VMAC berm on 7/27!</p>\n",
+			"date_published": "2018-06-21T10:35:22-07:00",
+			"url": "https://mb.jsorge.net/2018/06/21/seahawks-training-camp.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/06/19/160714.html",
 	      	
 			"content_html": "<p>New post from jsorge.net: <a href=\"http://jsorge.net/2018/06/19/proxying-vapor-3-using-nginx-and-docker/\">Proxying Vapor 3 Using nginx and Docker</a></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>I’ve never seen two extension ladders leaned up against each other to make one really tall ladder. I hope no one gets hurt!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/ac73aa99cd.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-06-02T14:29:44-07:00",
 			"url": "https://mb.jsorge.net/2018/06/02/ive-never-seen.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/02/the-next-step.html",
-	      	
-			"content_html": "<p>The next step I want to take is generating the feeds. I want to make full text and microblog versions, with RSS and JSONFeed variants of each.</p>\n",
-			"date_published": "2018-06-02T09:00:46-07:00",
-			"url": "https://mb.jsorge.net/2018/06/02/the-next-step.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/02/ive-started-working.html",
-	      	
-			"content_html": "<p>I’ve started working on my own blog engine. It’s powered by Vapor 3 and will play nice with short and long-form content. I’ve made pretty good progress in a week. <a href=\"https://github.com/jsorge/maverick\">Check it out if you’re interested</a>. (Full blog post coming when it’s actually powering my site)</p>\n",
-			"date_published": "2018-06-02T08:59:33-07:00",
-			"url": "https://mb.jsorge.net/2018/06/02/ive-started-working.html"
 		}
 		
 	]
