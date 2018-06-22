@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/06/22/the-thing-i.html",
+	      	
+			"content_html": "<p>The thing I love about doing the taphouse.io project is that it will help me get my blog running using Maverick. I needed to get TLS working to enable the APIs for Micropub and XML-RPC.</p>\n",
+			"date_published": "2018-06-21T21:38:15-07:00",
+			"url": "https://mb.jsorge.net/2018/06/21/the-thing-i.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/22/and-just-like.html",
+	      	
+			"content_html": "<p>And just like that <a href=\"https://taphouse.io\">taphouse.io</a> is backed by letsprotect in Docker. Think it’s worth writing up how I added TLS to an nginx Docker container?</p>\n",
+			"date_published": "2018-06-21T21:37:11-07:00",
+			"url": "https://mb.jsorge.net/2018/06/21/and-just-like.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/06/21/im-incredibly-excited.html",
 	      	
 			"content_html": "<p>I’m incredibly excited to get my hands on the <a href=\"https://dwellapp.io\">Dwell audio Bible</a>. Their samples that have posted are amazing. I’ve been wanting a non-cheesy, well spoken Bible for a while now. Check it out to save 30% if you pre-order!</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>I’m completely excited by the lack of leaks and little knowledge of what will be announced at WWDC (aside from the small blunder on Saturday).</p>\n\n<p>Imagine what last year would’ve been like had the HomePod firmware and GM of iOS 11 not leaked? We would have been totally in the dark.</p>\n",
 			"date_published": "2018-06-04T07:36:07-07:00",
 			"url": "https://mb.jsorge.net/2018/06/04/im-completely-excited.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/03/210605.html",
-	      	
-			"content_html": "<p>I don’t know what to think about Microsoft buying GitHub. Should I be happy? Concerned? Thinking about moving all my repos to Bitbucket or self-hosted GitLab?</p>\n",
-			"date_published": "2018-06-03T14:06:05-07:00",
-			"url": "https://mb.jsorge.net/2018/06/03/210605.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/02/ive-never-seen.html",
-	      	
-			"content_html": "<p>I’ve never seen two extension ladders leaned up against each other to make one really tall ladder. I hope no one gets hurt!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/ac73aa99cd.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-06-02T14:29:44-07:00",
-			"url": "https://mb.jsorge.net/2018/06/02/ive-never-seen.html"
 		}
 		
 	]
