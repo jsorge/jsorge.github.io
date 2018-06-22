@@ -4,8 +4,26 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Thu, 21 Jun 2018 10:50:17 -0700</pubDate>
-    <lastBuildDate>Thu, 21 Jun 2018 10:50:17 -0700</lastBuildDate>
+    <pubDate>Thu, 21 Jun 2018 21:39:28 -0700</pubDate>
+    <lastBuildDate>Thu, 21 Jun 2018 21:39:28 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;The thing I love about doing the taphouse.io project is that it will help me get my blog running using Maverick. I needed to get TLS working to enable the APIs for Micropub and XML-RPC.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Jun 2018 21:38:15 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/06/21/the-thing-i.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/22/the-thing-i.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;And just like that &lt;a href=&quot;https://taphouse.io&quot;&gt;taphouse.io&lt;/a&gt; is backed by letsprotect in Docker. Think it’s worth writing up how I added TLS to an nginx Docker container?&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Jun 2018 21:37:11 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/06/21/and-just-like.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/22/and-just-like.html</guid>
+      </item>
     
       <item>
       	
@@ -471,24 +489,6 @@
         <pubDate>Wed, 16 May 2018 07:40:56 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/05/16/the-days-when.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/16/the-days-when.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I love Ichiro. He’s probably the only front office guy in baseball who would be out on the field celebrating an extra innings walk off win dresses in full uniform and batting gloves.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 May 2018 23:38:34 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/15/i-love-ichiro.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/16/i-love-ichiro.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’m calling it a night. Feeling somewhat defeated by these leaf templates. But I’ll figure it out. Eventually I’ll finish one of these side projects.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 May 2018 23:34:59 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/15/im-calling-it.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/16/im-calling-it.html</guid>
       </item>
     
   </channel>
