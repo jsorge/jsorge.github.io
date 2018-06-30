@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/06/30/im-taking-the.html",
+	      	
+			"content_html": "<p>I’m taking the citizen survey for my city and realizing how bad of a job I do of knowing what goes on in our city government and local community.</p>\n",
+			"date_published": "2018-06-30T16:23:38-07:00",
+			"url": "https://mb.jsorge.net/2018/06/30/im-taking-the.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/06/22/the-thing-i.html",
 	      	
 			"content_html": "<p>The thing I love about doing the taphouse.io project is that it will help me get my blog running using Maverick. I needed to get TLS working to enable the APIs for Micropub and XML-RPC.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Congratulations to my Apple employee friends for your hard work being revealed to the world today. I’m excited to see what you’ve been up to!</p>\n",
 			"date_published": "2018-06-04T07:40:21-07:00",
 			"url": "https://mb.jsorge.net/2018/06/04/congratulations-to-my.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/04/im-completely-excited.html",
-	      	
-			"content_html": "<p>I’m completely excited by the lack of leaks and little knowledge of what will be announced at WWDC (aside from the small blunder on Saturday).</p>\n\n<p>Imagine what last year would’ve been like had the HomePod firmware and GM of iOS 11 not leaked? We would have been totally in the dark.</p>\n",
-			"date_published": "2018-06-04T07:36:07-07:00",
-			"url": "https://mb.jsorge.net/2018/06/04/im-completely-excited.html"
 		}
 		
 	]
