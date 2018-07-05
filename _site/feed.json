@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/07/05/i-played-around.html",
+	      	
+			"content_html": "<p>I played around with a long shutter on my camera to shoot some fireworks tonight. I’m pretty happy with some of the results.</p>\n\n<p>Happy 4th of July!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/d595072f26.jpg\" width=\"600\" height=\"400\" /></p>\n",
+			"date_published": "2018-07-04T23:11:59-07:00",
+			"url": "https://mb.jsorge.net/2018/07/04/i-played-around.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/07/03/its-impressive-that.html",
 	      	
 			"content_html": "<p>It’s impressive that this school can disable fire on its property.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/e115ac8c71.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>That WWDC bike demo was the most impressive keynote demo since <a href=\"https://www.youtube.com/watch?v=1MR4R5LdrJw\">Phil took a plunge in 99</a>.</p>\n",
 			"date_published": "2018-06-04T11:23:56-07:00",
 			"url": "https://mb.jsorge.net/2018/06/04/that-wwdc-bike.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/04/oh-and-if.html",
-	      	
-			"content_html": "<p>Oh, and if it weren’t enough that this week is WWDC, the Mariners are alone in 1st place in the AL west. I don’t believe this is happening, I don’t think it can last, but boy oh boy am I enjoying the crap out of it!</p>\n",
-			"date_published": "2018-06-04T07:45:39-07:00",
-			"url": "https://mb.jsorge.net/2018/06/04/oh-and-if.html"
 		}
 		
 	]
