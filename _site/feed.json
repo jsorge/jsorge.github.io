@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/07/06/hello-from-macos.html",
+	      	
+			"content_html": "<p>Hello from macOS Mojave!</p>\n",
+			"date_published": "2018-07-06T12:49:30-07:00",
+			"url": "https://mb.jsorge.net/2018/07/06/hello-from-macos.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/07/05/i-played-around.html",
 	      	
 			"content_html": "<p>I played around with a long shutter on my camera to shoot some fireworks tonight. I’m pretty happy with some of the results.</p>\n\n<p>Happy 4th of July!</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/d595072f26.jpg\" width=\"600\" height=\"400\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I think the WWDC State of the Union this afternoon is going to be absolutely amazing.</p>\n",
 			"date_published": "2018-06-04T12:13:35-07:00",
 			"url": "https://mb.jsorge.net/2018/06/04/i-think-the.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/04/that-wwdc-bike.html",
-	      	
-			"content_html": "<p>That WWDC bike demo was the most impressive keynote demo since <a href=\"https://www.youtube.com/watch?v=1MR4R5LdrJw\">Phil took a plunge in 99</a>.</p>\n",
-			"date_published": "2018-06-04T11:23:56-07:00",
-			"url": "https://mb.jsorge.net/2018/06/04/that-wwdc-bike.html"
 		}
 		
 	]
