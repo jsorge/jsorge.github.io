@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/07/07/well-this-is.html",
+	      	
+			"content_html": "<p>Well this is quite the forecast commentary from my weather app.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/c7e4a905be.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-07T07:25:23-07:00",
+			"url": "https://mb.jsorge.net/2018/07/07/well-this-is.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/06/212418.html",
+	      	
+			"content_html": "<p>I just found out that there’s a beta of <a href=\"https://fluidapp.com/beta/\">Fluid v2</a> and I am so excited! I use this every day to silo web apps at work and v1 has started falling down on me a bit (especially with GitHub).</p>\n",
+			"date_published": "2018-07-06T14:24:18-07:00",
+			"url": "https://mb.jsorge.net/2018/07/06/212418.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/07/06/hello-from-macos.html",
 	      	
 			"content_html": "<p>Hello from macOS Mojave!</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>I’m so tempted to install iOS 12 Beta 1. I keep hearing how great it is already.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/08e8344c15.jpg\" width=\"500\" height=\"277\" /></p>\n",
 			"date_published": "2018-06-05T10:46:23-07:00",
 			"url": "https://mb.jsorge.net/2018/06/05/im-so-tempted.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/05/i-got-rss.html",
-	      	
-			"content_html": "<p>I got RSS feeds being created in Maverick! I still need to automate their generation when a new post is dropped into the posts folder (I probably need to learn about Vapor workers) but I’m happy to have output being generated.</p>\n",
-			"date_published": "2018-06-04T23:06:52-07:00",
-			"url": "https://mb.jsorge.net/2018/06/04/i-got-rss.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/04/i-think-the.html",
-	      	
-			"content_html": "<p>I think the WWDC State of the Union this afternoon is going to be absolutely amazing.</p>\n",
-			"date_published": "2018-06-04T12:13:35-07:00",
-			"url": "https://mb.jsorge.net/2018/06/04/i-think-the.html"
 		}
 		
 	]
