@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/07/08/well-im-stunned.html",
+	      	
+			"content_html": "<p>Well I’m stunned that both boys had to be woken up at 8:45. Which is great because I was up until 2 around the fire pit with some good friends.</p>\n\n<p>I made breakfast for us and got us all dressed and we got to church for the 11. Prayers answered!</p>\n",
+			"date_published": "2018-07-08T11:21:26-07:00",
+			"url": "https://mb.jsorge.net/2018/07/08/well-im-stunned.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/07/08/we-went-to.html",
 	      	
 			"content_html": "<p>We went to Imagine Children’s Museum with my mom and the boys had a great time. They were wiped out when we got home and had good naps.</p>\n\n<p>I’d say today was a success.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/901423c383.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Did Xcode 9.4 totally change how debugging app extensions works? I used to be able to run an extension target and it would ask what host to attach to. Now it says that it can’t install the target because the target is not an application.</p>\n",
 			"date_published": "2018-06-06T07:49:08-07:00",
 			"url": "https://mb.jsorge.net/2018/06/06/did-xcode-totally.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/05/how-cool-would.html",
-	      	
-			"content_html": "<p>How cool would it be if Marzipan comes as part of iOS 12.3 in the spring instead of iOS 13? I mean, there’s no way that could be their big reveal at next year’s WWDC, right?</p>\n\n<p>I would love to see them go on a Marizpan roadshow in the spring.</p>\n",
-			"date_published": "2018-06-05T15:22:21-07:00",
-			"url": "https://mb.jsorge.net/2018/06/05/how-cool-would.html"
 		}
 		
 	]
