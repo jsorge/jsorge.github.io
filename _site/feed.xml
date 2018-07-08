@@ -4,8 +4,30 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Sat, 07 Jul 2018 07:25:25 -0700</pubDate>
-    <lastBuildDate>Sat, 07 Jul 2018 07:25:25 -0700</lastBuildDate>
+    <pubDate>Sat, 07 Jul 2018 19:23:28 -0700</pubDate>
+    <lastBuildDate>Sat, 07 Jul 2018 19:23:28 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;We went to Imagine Children’s Museum with my mom and the boys had a great time. They were wiped out when we got home and had good naps.&lt;/p&gt;
+
+&lt;p&gt;I’d say today was a success.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2018/901423c383.jpg&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Jul 2018 19:23:26 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/07/07/we-went-to.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/08/we-went-to.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Emily is out of town this weekend so it’s just me and the boys. First time I’ve taken care of both of them for this long on my own. Prayers appreciated 😊&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Jul 2018 10:13:09 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/07/07/emily-is-out.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/07/emily-is-out.html</guid>
+      </item>
     
       <item>
       	
@@ -469,26 +491,6 @@
         <pubDate>Mon, 21 May 2018 22:27:35 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/05/21/052735.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/22/052735.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I may have hit the point of searching out too much documentation and tutorials for Docker. But I’m nearing the mental place to be able to understand that a container does not always equal a repo. That has been a mental block for me.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 19 May 2018 23:05:38 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/19/i-may-have.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/20/i-may-have.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Phase 1 of my taphouse.io rewrite accomplished: Vapor is complete!&lt;/p&gt;
-
-&lt;p&gt;Next up is Docker, Nginx, and actual hosting on a server at &lt;a href=&quot;https://m.do.co/c/b54194754f24&quot;&gt;Digital Ocean&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 19 May 2018 11:28:43 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/19/phase-of-my.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/19/phase-of-my.html</guid>
       </item>
     
   </channel>
