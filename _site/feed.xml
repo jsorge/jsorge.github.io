@@ -4,8 +4,28 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Sun, 08 Jul 2018 11:21:31 -0700</pubDate>
-    <lastBuildDate>Sun, 08 Jul 2018 11:21:31 -0700</lastBuildDate>
+    <pubDate>Mon, 09 Jul 2018 15:21:55 -0700</pubDate>
+    <lastBuildDate>Mon, 09 Jul 2018 15:21:55 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Adulting achievement unlocked: Signed life insurance papers.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Jul 2018 15:21:54 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/07/09/adulting-achievement-unlocked.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/09/adulting-achievement-unlocked.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Backyard dinner.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2018/3798a23d3c.jpg&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Jul 2018 17:36:57 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/07/08/backyard-dinner.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/09/backyard-dinner.html</guid>
+      </item>
     
       <item>
       	
@@ -473,26 +493,6 @@
         <pubDate>Tue, 22 May 2018 09:59:23 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/05/22/password-v-for.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/22/password-v-for.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Madness is not being able to find out how nginx is serving localhost:8080 when it’s not running and nothing is bound to port 8080.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 21 May 2018 23:16:41 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/21/madness-is-not.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/22/madness-is-not.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’m going to call this a successful end to the night: I just got the taphouse.io site running locally in Docker, and could hit it via localhost.&lt;/p&gt;
-
-&lt;p&gt;Next is to get it behind nginx locally, which is proving a harder challenge.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 21 May 2018 22:55:49 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/21/im-going-to.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/22/im-going-to.html</guid>
       </item>
     
   </channel>
