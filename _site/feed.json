@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/07/09/adulting-achievement-unlocked.html",
+	      	
+			"content_html": "<p>Adulting achievement unlocked: Signed life insurance papers.</p>\n",
+			"date_published": "2018-07-09T15:21:54-07:00",
+			"url": "https://mb.jsorge.net/2018/07/09/adulting-achievement-unlocked.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/09/backyard-dinner.html",
+	      	
+			"content_html": "<p>Backyard dinner.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/3798a23d3c.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-07-08T17:36:57-07:00",
+			"url": "https://mb.jsorge.net/2018/07/08/backyard-dinner.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/07/08/well-im-stunned.html",
 	      	
 			"content_html": "<p>Well I’m stunned that both boys had to be woken up at 8:45. Which is great because I was up until 2 around the fire pit with some good friends.</p>\n\n<p>I made breakfast for us and got us all dressed and we got to church for the 11. Prayers answered!</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>As one who doesn’t really know much about algorithms, the WWDC session on them was quite insightful into how they could be used to refactor “practical” code. I’ll have to come back to this one.</p>\n",
 			"date_published": "2018-06-07T14:46:29-07:00",
 			"url": "https://mb.jsorge.net/2018/06/07/214629.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/07/holy-crap-ive.html",
-	      	
-			"content_html": "<p>Holy crap. I’ve got got micropub publishing working on Maverick. Still need to figure out images but I’m super happy with how things are shaping up.</p>\n\n<p>🎉</p>\n",
-			"date_published": "2018-06-06T22:18:11-07:00",
-			"url": "https://mb.jsorge.net/2018/06/06/holy-crap-ive.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/06/did-xcode-totally.html",
-	      	
-			"content_html": "<p>Did Xcode 9.4 totally change how debugging app extensions works? I used to be able to run an extension target and it would ask what host to attach to. Now it says that it can’t install the target because the target is not an application.</p>\n",
-			"date_published": "2018-06-06T07:49:08-07:00",
-			"url": "https://mb.jsorge.net/2018/06/06/did-xcode-totally.html"
 		}
 		
 	]
