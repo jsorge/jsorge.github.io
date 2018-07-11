@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/07/11/spent-the-bus.html",
+	      	
+			"content_html": "<p>Spent the bus ride into work fixing a few bugs in Maverick. I’ve seen it crash when I tried giving it a bad date (which I didn’t think I had any more of – whoops!). It should be much more stable now, and the feeds should all work too!</p>\n",
+			"date_published": "2018-07-11T07:07:26-07:00",
+			"url": "https://mb.jsorge.net/2018/07/11/spent-the-bus.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/11/i-decided-to.html",
+	      	
+			"content_html": "<p>I decided to go for it. <a href=\"https://jsorge.net\">My web site</a> is now powered by Maverick, my homegrown blog engine. I’ll have some posts coming soon about some of the process I went through to make it. I’m so excited to have this thing live!</p>\n",
+			"date_published": "2018-07-10T22:53:17-07:00",
+			"url": "https://mb.jsorge.net/2018/07/10/i-decided-to.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/11/im-soooooooooo-close.html",
+	      	
+			"content_html": "<p>I’m soooooooooo close to getting my site running on Maverick! Probably tomorrow or Thursday!</p>\n",
+			"date_published": "2018-07-10T22:19:40-07:00",
+			"url": "https://mb.jsorge.net/2018/07/10/im-soooooooooo-close.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/07/11/i-wish-there.html",
 	      	
 			"content_html": "<p>I wish there were the chastity belt equivalent for diapers and pull ups. I could very much use a pair right now for these boys of mine.</p>\n",
@@ -179,30 +203,6 @@
 			"content_html": "<p>New post from jsorge.net: <a href=\"http://jsorge.net/2018/06/17/building-a-blog-engine/\">Building a Blog Engine</a></p>\n",
 			"date_published": "2018-06-17T09:41:04-07:00",
 			"url": "https://mb.jsorge.net/2018/06/17/164104.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/11/152041.html",
-	      	
-			"content_html": "<p>Is there any way to direct the deployment target of the Swift Package Manager’s Xcode project generation function? It insists on making my project with 10.10 as the target but I want 10.12.</p>\n",
-			"date_published": "2018-06-11T08:20:41-07:00",
-			"url": "https://mb.jsorge.net/2018/06/11/152041.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/11/touched-down-in.html",
-	      	
-			"content_html": "<p>Touched down in San Francisco. I’m here just for a couple of days for work, heading home on Tuesday evening.</p>\n\n<p>Miss my family already.</p>\n",
-			"date_published": "2018-06-10T21:47:44-07:00",
-			"url": "https://mb.jsorge.net/2018/06/10/touched-down-in.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/08/hold-on-to.html",
-	      	
-			"content_html": "<p>Hold on to your butts.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/f07245a1d2.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-08T15:13:50-07:00",
-			"url": "https://mb.jsorge.net/2018/06/08/hold-on-to.html"
 		}
 		
 	]
