@@ -4,8 +4,35 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Tue, 10 Jul 2018 19:08:29 -0700</pubDate>
-    <lastBuildDate>Tue, 10 Jul 2018 19:08:29 -0700</lastBuildDate>
+    <pubDate>Wed, 11 Jul 2018 07:08:01 -0700</pubDate>
+    <lastBuildDate>Wed, 11 Jul 2018 07:08:01 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Spent the bus ride into work fixing a few bugs in Maverick. I’ve seen it crash when I tried giving it a bad date (which I didn’t think I had any more of – whoops!). It should be much more stable now, and the feeds should all work too!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Jul 2018 07:07:26 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/07/11/spent-the-bus.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/11/spent-the-bus.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I decided to go for it. &lt;a href=&quot;https://jsorge.net&quot;&gt;My web site&lt;/a&gt; is now powered by Maverick, my homegrown blog engine. I’ll have some posts coming soon about some of the process I went through to make it. I’m so excited to have this thing live!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Jul 2018 22:53:17 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/07/10/i-decided-to.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/11/i-decided-to.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’m soooooooooo close to getting my site running on Maverick! Probably tomorrow or Thursday!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Jul 2018 22:19:40 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/07/10/im-soooooooooo-close.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/11/im-soooooooooo-close.html</guid>
+      </item>
     
       <item>
       	
@@ -468,33 +495,6 @@
         <pubDate>Mon, 28 May 2018 21:14:38 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/05/28/i-want-to.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/29/i-want-to.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I don’t know much about hockey. But I’m watching the first game of the Stanley Cup Finals and the score is currently 5-4. Isn’t that really high?&lt;/p&gt;
-</description>
-        <pubDate>Mon, 28 May 2018 19:53:33 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/28/i-dont-know.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/29/i-dont-know.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Dang, I thought I had my Swift Playground woes fixed in Xcode 9.3.1. But alas, I’m getting the never ending running with this one. I’m just trying to parse a text file!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 28 May 2018 14:05:53 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/28/dang-i-thought.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/28/dang-i-thought.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Note to self: instead of tweeting about a crazy linter rule at work, petition to have it changed. Make the codebase better rather than whine about it on the interwebs.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 23 May 2018 18:56:18 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/23/note-to-self.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/24/note-to-self.html</guid>
       </item>
     
   </channel>
