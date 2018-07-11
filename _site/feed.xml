@@ -4,8 +4,28 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Mon, 09 Jul 2018 15:21:55 -0700</pubDate>
-    <lastBuildDate>Mon, 09 Jul 2018 15:21:55 -0700</lastBuildDate>
+    <pubDate>Tue, 10 Jul 2018 19:08:29 -0700</pubDate>
+    <lastBuildDate>Tue, 10 Jul 2018 19:08:29 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I wish there were the chastity belt equivalent for diapers and pull ups. I could very much use a pair right now for these boys of mine.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Jul 2018 19:07:39 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/07/10/i-wish-there.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/11/i-wish-there.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;My day one App Store downloads from 10 years ago.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2018/06949fbb10.jpg&quot; width=&quot;277&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Jul 2018 17:13:30 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/07/10/my-day-one.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/11/my-day-one.html</guid>
+      </item>
     
       <item>
       	
@@ -475,24 +495,6 @@
         <pubDate>Wed, 23 May 2018 18:56:18 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/05/23/note-to-self.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/24/note-to-self.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I got recommended to try &lt;a href=&quot;https://caddyserver.com&quot;&gt;Caddy&lt;/a&gt; instead of nginx. I &lt;em&gt;think&lt;/em&gt; I have a setup starting to work, but need to figure out how to proxy something from one container to the machine’s localhost, and have that display using the machine’s port.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 22 May 2018 21:42:27 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/22/i-got-recommended.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/23/i-got-recommended.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://blog.agilebits.com/2018/05/22/1password-7-for-mac-the-best-ever/&quot;&gt;1Password v7 for the Mac&lt;/a&gt; is out today! You should go get it. I’ve been on the beta for a while now and it’s fantastic.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 22 May 2018 09:59:23 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/22/password-v-for.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/22/password-v-for.html</guid>
       </item>
     
   </channel>
