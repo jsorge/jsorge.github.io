@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/07/12/ive-written-over.html",
+	      	
+			"content_html": "<p>I’ve written over 1100 words about my Maverick building and deployment process and feel like there’s so much left to say. Maybe I should split this up into a few parts. It’s too late tonight and I need to get to bed. Eventually I’ll publish a post on this new blog system of mine!</p>\n",
+			"date_published": "2018-07-11T22:35:32-07:00",
+			"url": "https://mb.jsorge.net/2018/07/11/ive-written-over.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/07/11/spent-the-bus.html",
 	      	
 			"content_html": "<p>Spent the bus ride into work fixing a few bugs in Maverick. I’ve seen it crash when I tried giving it a bad date (which I didn’t think I had any more of – whoops!). It should be much more stable now, and the feeds should all work too!</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Achievement unlocked: <a href=\"http://taphouse.io\">taphouse.io</a> is now being fully served by Docker. The Vapor community is so helpful, especially <a href=\"https://bygri.github.io\">@bygri</a>.</p>\n\n<p>I’ll try to get a full writeup done soon. This is going to help me get Maverick off the ground on a server.</p>\n",
 			"date_published": "2018-06-17T16:27:31-07:00",
 			"url": "https://mb.jsorge.net/2018/06/17/achievement-unlocked-httptaphouseio.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/17/164104.html",
-	      	
-			"content_html": "<p>New post from jsorge.net: <a href=\"http://jsorge.net/2018/06/17/building-a-blog-engine/\">Building a Blog Engine</a></p>\n",
-			"date_published": "2018-06-17T09:41:04-07:00",
-			"url": "https://mb.jsorge.net/2018/06/17/164104.html"
 		}
 		
 	]
