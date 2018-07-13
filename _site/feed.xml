@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Wed, 11 Jul 2018 22:36:52 -0700</pubDate>
-    <lastBuildDate>Wed, 11 Jul 2018 22:36:52 -0700</lastBuildDate>
+    <pubDate>Fri, 13 Jul 2018 00:21:39 -0700</pubDate>
+    <lastBuildDate>Fri, 13 Jul 2018 00:21:39 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;New post from jsorge.net: &lt;a href=&quot;https://jsorge.net/2018/07/11/welcome-to-the-new-age&quot;&gt;This is My New Site; It Looks Like The Old Site&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 Jul 2018 00:21:32 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/07/13/072132.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/13/072132.html</guid>
+      </item>
     
       <item>
       	
@@ -486,15 +495,6 @@
         <pubDate>Wed, 30 May 2018 10:53:37 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/05/30/this-is-completely.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/30/this-is-completely.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I should have done &lt;em&gt;just a little&lt;/em&gt; more digging before posting, and I would have found &lt;a href=&quot;https://github.com/vapor-community/markdown&quot;&gt;this great library&lt;/a&gt; that uses &lt;code class=&quot;highlighter-rouge&quot;&gt;cmark&lt;/code&gt; under the hood.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 28 May 2018 21:25:22 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/05/28/i-should-have.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/05/29/i-should-have.html</guid>
       </item>
     
   </channel>
