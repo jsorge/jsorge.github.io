@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/07/19/a-friend-gave.html",
+	      	
+			"content_html": "<p>A friend gave us some bourbon soaked cherries for cocktails. I must say they go amazingly well in an old fashioned.</p>\n",
+			"date_published": "2018-07-18T20:51:06-07:00",
+			"url": "https://mb.jsorge.net/2018/07/18/a-friend-gave.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/07/18/red-velvet-cake.html",
 	      	
 			"content_html": "<p>Red velvet cake (especially frozen) is the best cake. Come at me.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I’m incredibly excited to get my hands on the <a href=\"https://dwellapp.io\">Dwell audio Bible</a>. Their samples that have posted are amazing. I’ve been wanting a non-cheesy, well spoken Bible for a while now. Check it out to save 30% if you pre-order!</p>\n",
 			"date_published": "2018-06-21T10:50:08-07:00",
 			"url": "https://mb.jsorge.net/2018/06/21/im-incredibly-excited.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/21/seahawks-training-camp.html",
-	      	
-			"content_html": "<p>Seahawks training camp tickets acquired! That was surprisingly easy. Looking forward to the VMAC berm on 7/27!</p>\n",
-			"date_published": "2018-06-21T10:35:22-07:00",
-			"url": "https://mb.jsorge.net/2018/06/21/seahawks-training-camp.html"
 		}
 		
 	]
