@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/07/20/atticus-knows-exactly.html",
+	      	
+			"content_html": "<p>Atticus knows exactly where the Hot Wheels are kept at Fred Meyer. I took him and Finnian around the store while Emily got groceries and he led us right there. I don’t know if we can ever go there anymore and not bring home at least 2 new cars.</p>\n",
+			"date_published": "2018-07-19T21:06:59-07:00",
+			"url": "https://mb.jsorge.net/2018/07/19/atticus-knows-exactly.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/07/19/a-friend-gave.html",
 	      	
 			"content_html": "<p>A friend gave us some bourbon soaked cherries for cocktails. I must say they go amazingly well in an old fashioned.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>And just like that <a href=\"https://taphouse.io\">taphouse.io</a> is backed by letsprotect in Docker. Think it’s worth writing up how I added TLS to an nginx Docker container?</p>\n",
 			"date_published": "2018-06-21T21:37:11-07:00",
 			"url": "https://mb.jsorge.net/2018/06/21/and-just-like.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/21/im-incredibly-excited.html",
-	      	
-			"content_html": "<p>I’m incredibly excited to get my hands on the <a href=\"https://dwellapp.io\">Dwell audio Bible</a>. Their samples that have posted are amazing. I’ve been wanting a non-cheesy, well spoken Bible for a while now. Check it out to save 30% if you pre-order!</p>\n",
-			"date_published": "2018-06-21T10:50:08-07:00",
-			"url": "https://mb.jsorge.net/2018/06/21/im-incredibly-excited.html"
 		}
 		
 	]
