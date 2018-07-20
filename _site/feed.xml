@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Wed, 18 Jul 2018 20:51:20 -0700</pubDate>
-    <lastBuildDate>Wed, 18 Jul 2018 20:51:20 -0700</lastBuildDate>
+    <pubDate>Thu, 19 Jul 2018 21:07:00 -0700</pubDate>
+    <lastBuildDate>Thu, 19 Jul 2018 21:07:00 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Atticus knows exactly where the Hot Wheels are kept at Fred Meyer. I took him and Finnian around the store while Emily got groceries and he led us right there. I don’t know if we can ever go there anymore and not bring home at least 2 new cars.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Jul 2018 21:06:59 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/07/19/atticus-knows-exactly.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/20/atticus-knows-exactly.html</guid>
+      </item>
     
       <item>
       	
@@ -482,15 +491,6 @@
         <pubDate>Sat, 02 Jun 2018 14:29:44 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/06/02/ive-never-seen.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/02/ive-never-seen.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;The next step I want to take is generating the feeds. I want to make full text and microblog versions, with RSS and JSONFeed variants of each.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 02 Jun 2018 09:00:46 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/06/02/the-next-step.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/02/the-next-step.html</guid>
       </item>
     
   </channel>
