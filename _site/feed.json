@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/07/20/i-think-i.html",
+	      	
+			"content_html": "<p>I think I just got my craziest build script to work. 🎉</p>\n",
+			"date_published": "2018-07-20T11:57:09-07:00",
+			"url": "https://mb.jsorge.net/2018/07/20/i-think-i.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/20/ive-been-working.html",
+	      	
+			"content_html": "<p>I’ve been working on my shell scripting skills to make a Maverick site really easy to setup. It feels way less fiddly now than it did a couple of days ago. I’m no wizard at these things but hopefully getting better.</p>\n",
+			"date_published": "2018-07-19T22:29:34-07:00",
+			"url": "https://mb.jsorge.net/2018/07/19/ive-been-working.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/20/i-put-up.html",
+	      	
+			"content_html": "<p>I put up a repo template that anyone could use to make their own site based on my Maverick textbundle engine. Check it out! <a href=\"https://github.com/jsorge/maverick-hello-world\">github.com/jsorge/ma…</a></p>\n",
+			"date_published": "2018-07-19T22:29:06-07:00",
+			"url": "https://mb.jsorge.net/2018/07/19/i-put-up.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/07/20/atticus-knows-exactly.html",
 	      	
 			"content_html": "<p>Atticus knows exactly where the Hot Wheels are kept at Fred Meyer. I took him and Finnian around the store while Emily got groceries and he led us right there. I don’t know if we can ever go there anymore and not bring home at least 2 new cars.</p>\n",
@@ -179,30 +203,6 @@
 			"content_html": "<p>It’s impressive that this school can disable fire on its property.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/e115ac8c71.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-07-02T20:19:53-07:00",
 			"url": "https://mb.jsorge.net/2018/07/02/its-impressive-that.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/30/im-taking-the.html",
-	      	
-			"content_html": "<p>I’m taking the citizen survey for my city and realizing how bad of a job I do of knowing what goes on in our city government and local community.</p>\n",
-			"date_published": "2018-06-30T16:23:38-07:00",
-			"url": "https://mb.jsorge.net/2018/06/30/im-taking-the.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/22/the-thing-i.html",
-	      	
-			"content_html": "<p>The thing I love about doing the taphouse.io project is that it will help me get my blog running using Maverick. I needed to get TLS working to enable the APIs for Micropub and XML-RPC.</p>\n",
-			"date_published": "2018-06-21T21:38:15-07:00",
-			"url": "https://mb.jsorge.net/2018/06/21/the-thing-i.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/06/22/and-just-like.html",
-	      	
-			"content_html": "<p>And just like that <a href=\"https://taphouse.io\">taphouse.io</a> is backed by letsprotect in Docker. Think it’s worth writing up how I added TLS to an nginx Docker container?</p>\n",
-			"date_published": "2018-06-21T21:37:11-07:00",
-			"url": "https://mb.jsorge.net/2018/06/21/and-just-like.html"
 		}
 		
 	]
