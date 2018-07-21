@@ -4,8 +4,35 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Thu, 19 Jul 2018 21:07:00 -0700</pubDate>
-    <lastBuildDate>Thu, 19 Jul 2018 21:07:00 -0700</lastBuildDate>
+    <pubDate>Fri, 20 Jul 2018 11:57:11 -0700</pubDate>
+    <lastBuildDate>Fri, 20 Jul 2018 11:57:11 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I think I just got my craziest build script to work. 🎉&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Jul 2018 11:57:09 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/07/20/i-think-i.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/20/i-think-i.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’ve been working on my shell scripting skills to make a Maverick site really easy to setup. It feels way less fiddly now than it did a couple of days ago. I’m no wizard at these things but hopefully getting better.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Jul 2018 22:29:34 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/07/19/ive-been-working.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/20/ive-been-working.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I put up a repo template that anyone could use to make their own site based on my Maverick textbundle engine. Check it out! &lt;a href=&quot;https://github.com/jsorge/maverick-hello-world&quot;&gt;github.com/jsorge/ma…&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Jul 2018 22:29:06 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/07/19/i-put-up.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/20/i-put-up.html</guid>
+      </item>
     
       <item>
       	
@@ -460,37 +487,6 @@
         <pubDate>Mon, 04 Jun 2018 07:40:21 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/06/04/congratulations-to-my.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/04/congratulations-to-my.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’m completely excited by the lack of leaks and little knowledge of what will be announced at WWDC (aside from the small blunder on Saturday).&lt;/p&gt;
-
-&lt;p&gt;Imagine what last year would’ve been like had the HomePod firmware and GM of iOS 11 not leaked? We would have been totally in the dark.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 04 Jun 2018 07:36:07 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/06/04/im-completely-excited.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/04/im-completely-excited.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I don’t know what to think about Microsoft buying GitHub. Should I be happy? Concerned? Thinking about moving all my repos to Bitbucket or self-hosted GitLab?&lt;/p&gt;
-</description>
-        <pubDate>Sun, 03 Jun 2018 14:06:05 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/06/03/210605.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/03/210605.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’ve never seen two extension ladders leaned up against each other to make one really tall ladder. I hope no one gets hurt!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2018/ac73aa99cd.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 02 Jun 2018 14:29:44 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/06/02/ive-never-seen.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/02/ive-never-seen.html</guid>
       </item>
     
   </channel>
