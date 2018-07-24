@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Mon, 23 Jul 2018 09:30:50 -0700</pubDate>
-    <lastBuildDate>Mon, 23 Jul 2018 09:30:50 -0700</lastBuildDate>
+    <pubDate>Mon, 23 Jul 2018 18:11:50 -0700</pubDate>
+    <lastBuildDate>Mon, 23 Jul 2018 18:11:50 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;New post from jsorge.net: &lt;a href=&quot;https://jsorge.net/2018/07/23/scripting-your-security&quot;&gt;Securing an nginx Container with letsencrypt&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Jul 2018 18:11:36 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/07/23/011136.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/24/011136.html</guid>
+      </item>
     
       <item>
       	
@@ -480,15 +489,6 @@
         <pubDate>Mon, 04 Jun 2018 12:13:35 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/06/04/i-think-the.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/04/i-think-the.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;That WWDC bike demo was the most impressive keynote demo since &lt;a href=&quot;https://www.youtube.com/watch?v=1MR4R5LdrJw&quot;&gt;Phil took a plunge in 99&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 04 Jun 2018 11:23:56 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/06/04/that-wwdc-bike.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/04/that-wwdc-bike.html</guid>
       </item>
     
   </channel>
