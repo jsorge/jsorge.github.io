@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Thu, 26 Jul 2018 22:25:28 -0700</pubDate>
-    <lastBuildDate>Thu, 26 Jul 2018 22:25:28 -0700</lastBuildDate>
+    <pubDate>Fri, 27 Jul 2018 13:32:04 -0700</pubDate>
+    <lastBuildDate>Fri, 27 Jul 2018 13:32:04 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;We had a great time out at the VMAC for Seahawks training camp. The boys did amazingly well sitting on the berm and watching practice, and it’s a beautiful day. God is good!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Jul 2018 13:28:39 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/07/27/we-had-a.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/27/we-had-a.html</guid>
+      </item>
     
       <item>
       	
@@ -479,15 +488,6 @@
         <pubDate>Wed, 06 Jun 2018 22:18:11 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/06/06/holy-crap-ive.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/07/holy-crap-ive.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Did Xcode 9.4 totally change how debugging app extensions works? I used to be able to run an extension target and it would ask what host to attach to. Now it says that it can’t install the target because the target is not an application.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 06 Jun 2018 07:49:08 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/06/06/did-xcode-totally.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/06/did-xcode-totally.html</guid>
       </item>
     
   </channel>
