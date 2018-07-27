@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/07/27/we-had-a.html",
+	      	
+			"content_html": "<p>We had a great time out at the VMAC for Seahawks training camp. The boys did amazingly well sitting on the berm and watching practice, and it’s a beautiful day. God is good!</p>\n",
+			"date_published": "2018-07-27T13:28:39-07:00",
+			"url": "https://mb.jsorge.net/2018/07/27/we-had-a.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/07/27/walked-by-the.html",
 	      	
 			"content_html": "<p>Walked by the Apple Store at Alderwood Mall (which has been closed for renovation since the end of February) and holy cow it’s going to be huge when they reopen! I think they expended left and right, probably tripling the store size!</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Adulting achievement unlocked: Signed life insurance papers.</p>\n",
 			"date_published": "2018-07-09T15:21:54-07:00",
 			"url": "https://mb.jsorge.net/2018/07/09/adulting-achievement-unlocked.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/07/09/backyard-dinner.html",
-	      	
-			"content_html": "<p>Backyard dinner.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/3798a23d3c.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-07-08T17:36:57-07:00",
-			"url": "https://mb.jsorge.net/2018/07/08/backyard-dinner.html"
 		}
 		
 	]
