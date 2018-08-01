@@ -1,0 +1,2733 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Jared Sorge",
+	"home_page_url": "https://mb.jsorge.net/",
+	"feed_url": "https://mb.jsorge.net/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/31/230110.html",
+	      	
+			"content_text": "Over the weekend I added support for drafts to Maverick....",
+			"date_published": "2018-07-31T16:01:10-07:00",
+			"url": "https://mb.jsorge.net/2018/07/31/230110.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/27/dang-its-a.html",
+	      	
+			"content_text": "Dang, it’s a huge pain to implement Micropub posting via...",
+			"date_published": "2018-07-27T15:10:26-07:00",
+			"url": "https://mb.jsorge.net/2018/07/27/dang-its-a.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/27/we-had-a.html",
+	      	
+			"content_text": "We had a great time out at the VMAC for...",
+			"date_published": "2018-07-27T13:28:39-07:00",
+			"url": "https://mb.jsorge.net/2018/07/27/we-had-a.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/27/walked-by-the.html",
+	      	
+			"content_text": "Walked by the Apple Store at Alderwood Mall (which has...",
+			"date_published": "2018-07-26T18:57:48-07:00",
+			"url": "https://mb.jsorge.net/2018/07/26/walked-by-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/26/im-making-really.html",
+	      	
+			"content_text": "I’m making really good progress in firming up Micropub support...",
+			"date_published": "2018-07-25T21:25:01-07:00",
+			"url": "https://mb.jsorge.net/2018/07/25/im-making-really.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/25/achievement-unlocked-filed.html",
+	      	
+			"content_text": "Achievement unlocked: Filed my first Swift bug today, then closed...",
+			"date_published": "2018-07-24T21:51:15-07:00",
+			"url": "https://mb.jsorge.net/2018/07/24/achievement-unlocked-filed.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/25/seeing-posters-for.html",
+	      	
+			"content_text": "Seeing posters for the upcoming Pearl Jam shows at Safeco...",
+			"date_published": "2018-07-24T19:10:10-07:00",
+			"url": "https://mb.jsorge.net/2018/07/24/seeing-posters-for.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/24/some-days-call.html",
+	      	
+			"content_text": "Some days call for packing up the family and going...",
+			"date_published": "2018-07-23T19:46:42-07:00",
+			"url": "https://mb.jsorge.net/2018/07/23/some-days-call.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/24/011136.html",
+	      	
+			"content_text": "New post from jsorge.net: Securing an nginx Container with letsencrypt...",
+			"date_published": "2018-07-23T18:11:36-07:00",
+			"url": "https://mb.jsorge.net/2018/07/23/011136.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/23/i-cant-believe.html",
+	      	
+			"content_text": "I can’t believe it’s already been seven years that’s Emily...",
+			"date_published": "2018-07-23T09:30:40-07:00",
+			"url": "https://mb.jsorge.net/2018/07/23/i-cant-believe.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/21/061544.html",
+	      	
+			"content_text": "New post from jsorge.net: Nerd Snipe- 2 Apps, 1 Extension...",
+			"date_published": "2018-07-20T23:15:44-07:00",
+			"url": "https://mb.jsorge.net/2018/07/20/061544.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/20/i-think-i.html",
+	      	
+			"content_text": "I think I just got my craziest build script to...",
+			"date_published": "2018-07-20T11:57:09-07:00",
+			"url": "https://mb.jsorge.net/2018/07/20/i-think-i.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/20/ive-been-working.html",
+	      	
+			"content_text": "I’ve been working on my shell scripting skills to make...",
+			"date_published": "2018-07-19T22:29:34-07:00",
+			"url": "https://mb.jsorge.net/2018/07/19/ive-been-working.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/20/i-put-up.html",
+	      	
+			"content_text": "I put up a repo template that anyone could use...",
+			"date_published": "2018-07-19T22:29:06-07:00",
+			"url": "https://mb.jsorge.net/2018/07/19/i-put-up.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/20/atticus-knows-exactly.html",
+	      	
+			"content_text": "Atticus knows exactly where the Hot Wheels are kept at...",
+			"date_published": "2018-07-19T21:06:59-07:00",
+			"url": "https://mb.jsorge.net/2018/07/19/atticus-knows-exactly.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/19/a-friend-gave.html",
+	      	
+			"content_text": "A friend gave us some bourbon soaked cherries for cocktails....",
+			"date_published": "2018-07-18T20:51:06-07:00",
+			"url": "https://mb.jsorge.net/2018/07/18/a-friend-gave.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/18/red-velvet-cake.html",
+	      	
+			"content_text": "Red velvet cake (especially frozen) is the best cake. Come...",
+			"date_published": "2018-07-17T20:43:07-07:00",
+			"url": "https://mb.jsorge.net/2018/07/17/red-velvet-cake.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/15/225913.html",
+	      	
+			"content_text": "New post from jsorge.net: Finny Turns 2\n",
+			"date_published": "2018-07-15T15:59:13-07:00",
+			"url": "https://mb.jsorge.net/2018/07/15/225913.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/13/i-was-not.html",
+	      	
+			"content_text": "I was not expecting this day to start out with...",
+			"date_published": "2018-07-13T09:54:27-07:00",
+			"url": "https://mb.jsorge.net/2018/07/13/i-was-not.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/13/072132.html",
+	      	
+			"content_text": "New post from jsorge.net: This is My New Site; It...",
+			"date_published": "2018-07-13T00:21:32-07:00",
+			"url": "https://mb.jsorge.net/2018/07/13/072132.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/12/ive-written-over.html",
+	      	
+			"content_text": "I’ve written over 1100 words about my Maverick building and...",
+			"date_published": "2018-07-11T22:35:32-07:00",
+			"url": "https://mb.jsorge.net/2018/07/11/ive-written-over.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/11/spent-the-bus.html",
+	      	
+			"content_text": "Spent the bus ride into work fixing a few bugs...",
+			"date_published": "2018-07-11T07:07:26-07:00",
+			"url": "https://mb.jsorge.net/2018/07/11/spent-the-bus.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/11/i-decided-to.html",
+	      	
+			"content_text": "I decided to go for it. My web site is...",
+			"date_published": "2018-07-10T22:53:17-07:00",
+			"url": "https://mb.jsorge.net/2018/07/10/i-decided-to.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/11/im-soooooooooo-close.html",
+	      	
+			"content_text": "I’m soooooooooo close to getting my site running on Maverick!...",
+			"date_published": "2018-07-10T22:19:40-07:00",
+			"url": "https://mb.jsorge.net/2018/07/10/im-soooooooooo-close.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/11/i-wish-there.html",
+	      	
+			"content_text": "I wish there were the chastity belt equivalent for diapers...",
+			"date_published": "2018-07-10T19:07:39-07:00",
+			"url": "https://mb.jsorge.net/2018/07/10/i-wish-there.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/11/my-day-one.html",
+	      	
+			"content_text": "My day one App Store downloads from 10 years ago....",
+			"date_published": "2018-07-10T17:13:30-07:00",
+			"url": "https://mb.jsorge.net/2018/07/10/my-day-one.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/09/adulting-achievement-unlocked.html",
+	      	
+			"content_text": "Adulting achievement unlocked: Signed life insurance papers.\n",
+			"date_published": "2018-07-09T15:21:54-07:00",
+			"url": "https://mb.jsorge.net/2018/07/09/adulting-achievement-unlocked.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/09/backyard-dinner.html",
+	      	
+			"content_text": "Backyard dinner.\n\n\n",
+			"date_published": "2018-07-08T17:36:57-07:00",
+			"url": "https://mb.jsorge.net/2018/07/08/backyard-dinner.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/08/well-im-stunned.html",
+	      	
+			"content_text": "Well I’m stunned that both boys had to be woken...",
+			"date_published": "2018-07-08T11:21:26-07:00",
+			"url": "https://mb.jsorge.net/2018/07/08/well-im-stunned.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/08/we-went-to.html",
+	      	
+			"content_text": "We went to Imagine Children’s Museum with my mom and...",
+			"date_published": "2018-07-07T19:23:26-07:00",
+			"url": "https://mb.jsorge.net/2018/07/07/we-went-to.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/07/emily-is-out.html",
+	      	
+			"content_text": "Emily is out of town this weekend so it’s just...",
+			"date_published": "2018-07-07T10:13:09-07:00",
+			"url": "https://mb.jsorge.net/2018/07/07/emily-is-out.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/07/well-this-is.html",
+	      	
+			"content_text": "Well this is quite the forecast commentary from my weather...",
+			"date_published": "2018-07-07T07:25:23-07:00",
+			"url": "https://mb.jsorge.net/2018/07/07/well-this-is.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/06/212418.html",
+	      	
+			"content_text": "I just found out that there’s a beta of Fluid...",
+			"date_published": "2018-07-06T14:24:18-07:00",
+			"url": "https://mb.jsorge.net/2018/07/06/212418.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/06/hello-from-macos.html",
+	      	
+			"content_text": "Hello from macOS Mojave!\n",
+			"date_published": "2018-07-06T12:49:30-07:00",
+			"url": "https://mb.jsorge.net/2018/07/06/hello-from-macos.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/05/i-played-around.html",
+	      	
+			"content_text": "I played around with a long shutter on my camera...",
+			"date_published": "2018-07-04T23:11:59-07:00",
+			"url": "https://mb.jsorge.net/2018/07/04/i-played-around.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/07/03/its-impressive-that.html",
+	      	
+			"content_text": "It’s impressive that this school can disable fire on its...",
+			"date_published": "2018-07-02T20:19:53-07:00",
+			"url": "https://mb.jsorge.net/2018/07/02/its-impressive-that.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/30/im-taking-the.html",
+	      	
+			"content_text": "I’m taking the citizen survey for my city and realizing...",
+			"date_published": "2018-06-30T16:23:38-07:00",
+			"url": "https://mb.jsorge.net/2018/06/30/im-taking-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/22/the-thing-i.html",
+	      	
+			"content_text": "The thing I love about doing the taphouse.io project is...",
+			"date_published": "2018-06-21T21:38:15-07:00",
+			"url": "https://mb.jsorge.net/2018/06/21/the-thing-i.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/22/and-just-like.html",
+	      	
+			"content_text": "And just like that taphouse.io is backed by letsprotect in...",
+			"date_published": "2018-06-21T21:37:11-07:00",
+			"url": "https://mb.jsorge.net/2018/06/21/and-just-like.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/21/im-incredibly-excited.html",
+	      	
+			"content_text": "I’m incredibly excited to get my hands on the Dwell...",
+			"date_published": "2018-06-21T10:50:08-07:00",
+			"url": "https://mb.jsorge.net/2018/06/21/im-incredibly-excited.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/21/seahawks-training-camp.html",
+	      	
+			"content_text": "Seahawks training camp tickets acquired! That was surprisingly easy. Looking...",
+			"date_published": "2018-06-21T10:35:22-07:00",
+			"url": "https://mb.jsorge.net/2018/06/21/seahawks-training-camp.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/19/160714.html",
+	      	
+			"content_text": "New post from jsorge.net: Proxying Vapor 3 Using nginx and...",
+			"date_published": "2018-06-19T09:07:14-07:00",
+			"url": "https://mb.jsorge.net/2018/06/19/160714.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/19/im-trying-once.html",
+	      	
+			"content_text": "I’m trying once again to get TLS working on nginx...",
+			"date_published": "2018-06-18T21:09:54-07:00",
+			"url": "https://mb.jsorge.net/2018/06/18/im-trying-once.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/18/the-last-piece.html",
+	      	
+			"content_text": "The last piece of this nginx container is to get...",
+			"date_published": "2018-06-17T21:59:29-07:00",
+			"url": "https://mb.jsorge.net/2018/06/17/the-last-piece.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/17/achievement-unlocked-httptaphouseio.html",
+	      	
+			"content_text": "Achievement unlocked: taphouse.io is now being fully served by Docker....",
+			"date_published": "2018-06-17T16:27:31-07:00",
+			"url": "https://mb.jsorge.net/2018/06/17/achievement-unlocked-httptaphouseio.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/17/164104.html",
+	      	
+			"content_text": "New post from jsorge.net: Building a Blog Engine\n",
+			"date_published": "2018-06-17T09:41:04-07:00",
+			"url": "https://mb.jsorge.net/2018/06/17/164104.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/11/152041.html",
+	      	
+			"content_text": "Is there any way to direct the deployment target of...",
+			"date_published": "2018-06-11T08:20:41-07:00",
+			"url": "https://mb.jsorge.net/2018/06/11/152041.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/11/touched-down-in.html",
+	      	
+			"content_text": "Touched down in San Francisco. I’m here just for a...",
+			"date_published": "2018-06-10T21:47:44-07:00",
+			"url": "https://mb.jsorge.net/2018/06/10/touched-down-in.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/08/hold-on-to.html",
+	      	
+			"content_text": "Hold on to your butts.\n\n\n",
+			"date_published": "2018-06-08T15:13:50-07:00",
+			"url": "https://mb.jsorge.net/2018/06/08/hold-on-to.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/08/190755.html",
+	      	
+			"content_text": "I just got an incredibly convincing spam email from the...",
+			"date_published": "2018-06-08T12:07:55-07:00",
+			"url": "https://mb.jsorge.net/2018/06/08/190755.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/07/214629.html",
+	      	
+			"content_text": "As one who doesn’t really know much about algorithms, the...",
+			"date_published": "2018-06-07T14:46:29-07:00",
+			"url": "https://mb.jsorge.net/2018/06/07/214629.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/07/holy-crap-ive.html",
+	      	
+			"content_text": "Holy crap. I’ve got got micropub publishing working on Maverick....",
+			"date_published": "2018-06-06T22:18:11-07:00",
+			"url": "https://mb.jsorge.net/2018/06/06/holy-crap-ive.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/06/did-xcode-totally.html",
+	      	
+			"content_text": "Did Xcode 9.4 totally change how debugging app extensions works?...",
+			"date_published": "2018-06-06T07:49:08-07:00",
+			"url": "https://mb.jsorge.net/2018/06/06/did-xcode-totally.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/05/how-cool-would.html",
+	      	
+			"content_text": "How cool would it be if Marzipan comes as part...",
+			"date_published": "2018-06-05T15:22:21-07:00",
+			"url": "https://mb.jsorge.net/2018/06/05/how-cool-would.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/05/thanks-xcode-i.html",
+	      	
+			"content_text": "Thanks Xcode. I didn’t actually want to run this app...",
+			"date_published": "2018-06-05T11:43:03-07:00",
+			"url": "https://mb.jsorge.net/2018/06/05/thanks-xcode-i.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/05/im-so-tempted.html",
+	      	
+			"content_text": "I’m so tempted to install iOS 12 Beta 1. I...",
+			"date_published": "2018-06-05T10:46:23-07:00",
+			"url": "https://mb.jsorge.net/2018/06/05/im-so-tempted.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/05/i-got-rss.html",
+	      	
+			"content_text": "I got RSS feeds being created in Maverick! I still...",
+			"date_published": "2018-06-04T23:06:52-07:00",
+			"url": "https://mb.jsorge.net/2018/06/04/i-got-rss.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/04/i-think-the.html",
+	      	
+			"content_text": "I think the WWDC State of the Union this afternoon...",
+			"date_published": "2018-06-04T12:13:35-07:00",
+			"url": "https://mb.jsorge.net/2018/06/04/i-think-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/04/that-wwdc-bike.html",
+	      	
+			"content_text": "That WWDC bike demo was the most impressive keynote demo...",
+			"date_published": "2018-06-04T11:23:56-07:00",
+			"url": "https://mb.jsorge.net/2018/06/04/that-wwdc-bike.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/04/oh-and-if.html",
+	      	
+			"content_text": "Oh, and if it weren’t enough that this week is...",
+			"date_published": "2018-06-04T07:45:39-07:00",
+			"url": "https://mb.jsorge.net/2018/06/04/oh-and-if.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/04/congratulations-to-my.html",
+	      	
+			"content_text": "Congratulations to my Apple employee friends for your hard work...",
+			"date_published": "2018-06-04T07:40:21-07:00",
+			"url": "https://mb.jsorge.net/2018/06/04/congratulations-to-my.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/04/im-completely-excited.html",
+	      	
+			"content_text": "I’m completely excited by the lack of leaks and little...",
+			"date_published": "2018-06-04T07:36:07-07:00",
+			"url": "https://mb.jsorge.net/2018/06/04/im-completely-excited.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/03/210605.html",
+	      	
+			"content_text": "I don’t know what to think about Microsoft buying GitHub....",
+			"date_published": "2018-06-03T14:06:05-07:00",
+			"url": "https://mb.jsorge.net/2018/06/03/210605.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/02/ive-never-seen.html",
+	      	
+			"content_text": "I’ve never seen two extension ladders leaned up against each...",
+			"date_published": "2018-06-02T14:29:44-07:00",
+			"url": "https://mb.jsorge.net/2018/06/02/ive-never-seen.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/02/the-next-step.html",
+	      	
+			"content_text": "The next step I want to take is generating the...",
+			"date_published": "2018-06-02T09:00:46-07:00",
+			"url": "https://mb.jsorge.net/2018/06/02/the-next-step.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/06/02/ive-started-working.html",
+	      	
+			"content_text": "I’ve started working on my own blog engine. It’s powered...",
+			"date_published": "2018-06-02T08:59:33-07:00",
+			"url": "https://mb.jsorge.net/2018/06/02/ive-started-working.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/31/netflix-should-release.html",
+	      	
+			"content_text": "Netflix should release “VHS Mode”, where watching the same content...",
+			"date_published": "2018-05-31T08:02:08-07:00",
+			"url": "https://mb.jsorge.net/2018/05/31/netflix-should-release.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/31/a-temperature-is.html",
+	      	
+			"content_text": "A 104.5 temperature is high, right?\n",
+			"date_published": "2018-05-30T20:10:01-07:00",
+			"url": "https://mb.jsorge.net/2018/05/30/a-temperature-is.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/30/this-is-completely.html",
+	      	
+			"content_text": "This is completely wild. I have an iPhone that’s tethered...",
+			"date_published": "2018-05-30T10:53:37-07:00",
+			"url": "https://mb.jsorge.net/2018/05/30/this-is-completely.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/29/i-should-have.html",
+	      	
+			"content_text": "I should have done just a little more digging before...",
+			"date_published": "2018-05-28T21:25:22-07:00",
+			"url": "https://mb.jsorge.net/2018/05/28/i-should-have.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/29/i-want-to.html",
+	      	
+			"content_text": "I want to take some Markdown text and convert it...",
+			"date_published": "2018-05-28T21:14:38-07:00",
+			"url": "https://mb.jsorge.net/2018/05/28/i-want-to.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/29/i-dont-know.html",
+	      	
+			"content_text": "I don’t know much about hockey. But I’m watching the...",
+			"date_published": "2018-05-28T19:53:33-07:00",
+			"url": "https://mb.jsorge.net/2018/05/28/i-dont-know.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/28/dang-i-thought.html",
+	      	
+			"content_text": "Dang, I thought I had my Swift Playground woes fixed...",
+			"date_published": "2018-05-28T14:05:53-07:00",
+			"url": "https://mb.jsorge.net/2018/05/28/dang-i-thought.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/24/note-to-self.html",
+	      	
+			"content_text": "Note to self: instead of tweeting about a crazy linter...",
+			"date_published": "2018-05-23T18:56:18-07:00",
+			"url": "https://mb.jsorge.net/2018/05/23/note-to-self.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/23/i-got-recommended.html",
+	      	
+			"content_text": "I got recommended to try Caddy instead of nginx. I...",
+			"date_published": "2018-05-22T21:42:27-07:00",
+			"url": "https://mb.jsorge.net/2018/05/22/i-got-recommended.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/22/password-v-for.html",
+	      	
+			"content_text": "1Password v7 for the Mac is out today! You should...",
+			"date_published": "2018-05-22T09:59:23-07:00",
+			"url": "https://mb.jsorge.net/2018/05/22/password-v-for.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/22/madness-is-not.html",
+	      	
+			"content_text": "Madness is not being able to find out how nginx...",
+			"date_published": "2018-05-21T23:16:41-07:00",
+			"url": "https://mb.jsorge.net/2018/05/21/madness-is-not.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/22/im-going-to.html",
+	      	
+			"content_text": "I’m going to call this a successful end to the...",
+			"date_published": "2018-05-21T22:55:49-07:00",
+			"url": "https://mb.jsorge.net/2018/05/21/im-going-to.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/22/052735.html",
+	      	
+			"content_text": "New post from jsorge.net: Rebuilding taphouse.io\n",
+			"date_published": "2018-05-21T22:27:35-07:00",
+			"url": "https://mb.jsorge.net/2018/05/21/052735.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/20/i-may-have.html",
+	      	
+			"content_text": "I may have hit the point of searching out too...",
+			"date_published": "2018-05-19T23:05:38-07:00",
+			"url": "https://mb.jsorge.net/2018/05/19/i-may-have.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/19/phase-of-my.html",
+	      	
+			"content_text": "Phase 1 of my taphouse.io rewrite accomplished: Vapor is complete!...",
+			"date_published": "2018-05-19T11:28:43-07:00",
+			"url": "https://mb.jsorge.net/2018/05/19/phase-of-my.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/19/i-stumbled-upon.html",
+	      	
+			"content_text": "I stumbled upon this amazing resource to help you learn...",
+			"date_published": "2018-05-19T09:18:22-07:00",
+			"url": "https://mb.jsorge.net/2018/05/19/i-stumbled-upon.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/19/ive-had-to.html",
+	      	
+			"content_text": "I’ve had to look at the WWDC video for UIPresentationController...",
+			"date_published": "2018-05-18T23:33:14-07:00",
+			"url": "https://mb.jsorge.net/2018/05/18/ive-had-to.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/17/the-money-ive.html",
+	      	
+			"content_text": "The money I’ve spent on Fastmail as my email provider...",
+			"date_published": "2018-05-17T07:48:22-07:00",
+			"url": "https://mb.jsorge.net/2018/05/17/the-money-ive.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/17/thanks-to-twostrawss.html",
+	      	
+			"content_text": "Thanks to @twostraws’s Vapor book I found that I needed...",
+			"date_published": "2018-05-16T20:09:13-07:00",
+			"url": "https://mb.jsorge.net/2018/05/16/thanks-to-twostrawss.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/17/back-at-my.html",
+	      	
+			"content_text": "Back at my Vapor 3 conversion for taphouse.io. I got...",
+			"date_published": "2018-05-16T19:45:32-07:00",
+			"url": "https://mb.jsorge.net/2018/05/16/back-at-my.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/16/the-days-when.html",
+	      	
+			"content_text": "The days when I find something to write (even a...",
+			"date_published": "2018-05-16T07:40:56-07:00",
+			"url": "https://mb.jsorge.net/2018/05/16/the-days-when.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/16/i-love-ichiro.html",
+	      	
+			"content_text": "I love Ichiro. He’s probably the only front office guy...",
+			"date_published": "2018-05-15T23:38:34-07:00",
+			"url": "https://mb.jsorge.net/2018/05/15/i-love-ichiro.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/16/im-calling-it.html",
+	      	
+			"content_text": "I’m calling it a night. Feeling somewhat defeated by these...",
+			"date_published": "2018-05-15T23:34:59-07:00",
+			"url": "https://mb.jsorge.net/2018/05/15/im-calling-it.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/16/i-had-the.html",
+	      	
+			"content_text": "I had the site running on Vapor 2 last year....",
+			"date_published": "2018-05-15T23:01:30-07:00",
+			"url": "https://mb.jsorge.net/2018/05/15/i-had-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/16/vapor-rum-it.html",
+	      	
+			"content_text": "vapor rum. It could be a long evening. At least...",
+			"date_published": "2018-05-15T21:48:08-07:00",
+			"url": "https://mb.jsorge.net/2018/05/15/vapor-rum-it.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/16/after-minutes-of.html",
+	      	
+			"content_text": "After 30 minutes of screaming, the boys are in bed,...",
+			"date_published": "2018-05-15T20:43:16-07:00",
+			"url": "https://mb.jsorge.net/2018/05/15/after-minutes-of.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/16/tonights-project-after.html",
+	      	
+			"content_text": "Tonight’s project after the boys go to bed: Get my...",
+			"date_published": "2018-05-15T18:55:33-07:00",
+			"url": "https://mb.jsorge.net/2018/05/15/tonights-project-after.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/12/yup-my-boys.html",
+	      	
+			"content_text": "Yup. My boys clogged a Froggy Potty.\n\n\n",
+			"date_published": "2018-05-11T17:30:15-07:00",
+			"url": "https://mb.jsorge.net/2018/05/11/yup-my-boys.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/09/its-getting-increasingly.html",
+	      	
+			"content_text": "It’s getting increasingly common for us to go wake Atticus...",
+			"date_published": "2018-05-09T16:04:42-07:00",
+			"url": "https://mb.jsorge.net/2018/05/09/its-getting-increasingly.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/09/thor-ragnarok-is.html",
+	      	
+			"content_text": "Thor Ragnarok is an incredibly rewatchable movie. Just so much...",
+			"date_published": "2018-05-08T22:01:07-07:00",
+			"url": "https://mb.jsorge.net/2018/05/08/thor-ragnarok-is.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/09/just-saw-that.html",
+	      	
+			"content_text": "Just saw that James Paxton threw a no hitter in...",
+			"date_published": "2018-05-08T19:05:27-07:00",
+			"url": "https://mb.jsorge.net/2018/05/08/just-saw-that.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/08/on-the-phone.html",
+	      	
+			"content_text": "On the phone with a senior Apple technical support guy...",
+			"date_published": "2018-05-08T15:31:27-07:00",
+			"url": "https://mb.jsorge.net/2018/05/08/on-the-phone.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/07/im-super-sad.html",
+	      	
+			"content_text": "I’m super sad to learn that Rain Shadow Meats is...",
+			"date_published": "2018-05-07T09:59:13-07:00",
+			"url": "https://mb.jsorge.net/2018/05/07/im-super-sad.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/07/im-wanting-to.html",
+	      	
+			"content_text": "I’m wanting to get into scripting a bit more, and...",
+			"date_published": "2018-05-07T09:03:31-07:00",
+			"url": "https://mb.jsorge.net/2018/05/07/im-wanting-to.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/07/044640.html",
+	      	
+			"content_text": "New post from jsorge.net: My First Swift Package\n",
+			"date_published": "2018-05-06T21:46:40-07:00",
+			"url": "https://mb.jsorge.net/2018/05/06/044640.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/06/mariners-walk-off.html",
+	      	
+			"content_text": "Mariners walk off! What a game!\n",
+			"date_published": "2018-05-05T22:41:37-07:00",
+			"url": "https://mb.jsorge.net/2018/05/05/mariners-walk-off.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/05/im-writing-a.html",
+	      	
+			"content_text": "I’m writing a little thing that will take my markdown...",
+			"date_published": "2018-05-05T16:46:36-07:00",
+			"url": "https://mb.jsorge.net/2018/05/05/im-writing-a.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/04/i-just-realized.html",
+	      	
+			"content_text": "I just realized I’ve been a 1Password customer for 10...",
+			"date_published": "2018-05-04T07:37:59-07:00",
+			"url": "https://mb.jsorge.net/2018/05/04/i-just-realized.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/03/sad-day-my.html",
+	      	
+			"content_text": "Sad day: My Fluid app for GitHub is considered an...",
+			"date_published": "2018-05-03T10:17:18-07:00",
+			"url": "https://mb.jsorge.net/2018/05/03/sad-day-my.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/03/ok-i-got.html",
+	      	
+			"content_text": "Ok, I got the site working locally. Victory! Next would...",
+			"date_published": "2018-05-02T22:10:31-07:00",
+			"url": "https://mb.jsorge.net/2018/05/02/ok-i-got.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/03/im-trying-to.html",
+	      	
+			"content_text": "I’m trying to get a Jekyll instance running locally and...",
+			"date_published": "2018-05-02T21:59:37-07:00",
+			"url": "https://mb.jsorge.net/2018/05/02/im-trying-to.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/03/star-wars-in.html",
+	      	
+			"content_text": "Star Wars in the style of Arrested Development is the...",
+			"date_published": "2018-05-02T18:09:14-07:00",
+			"url": "https://mb.jsorge.net/2018/05/02/star-wars-in.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/02/reminder-to-my.html",
+	      	
+			"content_text": "Reminder to my future self: setting the delegate property on...",
+			"date_published": "2018-05-02T08:27:10-07:00",
+			"url": "https://mb.jsorge.net/2018/05/02/reminder-to-my.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/02/045845.html",
+	      	
+			"content_text": "New post from jsorge.net: View Controllers Make Crummy Navigators\n",
+			"date_published": "2018-05-01T21:58:45-07:00",
+			"url": "https://mb.jsorge.net/2018/05/01/045845.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/05/02/the-only-reason.html",
+	      	
+			"content_text": "The only reason it’s not insane for parents to pick...",
+			"date_published": "2018-05-01T20:39:20-07:00",
+			"url": "https://mb.jsorge.net/2018/05/01/the-only-reason.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/30/im-having-this.html",
+	      	
+			"content_text": "I’m having this really weird and aggravating problem where some...",
+			"date_published": "2018-04-30T07:42:30-07:00",
+			"url": "https://mb.jsorge.net/2018/04/30/im-having-this.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/28/ive-totally-bought.html",
+	      	
+			"content_text": "I’ve totally bought in on the Shaquem Griffin hype train....",
+			"date_published": "2018-04-28T11:08:06-07:00",
+			"url": "https://mb.jsorge.net/2018/04/28/ive-totally-bought.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/28/175140.html",
+	      	
+			"content_text": "New post from jsorge.net: Childlike Faith\n",
+			"date_published": "2018-04-28T10:51:40-07:00",
+			"url": "https://mb.jsorge.net/2018/04/28/175140.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/26/when-someone-leaves.html",
+	      	
+			"content_text": "When someone leaves a card for their service on your...",
+			"date_published": "2018-04-26T14:59:40-07:00",
+			"url": "https://mb.jsorge.net/2018/04/26/when-someone-leaves.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/26/sad-day-apple.html",
+	      	
+			"content_text": "Sad day. Apple is officially discontinuing the AirPort line. I...",
+			"date_published": "2018-04-26T14:30:31-07:00",
+			"url": "https://mb.jsorge.net/2018/04/26/sad-day-apple.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/26/achievement-unlocked-an.html",
+	      	
+			"content_text": "Achievement unlocked: An Xcode Clean failure. Never seen that before!...",
+			"date_published": "2018-04-26T12:03:53-07:00",
+			"url": "https://mb.jsorge.net/2018/04/26/achievement-unlocked-an.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/25/230515.html",
+	      	
+			"content_text": "It takes a special kind of not caring to crack...",
+			"date_published": "2018-04-25T16:05:15-07:00",
+			"url": "https://mb.jsorge.net/2018/04/25/230515.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/24/231738.html",
+	      	
+			"content_text": "Not a bad view from the train. It’s finally getting...",
+			"date_published": "2018-04-24T16:17:38-07:00",
+			"url": "https://mb.jsorge.net/2018/04/24/231738.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/24/i-get-to.html",
+	      	
+			"content_text": "I get to ride the train home today! Emily and...",
+			"date_published": "2018-04-24T15:51:53-07:00",
+			"url": "https://mb.jsorge.net/2018/04/24/i-get-to.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/24/dave-delong-has.html",
+	      	
+			"content_text": "Dave DeLong has added a fifth chapter to his Better...",
+			"date_published": "2018-04-24T12:32:26-07:00",
+			"url": "https://mb.jsorge.net/2018/04/24/dave-delong-has.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/21/when-i-cant.html",
+	      	
+			"content_text": "When I can’t blog about something, I’m really glad to...",
+			"date_published": "2018-04-20T17:16:41-07:00",
+			"url": "https://mb.jsorge.net/2018/04/20/when-i-cant.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/20/swift-s-multiline.html",
+	      	
+			"content_text": "Swift 4’s multi-line string literals are amazing!\n",
+			"date_published": "2018-04-20T16:10:35-07:00",
+			"url": "https://mb.jsorge.net/2018/04/20/swift-s-multiline.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/17/i-love-little.html",
+	      	
+			"content_text": "I love little touches in software that make me smile....",
+			"date_published": "2018-04-17T14:59:41-07:00",
+			"url": "https://mb.jsorge.net/2018/04/17/i-love-little.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/15/173327.html",
+	      	
+			"content_text": "New post from jsorge.net: Reconsidering My Blogging Setup\n",
+			"date_published": "2018-04-15T10:33:27-07:00",
+			"url": "https://mb.jsorge.net/2018/04/15/173327.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/14/a-conversation-ive.html",
+	      	
+			"content_text": "A conversation I’ve been having at work a lot recently...",
+			"date_published": "2018-04-14T09:32:53-07:00",
+			"url": "https://mb.jsorge.net/2018/04/14/a-conversation-ive.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/10/i-so-often.html",
+	      	
+			"content_text": "I so often find myself trying to write a blog...",
+			"date_published": "2018-04-09T23:09:39-07:00",
+			"url": "https://mb.jsorge.net/2018/04/09/i-so-often.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/09/i-got-one.html",
+	      	
+			"content_text": "I got one of the SodaStream lemon flavorings and it’s...",
+			"date_published": "2018-04-09T08:40:41-07:00",
+			"url": "https://mb.jsorge.net/2018/04/09/i-got-one.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/09/back-at-work.html",
+	      	
+			"content_text": "Back at work, catching up on emails, commits, Slack messages,...",
+			"date_published": "2018-04-09T07:19:58-07:00",
+			"url": "https://mb.jsorge.net/2018/04/09/back-at-work.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/09/051705.html",
+	      	
+			"content_text": "New post from jsorge.net: Hawaii Trip\n",
+			"date_published": "2018-04-08T22:17:05-07:00",
+			"url": "https://mb.jsorge.net/2018/04/08/051705.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/08/set-up-my.html",
+	      	
+			"content_text": "Set up my SodaStream that came in while I was...",
+			"date_published": "2018-04-08T16:14:34-07:00",
+			"url": "https://mb.jsorge.net/2018/04/08/set-up-my.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/08/interesting-weather-fact.html",
+	      	
+			"content_text": "Interesting weather fact: it’s much colder in western Washington right...",
+			"date_published": "2018-04-07T23:41:13-07:00",
+			"url": "https://mb.jsorge.net/2018/04/07/interesting-weather-fact.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/08/i-thought-it.html",
+	      	
+			"content_text": "I thought it was a good idea to get Dick’s...",
+			"date_published": "2018-04-07T23:35:36-07:00",
+			"url": "https://mb.jsorge.net/2018/04/07/i-thought-it.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/08/back-in-seattle.html",
+	      	
+			"content_text": "Back in Seattle.\n",
+			"date_published": "2018-04-07T21:20:00-07:00",
+			"url": "https://mb.jsorge.net/2018/04/07/back-in-seattle.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/07/we-head-back.html",
+	      	
+			"content_text": "We head back home today after spending the week in...",
+			"date_published": "2018-04-07T09:29:50-07:00",
+			"url": "https://mb.jsorge.net/2018/04/07/we-head-back.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/03/i-can-confirm.html",
+	      	
+			"content_text": "I can confirm that sunrises are really nice in Hawaii....",
+			"date_published": "2018-04-03T10:03:16-07:00",
+			"url": "https://mb.jsorge.net/2018/04/03/i-can-confirm.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/04/01/the-tomb-is.html",
+	      	
+			"content_text": "The tomb is empty, because Christ is risen. Happy Easter!...",
+			"date_published": "2018-04-01T09:25:38-07:00",
+			"url": "https://mb.jsorge.net/2018/04/01/the-tomb-is.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/30/it-wouldnt-be.html",
+	      	
+			"content_text": "It wouldn’t be a Mariners win without an interesting 9th...",
+			"date_published": "2018-03-29T21:46:24-07:00",
+			"url": "https://mb.jsorge.net/2018/03/29/it-wouldnt-be.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/28/i-just-downloaded.html",
+	      	
+			"content_text": "I just downloaded Charles Proxy for iOS and it’s seriously...",
+			"date_published": "2018-03-27T18:40:33-07:00",
+			"url": "https://mb.jsorge.net/2018/03/27/i-just-downloaded.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/27/its-super-weird.html",
+	      	
+			"content_text": "It’s super weird following liveblogs and tweets from Apple’s event...",
+			"date_published": "2018-03-27T08:00:22-07:00",
+			"url": "https://mb.jsorge.net/2018/03/27/its-super-weird.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/27/i-woke-up.html",
+	      	
+			"content_text": "I woke up this morning to my Tower 3 Public...",
+			"date_published": "2018-03-27T07:11:24-07:00",
+			"url": "https://mb.jsorge.net/2018/03/27/i-woke-up.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/26/this-is-going.html",
+	      	
+			"content_text": "This is going to be a good week if for...",
+			"date_published": "2018-03-26T11:07:55-07:00",
+			"url": "https://mb.jsorge.net/2018/03/26/this-is-going.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/23/just-a-beautiful.html",
+	      	
+			"content_text": "\n\nJust a beautiful spring day.\n\n",
+			"date_published": "2018-03-23T10:26:33-07:00",
+			"url": "https://mb.jsorge.net/2018/03/23/just-a-beautiful.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/20/it-took-years.html",
+	      	
+			"content_text": "It took 35 years, but today I had my first...",
+			"date_published": "2018-03-20T12:41:36-07:00",
+			"url": "https://mb.jsorge.net/2018/03/20/it-took-years.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/20/ive-been-trying.html",
+	      	
+			"content_text": "I’ve been trying to put together thoughts on Facebook. It...",
+			"date_published": "2018-03-19T21:59:45-07:00",
+			"url": "https://mb.jsorge.net/2018/03/19/ive-been-trying.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/19/it-takes-a.html",
+	      	
+			"content_text": "It takes a special kind of awful to make a...",
+			"date_published": "2018-03-18T20:39:15-07:00",
+			"url": "https://mb.jsorge.net/2018/03/18/it-takes-a.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/18/i-found-a.html",
+	      	
+			"content_text": "I found a really tasty recipe for bangers and mash...",
+			"date_published": "2018-03-17T22:08:08-07:00",
+			"url": "https://mb.jsorge.net/2018/03/17/i-found-a.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/15/160919.html",
+	      	
+			"content_text": "I really like how my desk setup is coming along...",
+			"date_published": "2018-03-15T09:09:19-07:00",
+			"url": "https://mb.jsorge.net/2018/03/15/160919.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/13/043433.html",
+	      	
+			"content_text": "Are there any free or inexpensive image search APIs out...",
+			"date_published": "2018-03-12T21:34:33-07:00",
+			"url": "https://mb.jsorge.net/2018/03/12/043433.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/12/maybe-its-me.html",
+	      	
+			"content_text": "Maybe it’s me, but over the past few years I’ve...",
+			"date_published": "2018-03-12T16:58:01-07:00",
+			"url": "https://mb.jsorge.net/2018/03/12/maybe-its-me.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/11/today-i-broke.html",
+	      	
+			"content_text": "Today I broke out he lawn mower for the first...",
+			"date_published": "2018-03-11T15:51:16-07:00",
+			"url": "https://mb.jsorge.net/2018/03/11/today-i-broke.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/06/yes-the-bookarc.html",
+	      	
+			"content_text": "YES!!! The BookArc möd got updated to work with the...",
+			"date_published": "2018-03-06T07:45:52-08:00",
+			"url": "https://mb.jsorge.net/2018/03/06/yes-the-bookarc.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/06/martini-followup-tasty.html",
+	      	
+			"content_text": "Martini follow-up: tasty but strong. We are really feeling them!...",
+			"date_published": "2018-03-05T21:45:01-08:00",
+			"url": "https://mb.jsorge.net/2018/03/05/martini-followup-tasty.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/06/tonights-mixology-experiment.html",
+	      	
+			"content_text": "Tonight’s mixology experiment: sweet martinis. My first attempt at a...",
+			"date_published": "2018-03-05T20:38:06-08:00",
+			"url": "https://mb.jsorge.net/2018/03/05/tonights-mixology-experiment.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/05/over-the-weekend.html",
+	      	
+			"content_text": "Over the weekend I took what may be my favorite...",
+			"date_published": "2018-03-05T10:00:06-08:00",
+			"url": "https://mb.jsorge.net/2018/03/05/over-the-weekend.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/05/i-really-liked.html",
+	      	
+			"content_text": "I really liked the discussion on this week’s Fatal Error...",
+			"date_published": "2018-03-05T09:02:29-08:00",
+			"url": "https://mb.jsorge.net/2018/03/05/i-really-liked.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/05/new-post-from.html",
+	      	
+			"content_text": "New post from jsorge.net: Xcoders Talk: Practical Coordinators\n",
+			"date_published": "2018-03-05T08:25:03-08:00",
+			"url": "https://mb.jsorge.net/2018/03/05/new-post-from.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/05/the-open-web.html",
+	      	
+			"content_text": "The open web is really cool. I just set up...",
+			"date_published": "2018-03-04T22:33:20-08:00",
+			"url": "https://mb.jsorge.net/2018/03/04/the-open-web.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/01/ive-been-feeling.html",
+	      	
+			"content_text": "I’ve been feeling a ton of pain debugging Notification Service...",
+			"date_published": "2018-03-01T08:45:32-08:00",
+			"url": "https://mb.jsorge.net/2018/03/01/ive-been-feeling.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/03/01/its-a-weird.html",
+	      	
+			"content_text": "It’s a weird feeling when you learn about someone’s death...",
+			"date_published": "2018-03-01T05:51:42-08:00",
+			"url": "https://mb.jsorge.net/2018/03/01/its-a-weird.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/23/i-learned-about.html",
+	      	
+			"content_text": "I learned about a really cool new app today, and...",
+			"date_published": "2018-02-22T16:04:05-08:00",
+			"url": "https://mb.jsorge.net/2018/02/22/i-learned-about.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/22/i-turned-off.html",
+	      	
+			"content_text": "I turned off Dock badging on Slack and I’m feeling...",
+			"date_published": "2018-02-22T14:11:47-08:00",
+			"url": "https://mb.jsorge.net/2018/02/22/i-turned-off.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/22/ugh-i-hate.html",
+	      	
+			"content_text": "Ugh. I hate that Google Meet requires Chrome and doesn’t...",
+			"date_published": "2018-02-22T09:49:34-08:00",
+			"url": "https://mb.jsorge.net/2018/02/22/ugh-i-hate.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/18/hamilton.html",
+	      	
+			"title": "Hamilton!",
+			
+			"content_text": "\n\n",
+			"date_published": "2018-02-17T19:52:13-08:00",
+			"url": "https://mb.jsorge.net/2018/02/17/hamilton.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/18/we-are-at.html",
+	      	
+			"content_text": "We are at the Paramount seeing Hamilton. But I almost...",
+			"date_published": "2018-02-17T19:48:46-08:00",
+			"url": "https://mb.jsorge.net/2018/02/17/we-are-at.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/18/if-theres-a.html",
+	      	
+			"content_text": "If there’s a sazerac recipe you enjoy, I’d love to...",
+			"date_published": "2018-02-17T16:24:09-08:00",
+			"url": "https://mb.jsorge.net/2018/02/17/if-theres-a.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/16/my-kingdom-for.html",
+	      	
+			"content_text": "My kingdom for a way to import Markdown into a...",
+			"date_published": "2018-02-16T10:01:21-08:00",
+			"url": "https://mb.jsorge.net/2018/02/16/my-kingdom-for.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/13/i-won-the.html",
+	      	
+			"content_text": "I won the Pearl Jam drawing for the Seattle shows...",
+			"date_published": "2018-02-12T20:43:13-08:00",
+			"url": "https://mb.jsorge.net/2018/02/12/i-won-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/08/got-registered-for.html",
+	      	
+			"content_text": "Got registered for the Pearl Jam home show ticket lottery....",
+			"date_published": "2018-02-07T22:13:39-08:00",
+			"url": "https://mb.jsorge.net/2018/02/07/got-registered-for.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/08/interesting-behavior-in.html",
+	      	
+			"content_text": "Interesting behavior in @manton’s new Sunlit. I wasn’t expecting a...",
+			"date_published": "2018-02-07T22:04:31-08:00",
+			"url": "https://mb.jsorge.net/2018/02/07/interesting-behavior-in.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/06/i-really-love.html",
+	      	
+			"content_text": "I really love it when stuff I’m trying to figure...",
+			"date_published": "2018-02-06T11:57:40-08:00",
+			"url": "https://mb.jsorge.net/2018/02/06/i-really-love.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/06/i-decided-last.html",
+	      	
+			"content_text": "I decided last week to figure out how to get...",
+			"date_published": "2018-02-06T08:51:39-08:00",
+			"url": "https://mb.jsorge.net/2018/02/06/i-decided-last.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/06/i-started-the.html",
+	      	
+			"content_text": "I started the very bare bones of a Slack native...",
+			"date_published": "2018-02-05T21:06:26-08:00",
+			"url": "https://mb.jsorge.net/2018/02/05/i-started-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/05/thats-as-good.html",
+	      	
+			"content_text": "That’s as good as a Super Bowl can get as...",
+			"date_published": "2018-02-04T19:58:37-08:00",
+			"url": "https://mb.jsorge.net/2018/02/04/thats-as-good.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/05/i-missed-the.html",
+	      	
+			"content_text": "I missed the Solo trailer premiere, which was shown while...",
+			"date_published": "2018-02-04T16:00:38-08:00",
+			"url": "https://mb.jsorge.net/2018/02/04/i-missed-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/04/today-we-are.html",
+	      	
+			"content_text": "Today we are all Eagles fans.\n",
+			"date_published": "2018-02-04T15:15:16-08:00",
+			"url": "https://mb.jsorge.net/2018/02/04/today-we-are.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/04/tweetstorms-should-not.html",
+	      	
+			"content_text": "Tweetstorms should not be used in place of blog posts....",
+			"date_published": "2018-02-04T09:56:45-08:00",
+			"url": "https://mb.jsorge.net/2018/02/04/tweetstorms-should-not.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/03/throwing-this-out.html",
+	      	
+			"content_text": "Throwing this out there hypothetically of course, but if I...",
+			"date_published": "2018-02-02T21:25:14-08:00",
+			"url": "https://mb.jsorge.net/2018/02/02/throwing-this-out.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/02/im-starting-a.html",
+	      	
+			"content_text": "I’m starting a Rubber Ducking group of text files to...",
+			"date_published": "2018-02-02T09:03:40-08:00",
+			"url": "https://mb.jsorge.net/2018/02/02/im-starting-a.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/02/sending-a-fax.html",
+	      	
+			"content_text": "Sending a fax like it’s 1998, only on the internet...",
+			"date_published": "2018-02-01T21:55:04-08:00",
+			"url": "https://mb.jsorge.net/2018/02/01/sending-a-fax.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/02/01/i-learned-today.html",
+	      	
+			"content_text": "I learned today that iCloud syncs iPhone call histories. I’ve...",
+			"date_published": "2018-01-31T21:56:15-08:00",
+			"url": "https://mb.jsorge.net/2018/01/31/i-learned-today.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/31/ugh-dealing-with.html",
+	      	
+			"content_text": "Ugh. Dealing with identity theft that you thought you’d taken...",
+			"date_published": "2018-01-31T14:11:53-08:00",
+			"url": "https://mb.jsorge.net/2018/01/31/ugh-dealing-with.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/31/ive-really-been.html",
+	      	
+			"content_text": "I’ve really been enjoying The Omni Show, and am looking...",
+			"date_published": "2018-01-31T09:37:18-08:00",
+			"url": "https://mb.jsorge.net/2018/01/31/ive-really-been.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/31/this-seems-to.html",
+	      	
+			"content_text": "This seems to aptly sum up my week thus far....",
+			"date_published": "2018-01-31T09:00:07-08:00",
+			"url": "https://mb.jsorge.net/2018/01/31/this-seems-to.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/31/been-getting-into.html",
+	      	
+			"title": "Drinkology",
+			
+			"content_text": "2018-01-30 Been getting into making Old Fashions lately. This one...",
+			"date_published": "2018-01-30T22:03:35-08:00",
+			"url": "https://mb.jsorge.net/2018/01/30/been-getting-into.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/30/i-see-lots.html",
+	      	
+			"content_text": "I see lots of people talking about the “Snow Leopard”...",
+			"date_published": "2018-01-30T13:16:27-08:00",
+			"url": "https://mb.jsorge.net/2018/01/30/i-see-lots.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/30/i-really-like.html",
+	      	
+			"content_text": "I really like this post from Manton Reece about how...",
+			"date_published": "2018-01-30T12:36:10-08:00",
+			"url": "https://mb.jsorge.net/2018/01/30/i-really-like.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/29/i-know-portrait.html",
+	      	
+			"content_text": "I know portrait mode isn’t perfect, but it can be...",
+			"date_published": "2018-01-28T21:05:24-08:00",
+			"url": "https://mb.jsorge.net/2018/01/28/i-know-portrait.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/25/theres-an-irony.html",
+	      	
+			"content_text": "There’s an irony to keeping my LastPass password and OTP...",
+			"date_published": "2018-01-25T08:44:54-08:00",
+			"url": "https://mb.jsorge.net/2018/01/25/theres-an-irony.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/25/been-wondering-for.html",
+	      	
+			"content_text": "Been wondering for weeks why I couldn’t get port forwarding...",
+			"date_published": "2018-01-24T21:28:01-08:00",
+			"url": "https://mb.jsorge.net/2018/01/24/been-wondering-for.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/25/if-i-ever.html",
+	      	
+			"content_text": "If I ever start a metal band with other dads,...",
+			"date_published": "2018-01-24T19:24:45-08:00",
+			"url": "https://mb.jsorge.net/2018/01/24/if-i-ever.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/24/i-think-my.html",
+	      	
+			"content_text": "I think my favorite feature of the iPhone X is...",
+			"date_published": "2018-01-23T22:07:57-08:00",
+			"url": "https://mb.jsorge.net/2018/01/23/i-think-my.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/23/i-think-im.html",
+	      	
+			"content_text": "I think I’m raising this one correctly.\n\n\n",
+			"date_published": "2018-01-22T20:15:31-08:00",
+			"url": "https://mb.jsorge.net/2018/01/22/i-think-im.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/22/i-really-want.html",
+	      	
+			"content_text": "I really want to up my Moom game. Window management...",
+			"date_published": "2018-01-22T13:34:40-08:00",
+			"url": "https://mb.jsorge.net/2018/01/22/i-really-want.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/22/yes-pearl-jam.html",
+	      	
+			"content_text": "YES!!! Pearl Jam is coming to Safeco Field this summer!...",
+			"date_published": "2018-01-22T10:51:39-08:00",
+			"url": "https://mb.jsorge.net/2018/01/22/yes-pearl-jam.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/22/if-someone-made.html",
+	      	
+			"content_text": "If someone made a keyboard like the Microsoft Sculpt but...",
+			"date_published": "2018-01-22T08:03:42-08:00",
+			"url": "https://mb.jsorge.net/2018/01/22/if-someone-made.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/21/i-didnt-have.html",
+	      	
+			"content_text": "I didn’t have anything against working with Linode, but find...",
+			"date_published": "2018-01-21T15:38:59-08:00",
+			"url": "https://mb.jsorge.net/2018/01/21/i-didnt-have.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/21/a-little-bit.html",
+	      	
+			"content_text": "A little bit ago I tried updating Ghost on my...",
+			"date_published": "2018-01-21T15:37:41-08:00",
+			"url": "https://mb.jsorge.net/2018/01/21/a-little-bit.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/14/batteries-walk-into.html",
+	      	
+			"content_text": "3 batteries walk into a bar: LG: I’ll have (reboot)...",
+			"date_published": "2018-01-13T21:21:49-08:00",
+			"url": "https://mb.jsorge.net/2018/01/13/batteries-walk-into.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/13/yep-im-just.html",
+	      	
+			"content_text": "Yep, I’m just here trying to figure out how custom...",
+			"date_published": "2018-01-12T22:08:43-08:00",
+			"url": "https://mb.jsorge.net/2018/01/12/yep-im-just.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/13/who-says-you.html",
+	      	
+			"content_text": "Who says you can’t make an endlessly confusing box for...",
+			"date_published": "2018-01-12T21:34:55-08:00",
+			"url": "https://mb.jsorge.net/2018/01/12/who-says-you.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/13/dude.html",
+	      	
+			"content_text": "Dude.\n\n\n",
+			"date_published": "2018-01-12T21:33:02-08:00",
+			"url": "https://mb.jsorge.net/2018/01/12/dude.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/12/github-cracks-me.html",
+	      	
+			"content_text": "GitHub cracks me up. Every time I add a comment,...",
+			"date_published": "2018-01-12T09:42:16-08:00",
+			"url": "https://mb.jsorge.net/2018/01/12/github-cracks-me.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/10/got-word-tonight.html",
+	      	
+			"content_text": "Got word tonight that my grandma is starting hospice care....",
+			"date_published": "2018-01-09T21:13:02-08:00",
+			"url": "https://mb.jsorge.net/2018/01/09/got-word-tonight.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/09/i-love-being.html",
+	      	
+			"content_text": "I love being able to tune into work meetings r...",
+			"date_published": "2018-01-09T15:20:00-08:00",
+			"url": "https://mb.jsorge.net/2018/01/09/i-love-being.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/09/im-watching-the.html",
+	      	
+			"content_text": "I’m watching the latest Swift Talk from the Objc.io guys,...",
+			"date_published": "2018-01-09T08:27:58-08:00",
+			"url": "https://mb.jsorge.net/2018/01/09/im-watching-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/09/its-really-fun.html",
+	      	
+			"content_text": "It’s really fun to use the Deliveries app to track...",
+			"date_published": "2018-01-08T22:17:35-08:00",
+			"url": "https://mb.jsorge.net/2018/01/08/its-really-fun.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/08/didnt-realize-that.html",
+	      	
+			"content_text": "Didn’t realize that Star Trek: Discovery came back today. Guess...",
+			"date_published": "2018-01-07T20:46:45-08:00",
+			"url": "https://mb.jsorge.net/2018/01/07/didnt-realize-that.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/08/learning-all-about.html",
+	      	
+			"content_text": "Learning all about h-feed, h-entry, and all the things that...",
+			"date_published": "2018-01-07T20:45:38-08:00",
+			"url": "https://mb.jsorge.net/2018/01/07/learning-all-about.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/08/got-a-new.html",
+	      	
+			"content_text": "Got a new chair for the office\n\n\n",
+			"date_published": "2018-01-07T16:14:32-08:00",
+			"url": "https://mb.jsorge.net/2018/01/07/got-a-new.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/06/whats-the-deal.html",
+	      	
+			"content_text": "What’s the deal with the delay in pressing the side...",
+			"date_published": "2018-01-06T09:59:03-08:00",
+			"url": "https://mb.jsorge.net/2018/01/06/whats-the-deal.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/04/yay-the-bus.html",
+	      	
+			"content_text": "Yay! The bus broke down on its way to my...",
+			"date_published": "2018-01-04T07:11:04-08:00",
+			"url": "https://mb.jsorge.net/2018/01/04/yay-the-bus.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/04/im-starting-the.html",
+	      	
+			"content_text": "I’m starting the Creative Photography Challenge from CreativeLive. Day 1...",
+			"date_published": "2018-01-03T19:27:39-08:00",
+			"url": "https://mb.jsorge.net/2018/01/03/im-starting-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/03/im-looking-for.html",
+	      	
+			"content_text": "I’m looking for a MacBook Pro stand that can work...",
+			"date_published": "2018-01-03T12:29:35-08:00",
+			"url": "https://mb.jsorge.net/2018/01/03/im-looking-for.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/03/i-closed-out.html",
+	      	
+			"content_text": "I closed out yesterday by realizing a bunch of work...",
+			"date_published": "2018-01-03T07:32:18-08:00",
+			"url": "https://mb.jsorge.net/2018/01/03/i-closed-out.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/03/i-finished-my.html",
+	      	
+			"content_text": "I finished my Bible in a year plan yesterday, and...",
+			"date_published": "2018-01-03T05:33:01-08:00",
+			"url": "https://mb.jsorge.net/2018/01/03/i-finished-my.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/03/i-think-it.html",
+	      	
+			"content_text": "I think it would be cool to do a picture...",
+			"date_published": "2018-01-02T22:41:33-08:00",
+			"url": "https://mb.jsorge.net/2018/01/02/i-think-it.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/03/it-was-back.html",
+	      	
+			"content_text": "It was back to work at our historic office today...",
+			"date_published": "2018-01-02T21:02:41-08:00",
+			"url": "https://mb.jsorge.net/2018/01/02/it-was-back.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/02/i-cant-say.html",
+	      	
+			"content_text": "I can’t say enough good things about Code Runner. I...",
+			"date_published": "2018-01-02T14:35:41-08:00",
+			"url": "https://mb.jsorge.net/2018/01/02/i-cant-say.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/02/i-just-got.html",
+	      	
+			"content_text": "I just got a recruiter voicemail that said she was...",
+			"date_published": "2018-01-02T10:56:38-08:00",
+			"url": "https://mb.jsorge.net/2018/01/02/i-just-got.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/01/01/for-my-birthday.html",
+	      	
+			"content_text": "For my birthday, Emily rented a Tesla for us to...",
+			"date_published": "2018-01-01T14:33:47-08:00",
+			"url": "https://mb.jsorge.net/2018/01/01/for-my-birthday.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/31/today-we-celebrated.html",
+	      	
+			"content_text": "Today we celebrated our Atticus Jack turning 4. It’s so...",
+			"date_published": "2017-12-30T20:40:37-08:00",
+			"url": "https://mb.jsorge.net/2017/12/30/today-we-celebrated.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/28/well-the-dongle.html",
+	      	
+			"content_text": "Well the dongle life seems to be failing me. My...",
+			"date_published": "2017-12-28T07:16:12-08:00",
+			"url": "https://mb.jsorge.net/2017/12/28/well-the-dongle.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/27/my-kingdom-for.html",
+	      	
+			"content_text": "My kingdom for the ability to copy/paste in the Keychain...",
+			"date_published": "2017-12-27T09:39:34-08:00",
+			"url": "https://mb.jsorge.net/2017/12/27/my-kingdom-for.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/26/i-love-icloud.html",
+	      	
+			"content_text": "I love iCloud Keychain syncing between my devices. But I...",
+			"date_published": "2017-12-26T07:46:35-08:00",
+			"url": "https://mb.jsorge.net/2017/12/26/i-love-icloud.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/25/its-a-white.html",
+	      	
+			"content_text": "It’s a white Christmas morning!\n\n\n",
+			"date_published": "2017-12-25T07:32:10-08:00",
+			"url": "https://mb.jsorge.net/2017/12/25/its-a-white.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/25/awaiting-the-ferry.html",
+	      	
+			"content_text": "Awaiting the ferry in snowy Kingston.\n",
+			"date_published": "2017-12-24T16:59:20-08:00",
+			"url": "https://mb.jsorge.net/2017/12/24/awaiting-the-ferry.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/23/christmas-with-the.html",
+	      	
+			"content_text": "Christmas with the Joker!\n\n\n",
+			"date_published": "2017-12-22T21:19:37-08:00",
+			"url": "https://mb.jsorge.net/2017/12/22/christmas-with-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/22/going-to-pick.html",
+	      	
+			"content_text": "Going to pick up the needed ingredients to make our...",
+			"date_published": "2017-12-22T13:57:53-08:00",
+			"url": "https://mb.jsorge.net/2017/12/22/going-to-pick.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/21/my-hope-for.html",
+	      	
+			"content_text": "My hope for a UnicornKit framework is merely a simpler...",
+			"date_published": "2017-12-21T11:39:51-08:00",
+			"url": "https://mb.jsorge.net/2017/12/21/my-hope-for.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/21/there-are-so.html",
+	      	
+			"content_text": "There are so many quotable lines in Gus’s post that...",
+			"date_published": "2017-12-21T11:38:56-08:00",
+			"url": "https://mb.jsorge.net/2017/12/21/there-are-so.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/21/i-must-be.html",
+	      	
+			"content_text": "I must be missing something, but I can’t figure out...",
+			"date_published": "2017-12-21T09:08:07-08:00",
+			"url": "https://mb.jsorge.net/2017/12/21/i-must-be.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/21/new-blog-post.html",
+	      	
+			"content_text": "New blog post: Missing Options in Swift jsorge.net/2017/12/2…\n",
+			"date_published": "2017-12-20T21:48:09-08:00",
+			"url": "https://mb.jsorge.net/2017/12/20/new-blog-post.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/20/filed-a-radar.html",
+	      	
+			"content_text": "Filed a radar using markdown in the description. Then realized...",
+			"date_published": "2017-12-20T15:37:15-08:00",
+			"url": "https://mb.jsorge.net/2017/12/20/filed-a-radar.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/20/its-super-frustrating.html",
+	      	
+			"content_text": "It’s super frustrating wanting to subscribe to someone’s posts and...",
+			"date_published": "2017-12-19T21:08:19-08:00",
+			"url": "https://mb.jsorge.net/2017/12/19/its-super-frustrating.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/13/ive-never-been.html",
+	      	
+			"content_text": "I’ve never been a serious Gmail user. Now I get...",
+			"date_published": "2017-12-13T08:14:58-08:00",
+			"url": "https://mb.jsorge.net/2017/12/13/ive-never-been.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/13/its-so-nice.html",
+	      	
+			"content_text": "It’s so nice to be home!\n",
+			"date_published": "2017-12-12T19:06:45-08:00",
+			"url": "https://mb.jsorge.net/2017/12/12/its-so-nice.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/12/heading-home-after.html",
+	      	
+			"content_text": "Heading home after a good couple of days in San...",
+			"date_published": "2017-12-12T14:43:29-08:00",
+			"url": "https://mb.jsorge.net/2017/12/12/heading-home-after.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/12/first-day-in.html",
+	      	
+			"content_text": "First day in the books and it was a good...",
+			"date_published": "2017-12-11T19:27:10-08:00",
+			"url": "https://mb.jsorge.net/2017/12/11/first-day-in.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/11/first-day-at.html",
+	      	
+			"content_text": "First day at @Lyft! Orientation is about to start. Hoping...",
+			"date_published": "2017-12-11T09:28:31-08:00",
+			"url": "https://mb.jsorge.net/2017/12/11/first-day-at.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/11/safely-arrived-at.html",
+	      	
+			"content_text": "Safely arrived at the hotel. Gotta be in to the...",
+			"date_published": "2017-12-11T00:39:13-08:00",
+			"url": "https://mb.jsorge.net/2017/12/11/safely-arrived-at.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/11/on-my-way.html",
+	      	
+			"content_text": "On my way to the airport. I’m San Francisco bound...",
+			"date_published": "2017-12-10T18:58:46-08:00",
+			"url": "https://mb.jsorge.net/2017/12/10/on-my-way.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/04/today-begins-my.html",
+	      	
+			"content_text": "Today begins my last week at zulily.\n",
+			"date_published": "2017-12-04T08:43:24-08:00",
+			"url": "https://mb.jsorge.net/2017/12/04/today-begins-my.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/01/and-ive-gotten.html",
+	      	
+			"content_text": "And I’ve gotten the skeleton of a Mac app working....",
+			"date_published": "2017-12-01T09:03:04-08:00",
+			"url": "https://mb.jsorge.net/2017/12/01/and-ive-gotten.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/01/in-my-searching.html",
+	      	
+			"content_text": "In my searching I ran across this old [@brentsimmons](https://micro.blog/brentsimmons) blog...",
+			"date_published": "2017-12-01T08:35:27-08:00",
+			"url": "https://mb.jsorge.net/2017/12/01/in-my-searching.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/12/01/in-my-final.html",
+	      	
+			"content_text": "In my final hackday at zulily I’m going to be...",
+			"date_published": "2017-12-01T07:55:48-08:00",
+			"url": "https://mb.jsorge.net/2017/12/01/in-my-final.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/11/29/the-most-painful.html",
+	      	
+			"content_text": "The most painful part of the Swift 3 -&gt; 4...",
+			"date_published": "2017-11-29T11:27:11-08:00",
+			"url": "https://mb.jsorge.net/2017/11/29/the-most-painful.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/11/29/if-i-have.html",
+	      	
+			"content_text": "If I have a video loaded from the web (either...",
+			"date_published": "2017-11-29T09:58:44-08:00",
+			"url": "https://mb.jsorge.net/2017/11/29/if-i-have.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/11/29/holy-smokes-the.html",
+	      	
+			"content_text": "Holy smokes the Infinity War trailer looks amazing! I really...",
+			"date_published": "2017-11-29T06:23:13-08:00",
+			"url": "https://mb.jsorge.net/2017/11/29/holy-smokes-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/11/28/i-really-want.html",
+	      	
+			"content_text": "I really want a Kindle update for the iPhone X....",
+			"date_published": "2017-11-28T14:19:54-08:00",
+			"url": "https://mb.jsorge.net/2017/11/28/i-really-want.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/11/28/ordered-a-new.html",
+	      	
+			"content_text": "Ordered a new standing desk from Autonomous. @ben had a...",
+			"date_published": "2017-11-27T21:54:52-08:00",
+			"url": "https://mb.jsorge.net/2017/11/27/ordered-a-new.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/11/28/after-years-at.html",
+	      	
+			"content_text": "After 2+ years at zulily, I’m going to be leaving...",
+			"date_published": "2017-11-27T18:15:34-08:00",
+			"url": "https://mb.jsorge.net/2017/11/27/after-years-at.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/11/03/when-i-want.html",
+	      	
+			"content_text": "When I want placeholder text, I always turn to Batman...",
+			"date_published": "2017-11-03T08:28:24-07:00",
+			"url": "https://mb.jsorge.net/2017/11/03/when-i-want.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/11/02/its-so-much.html",
+	      	
+			"content_text": "It’s so much fun to watch championship games. I sure...",
+			"date_published": "2017-11-01T17:09:17-07:00",
+			"url": "https://mb.jsorge.net/2017/11/01/its-so-much.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/30/fighting-with-build.html",
+	      	
+			"content_text": "Fighting with build settings over and over and over again....",
+			"date_published": "2017-10-30T14:26:02-07:00",
+			"url": "https://mb.jsorge.net/2017/10/30/fighting-with-build.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/28/pro-tip-for.html",
+	      	
+			"content_text": "Pro tip for future me when renewing my SSL certificate...",
+			"date_published": "2017-10-28T13:18:44-07:00",
+			"url": "https://mb.jsorge.net/2017/10/28/pro-tip-for.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/28/why-yes-i.html",
+	      	
+			"content_text": "Why yes, I did just make a watchOS app to...",
+			"date_published": "2017-10-27T22:13:32-07:00",
+			"url": "https://mb.jsorge.net/2017/10/27/why-yes-i.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/27/riding-the-seattle.html",
+	      	
+			"content_text": "Riding the Seattle light rail for the first time since...",
+			"date_published": "2017-10-27T07:11:29-07:00",
+			"url": "https://mb.jsorge.net/2017/10/27/riding-the-seattle.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/27/holy-crap-im.html",
+	      	
+			"content_text": "Holy crap! I’m getting an iPhone X on launch day!!!...",
+			"date_published": "2017-10-27T00:12:38-07:00",
+			"url": "https://mb.jsorge.net/2017/10/27/holy-crap-im.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/27/doh-not-available.html",
+	      	
+			"content_text": "D’oh! Not available until 9PM. Oh well.\n",
+			"date_published": "2017-10-26T17:13:55-07:00",
+			"url": "https://mb.jsorge.net/2017/10/26/doh-not-available.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/27/why-yes-i.html",
+	      	
+			"content_text": "Why yes, I would like to download Super Mario Odyssey....",
+			"date_published": "2017-10-26T17:08:51-07:00",
+			"url": "https://mb.jsorge.net/2017/10/26/why-yes-i.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/26/im-really-enjoying.html",
+	      	
+			"content_text": "I’m really enjoying updating zulily’s app for the iPhone X....",
+			"date_published": "2017-10-26T08:41:22-07:00",
+			"url": "https://mb.jsorge.net/2017/10/26/im-really-enjoying.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/24/is-there-a.html",
+	      	
+			"content_text": "Is there a way to use a git pre-commit hook...",
+			"date_published": "2017-10-24T11:20:10-07:00",
+			"url": "https://mb.jsorge.net/2017/10/24/is-there-a.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/20/traffic-is-utterly.html",
+	      	
+			"content_text": "Traffic is utterly horrid today. Ugh.\n",
+			"date_published": "2017-10-19T17:08:14-07:00",
+			"url": "https://mb.jsorge.net/2017/10/19/traffic-is-utterly.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/17/i-gotta-say.html",
+	      	
+			"content_text": "I gotta say, running pod deintegrate feels really good.\n",
+			"date_published": "2017-10-17T14:16:47-07:00",
+			"url": "https://mb.jsorge.net/2017/10/17/i-gotta-say.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/17/this-world-is.html",
+	      	
+			"content_text": "This world is an absolutely heartbreaking, broken place. I’ve been...",
+			"date_published": "2017-10-17T09:22:23-07:00",
+			"url": "https://mb.jsorge.net/2017/10/17/this-world-is.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/17/put-the-microblog.html",
+	      	
+			"content_text": "Put the micro.blog Mac app on my work machine, but...",
+			"date_published": "2017-10-17T07:54:39-07:00",
+			"url": "https://mb.jsorge.net/2017/10/17/put-the-microblog.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/17/the-working-copy.html",
+	      	
+			"content_text": "The Working Copy iOS app is quite a wonder. It’s...",
+			"date_published": "2017-10-17T06:40:48-07:00",
+			"url": "https://mb.jsorge.net/2017/10/17/the-working-copy.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/17/yay-for-minor.html",
+	      	
+			"content_text": "Yay for minor dental surgery. Here’s to soft foods for...",
+			"date_published": "2017-10-16T18:01:43-07:00",
+			"url": "https://mb.jsorge.net/2017/10/16/yay-for-minor.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/16/working-with-frontiercorp.html",
+	      	
+			"content_text": "Working with @FrontierCorp billing is almost worse than @ComcastCares. Signed...",
+			"date_published": "2017-10-16T13:49:40-07:00",
+			"url": "https://mb.jsorge.net/2017/10/16/working-with-frontiercorp.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/16/dear-collection-view.html",
+	      	
+			"content_text": "Dear Collection View, why won’t you reload cells when I...",
+			"date_published": "2017-10-16T13:09:17-07:00",
+			"url": "https://mb.jsorge.net/2017/10/16/dear-collection-view.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/15/i-just-discovered.html",
+	      	
+			"content_text": "I just discovered that there’s a free express version of...",
+			"date_published": "2017-10-15T15:41:45-07:00",
+			"url": "https://mb.jsorge.net/2017/10/15/i-just-discovered.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/10/if-anyone-has.html",
+	      	
+			"content_text": "If anyone has experience linking multiple static frameworks into a...",
+			"date_published": "2017-10-10T13:52:50-07:00",
+			"url": "https://mb.jsorge.net/2017/10/10/if-anyone-has.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/04/watching-playoff-baseball.html",
+	      	
+			"content_text": "Watching playoff baseball with our poor sick baby boy resting...",
+			"date_published": "2017-10-03T18:50:29-07:00",
+			"url": "https://mb.jsorge.net/2017/10/03/watching-playoff-baseball.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/03/trying-to-migrate.html",
+	      	
+			"content_text": "Trying to migrate from CocoaPods to a Carthage Static Framework...",
+			"date_published": "2017-10-03T11:49:34-07:00",
+			"url": "https://mb.jsorge.net/2017/10/03/trying-to-migrate.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/03/183402.html",
+	      	
+			"content_text": "Thanks to @timothyekl for pointing me in the right direction....",
+			"date_published": "2017-10-03T11:34:02-07:00",
+			"url": "https://mb.jsorge.net/2017/10/03/183402.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/10/03/is-it-possible.html",
+	      	
+			"content_text": "Is it possible to import a file into bash_profile? I’m...",
+			"date_published": "2017-10-03T10:49:42-07:00",
+			"url": "https://mb.jsorge.net/2017/10/03/is-it-possible.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/09/23/got-my-new.html",
+	      	
+			"content_text": "Got my new Series 3 watch (no LTE) all setup....",
+			"date_published": "2017-09-22T21:05:53-07:00",
+			"url": "https://mb.jsorge.net/2017/09/22/got-my-new.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/09/05/just-picked-up.html",
+	      	
+			"content_text": "Just picked up The Caledonian Gambit by Dan Moren for...",
+			"date_published": "2017-09-05T13:04:51-07:00",
+			"url": "https://mb.jsorge.net/2017/09/05/just-picked-up.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/08/31/is-there-any.html",
+	      	
+			"content_text": "Is there any alternative to Lightroom that doesn’t charge a...",
+			"date_published": "2017-08-30T17:37:50-07:00",
+			"url": "https://mb.jsorge.net/2017/08/30/is-there-any.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/08/25/been-off-the.html",
+	      	
+			"content_text": "Been off the communication grid for the last few days....",
+			"date_published": "2017-08-25T13:28:37-07:00",
+			"url": "https://mb.jsorge.net/2017/08/25/been-off-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/08/11/i-just-found.html",
+	      	
+			"content_text": "I just found out about @objcMembers and now my Swift...",
+			"date_published": "2017-08-11T14:57:03-07:00",
+			"url": "https://mb.jsorge.net/2017/08/11/i-just-found.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/08/09/after-using-messages.html",
+	      	
+			"content_text": "After using Messages on my iPhone in iOS 11 for...",
+			"date_published": "2017-08-09T12:23:08-07:00",
+			"url": "https://mb.jsorge.net/2017/08/09/after-using-messages.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/08/07/pulling-the-trigger.html",
+	      	
+			"content_text": "Pulling the trigger and installing iOS 11 b5 on my...",
+			"date_published": "2017-08-07T12:52:01-07:00",
+			"url": "https://mb.jsorge.net/2017/08/07/pulling-the-trigger.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/08/07/i-have-slain.html",
+	      	
+			"content_text": "I have slain the manual layout dragon!\n",
+			"date_published": "2017-08-07T12:08:47-07:00",
+			"url": "https://mb.jsorge.net/2017/08/07/i-have-slain.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/08/07/embarking-on-a.html",
+	      	
+			"content_text": "Embarking on a (hopefully) short journey to move one of...",
+			"date_published": "2017-08-07T07:35:22-07:00",
+			"url": "https://mb.jsorge.net/2017/08/07/embarking-on-a.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/08/06/pro-tip-the.html",
+	      	
+			"content_text": "Pro Tip: The swift.org instructions for Linux installations aren’t complete....",
+			"date_published": "2017-08-05T22:27:50-07:00",
+			"url": "https://mb.jsorge.net/2017/08/05/pro-tip-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/08/06/taking-my-first.html",
+	      	
+			"content_text": "Taking my first crack at installing Swift on Linux. Been...",
+			"date_published": "2017-08-05T22:05:48-07:00",
+			"url": "https://mb.jsorge.net/2017/08/05/taking-my-first.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/07/26/meetings-meetings-meetings.html",
+	      	
+			"content_text": "Meetings, meetings, meetings. Today was full of meetings. But now...",
+			"date_published": "2017-07-26T16:51:10-07:00",
+			"url": "https://mb.jsorge.net/2017/07/26/meetings-meetings-meetings.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/07/23/finally-also-got.html",
+	      	
+			"content_text": "Finally also got a custom sub domain setup for my...",
+			"date_published": "2017-07-23T11:21:00-07:00",
+			"url": "https://mb.jsorge.net/2017/07/23/finally-also-got.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/07/23/i-migrated-my.html",
+	      	
+			"content_text": "I migrated my main blog to a new Ghost 1.0...",
+			"date_published": "2017-07-23T09:26:56-07:00",
+			"url": "https://mb.jsorge.net/2017/07/23/i-migrated-my.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/07/14/we-stepped-out.html",
+	      	
+			"content_text": "We stepped out of the house for a short couple...",
+			"date_published": "2017-07-14T14:54:43-07:00",
+			"url": "https://mb.jsorge.net/2017/07/14/we-stepped-out.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/07/13/holy-moly-the.html",
+	      	
+			"content_text": "Holy moly the Xcode 9 refactor tool is great. I...",
+			"date_published": "2017-07-13T14:00:12-07:00",
+			"url": "https://mb.jsorge.net/2017/07/13/holy-moly-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/07/13/ripping-out-fabric.html",
+	      	
+			"content_text": "Ripping out Fabric feels pretty good. They seem to have...",
+			"date_published": "2017-07-13T10:45:02-07:00",
+			"url": "https://mb.jsorge.net/2017/07/13/ripping-out-fabric.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/07/13/i-tried-setting.html",
+	      	
+			"content_text": "I tried setting up BuddyBuild for Scorebook. I have the...",
+			"date_published": "2017-07-12T21:50:31-07:00",
+			"url": "https://mb.jsorge.net/2017/07/12/i-tried-setting.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/07/11/triggered-segues-in.html",
+	      	
+			"content_text": "Triggered segues in IB’s storyboards seem like a good idea...",
+			"date_published": "2017-07-11T09:37:37-07:00",
+			"url": "https://mb.jsorge.net/2017/07/11/triggered-segues-in.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/07/10/im-on-my.html",
+	      	
+			"content_text": "I’m on my annual “hack week” from zulily this week....",
+			"date_published": "2017-07-10T09:25:45-07:00",
+			"url": "https://mb.jsorge.net/2017/07/10/im-on-my.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/07/10/last-night-i.html",
+	      	
+			"content_text": "Last night I wrote about how I make NSNotifications type...",
+			"date_published": "2017-07-10T07:36:33-07:00",
+			"url": "https://mb.jsorge.net/2017/07/10/last-night-i.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/06/28/are-there-any.html",
+	      	
+			"content_text": "Are there any good guides for getting started with Sketch...",
+			"date_published": "2017-06-27T17:34:55-07:00",
+			"url": "https://mb.jsorge.net/2017/06/27/are-there-any.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/06/27/my-brilliant-wife.html",
+	      	
+			"content_text": "My brilliant wife discovered the life hack of putting our...",
+			"date_published": "2017-06-26T20:55:44-07:00",
+			"url": "https://mb.jsorge.net/2017/06/26/my-brilliant-wife.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/06/20/im-so-excited.html",
+	      	
+			"content_text": "I’m so excited to see a Swift conference based out...",
+			"date_published": "2017-06-20T12:00:23-07:00",
+			"url": "https://mb.jsorge.net/2017/06/20/im-so-excited.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/06/19/what-are-some.html",
+	      	
+			"content_text": "What are some of the best examples of reach navigation...",
+			"date_published": "2017-06-19T16:24:05-07:00",
+			"url": "https://mb.jsorge.net/2017/06/19/what-are-some.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/06/14/we-are-building.html",
+	      	
+			"content_text": "We are building a play set in our backyard. Started...",
+			"date_published": "2017-06-13T21:53:38-07:00",
+			"url": "https://mb.jsorge.net/2017/06/13/we-are-building.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/06/09/had-a-great.html",
+	      	
+			"content_text": "Had a great night of lightning talks at tonight’s @Xcoders...",
+			"date_published": "2017-06-08T23:00:29-07:00",
+			"url": "https://mb.jsorge.net/2017/06/08/had-a-great.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/06/02/i-think-my.html",
+	      	
+			"content_text": "I think my stretch hope for WWDC on Monday is...",
+			"date_published": "2017-06-02T07:51:54-07:00",
+			"url": "https://mb.jsorge.net/2017/06/02/i-think-my.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/31/im-doing-a.html",
+	      	
+			"content_text": "I’m doing a lightning talk next week at @Xcoders about...",
+			"date_published": "2017-05-30T19:18:10-07:00",
+			"url": "https://mb.jsorge.net/2017/05/30/im-doing-a.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/30/had-my-first.html",
+	      	
+			"content_text": "Had my first need arise to make a protocol with...",
+			"date_published": "2017-05-30T14:33:44-07:00",
+			"url": "https://mb.jsorge.net/2017/05/30/had-my-first.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/29/ugh-we-are.html",
+	      	
+			"content_text": "Ugh. We are trying to buy a Northwest Forest Day...",
+			"date_published": "2017-05-29T07:47:21-07:00",
+			"url": "https://mb.jsorge.net/2017/05/29/ugh-we-are.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/21/me-to-kid.html",
+	      	
+			"content_text": "Me to kid: “Let’s not climb on that, it doesn’t...",
+			"date_published": "2017-05-21T10:51:04-07:00",
+			"url": "https://mb.jsorge.net/2017/05/21/me-to-kid.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/21/looks-like-i.html",
+	      	
+			"content_text": "Looks like I forgot a digit on my Switch friend...",
+			"date_published": "2017-05-21T08:18:02-07:00",
+			"url": "https://mb.jsorge.net/2017/05/21/looks-like-i.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/21/i-got-a.html",
+	      	
+			"content_text": "I got a Switch and Mario Kart yesterday. Let’s be...",
+			"date_published": "2017-05-20T20:13:12-07:00",
+			"url": "https://mb.jsorge.net/2017/05/20/i-got-a.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/19/as-one-who.html",
+	      	
+			"content_text": "As one who works in a wide open office, my...",
+			"date_published": "2017-05-18T22:01:27-07:00",
+			"url": "https://mb.jsorge.net/2017/05/18/as-one-who.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/19/dear-executive-do.html",
+	      	
+			"content_text": "“Dear Executive: Do you want your employees to come into...",
+			"date_published": "2017-05-18T22:00:43-07:00",
+			"url": "https://mb.jsorge.net/2017/05/18/dear-executive-do.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/18/brain-transplant-succesful.html",
+	      	
+			"content_text": "Brain transplant succesful! I now have a 2012 Mac mini...",
+			"date_published": "2017-05-17T22:24:13-07:00",
+			"url": "https://mb.jsorge.net/2017/05/17/brain-transplant-succesful.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/18/ready-to-perform.html",
+	      	
+			"content_text": "Ready to perform a mild brain transplant operation.\n\n\n",
+			"date_published": "2017-05-17T21:24:07-07:00",
+			"url": "https://mb.jsorge.net/2017/05/17/ready-to-perform.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/17/are-there-any.html",
+	      	
+			"content_text": "Are there any good reference materials for how Text Kit...",
+			"date_published": "2017-05-16T20:54:46-07:00",
+			"url": "https://mb.jsorge.net/2017/05/16/are-there-any.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/17/back-at-nscoder.html",
+	      	
+			"content_text": "Back at NSCoder night working on my menubar app for...",
+			"date_published": "2017-05-16T19:51:26-07:00",
+			"url": "https://mb.jsorge.net/2017/05/16/back-at-nscoder.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/12/when-presenting-a.html",
+	      	
+			"content_text": "When presenting a new UIWindow I’ve discovered that it’s best...",
+			"date_published": "2017-05-12T13:36:45-07:00",
+			"url": "https://mb.jsorge.net/2017/05/12/when-presenting-a.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/12/not-a-bad.html",
+	      	
+			"content_text": "Not a bad way to start the day.\n\n\n",
+			"date_published": "2017-05-12T07:19:07-07:00",
+			"url": "https://mb.jsorge.net/2017/05/12/not-a-bad.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/11/it-turns-out.html",
+	      	
+			"content_text": "It turns out my error was because of something dumb...",
+			"date_published": "2017-05-11T15:40:50-07:00",
+			"url": "https://mb.jsorge.net/2017/05/11/it-turns-out.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/11/the-most-frustrating.html",
+	      	
+			"content_text": "The most frustrating crash error I have to deal with...",
+			"date_published": "2017-05-11T13:45:24-07:00",
+			"url": "https://mb.jsorge.net/2017/05/11/the-most-frustrating.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/11/its-xcoders-tonight.html",
+	      	
+			"content_text": "It’s Xcoders tonight! I hope you’ll join us at the...",
+			"date_published": "2017-05-11T08:14:48-07:00",
+			"url": "https://mb.jsorge.net/2017/05/11/its-xcoders-tonight.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/11/ugh-we-just.html",
+	      	
+			"content_text": "Ugh. We just found and ant nest inside our house....",
+			"date_published": "2017-05-10T21:59:11-07:00",
+			"url": "https://mb.jsorge.net/2017/05/10/ugh-we-just.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/11/our-new-grill.html",
+	      	
+			"content_text": "Our new grill is up and running! First up is...",
+			"date_published": "2017-05-10T18:34:41-07:00",
+			"url": "https://mb.jsorge.net/2017/05/10/our-new-grill.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/10/we-just-put.html",
+	      	
+			"content_text": "We just put together our new gas grill and I...",
+			"date_published": "2017-05-09T22:33:44-07:00",
+			"url": "https://mb.jsorge.net/2017/05/09/we-just-put.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/10/i-feel-like.html",
+	      	
+			"content_text": "I feel like I’ve been leveling up a lot as...",
+			"date_published": "2017-05-09T20:27:47-07:00",
+			"url": "https://mb.jsorge.net/2017/05/09/i-feel-like.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/10/til-a-lot.html",
+	      	
+			"content_text": "TIL a lot about he footerView property on UITableView. It...",
+			"date_published": "2017-05-09T20:26:26-07:00",
+			"url": "https://mb.jsorge.net/2017/05/09/til-a-lot.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/03/i-love-the.html",
+	      	
+			"content_text": "I love the Cocoa developer community. Being a part of...",
+			"date_published": "2017-05-02T21:45:38-07:00",
+			"url": "https://mb.jsorge.net/2017/05/02/i-love-the.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/03/pro-tip-when.html",
+	      	
+			"content_text": "Pro tip: When adding an NSTextView programatically, add it to...",
+			"date_published": "2017-05-02T20:58:03-07:00",
+			"url": "https://mb.jsorge.net/2017/05/02/pro-tip-when.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/03/testing-my-microblog.html",
+	      	
+			"content_text": "Testing my micro.blog menubar publishing app.\n",
+			"date_published": "2017-05-02T20:37:00-07:00",
+			"url": "https://mb.jsorge.net/2017/05/02/testing-my-microblog.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/03/test-posting-from.html",
+	      	
+			"content_text": "Test posting from Paw (the API client I use on...",
+			"date_published": "2017-05-02T20:22:40-07:00",
+			"url": "https://mb.jsorge.net/2017/05/02/test-posting-from.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/05/01/nothing-like-a.html",
+	      	
+			"content_text": "Nothing like a good fight with “Include of non-modular header...",
+			"date_published": "2017-05-01T08:17:26-07:00",
+			"url": "https://mb.jsorge.net/2017/05/01/nothing-like-a.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/04/30/started-transferring-my.html",
+	      	
+			"content_text": "Started transferring my media and going to bed. It’s kind...",
+			"date_published": "2017-04-29T23:03:57-07:00",
+			"url": "https://mb.jsorge.net/2017/04/29/started-transferring-my.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/04/30/i-love-that.html",
+	      	
+			"content_text": "I love that the Finder icon for the Synology is...",
+			"date_published": "2017-04-29T22:54:41-07:00",
+			"url": "https://mb.jsorge.net/2017/04/29/i-love-that.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/04/30/its-kind-of.html",
+	      	
+			"content_text": "It’s kind of surprising that Synology gear doesn’t come with...",
+			"date_published": "2017-04-29T22:16:45-07:00",
+			"url": "https://mb.jsorge.net/2017/04/29/its-kind-of.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/04/30/hardware-installed-installing.html",
+	      	
+			"content_text": "Hardware installed, installing DSM.\n",
+			"date_published": "2017-04-29T22:12:57-07:00",
+			"url": "https://mb.jsorge.net/2017/04/29/hardware-installed-installing.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/04/30/good-final-night.html",
+	      	
+			"content_text": "Good final night of bowling for the season. We came...",
+			"date_published": "2017-04-29T21:23:34-07:00",
+			"url": "https://mb.jsorge.net/2017/04/29/good-final-night.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/04/28/in-doing-this.html",
+	      	
+			"content_text": "In doing this refactor work I need to untangle a...",
+			"date_published": "2017-04-28T13:26:53-07:00",
+			"url": "https://mb.jsorge.net/2017/04/28/in-doing-this.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/04/28/refactor-refactor-refactor.html",
+	      	
+			"content_text": "Refactor, refactor, refactor\n",
+			"date_published": "2017-04-28T13:17:42-07:00",
+			"url": "https://mb.jsorge.net/2017/04/28/refactor-refactor-refactor.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2017/04/27/i-just-got.html",
+	      	
+			"content_text": "I just got signed up for micro.blog! Woo hoo!\n",
+			"date_published": "2017-04-26T17:10:47-07:00",
+			"url": "https://mb.jsorge.net/2017/04/26/i-just-got.html"
+		}
+		
+	]
+}
