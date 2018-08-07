@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Mon, 06 Aug 2018 07:36:00 -0700</pubDate>
-    <lastBuildDate>Mon, 06 Aug 2018 07:36:00 -0700</lastBuildDate>
+    <pubDate>Tue, 07 Aug 2018 11:47:31 -0700</pubDate>
+    <lastBuildDate>Tue, 07 Aug 2018 11:47:31 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Every time I manually edit a plist dictionary I forget to put the value before the key. Every. Time.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Aug 2018 11:47:16 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/08/07/every-time-i.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/08/07/every-time-i.html</guid>
+      </item>
     
       <item>
       	
@@ -475,17 +484,6 @@
         <pubDate>Sun, 17 Jun 2018 21:59:29 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/06/17/the-last-piece.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/18/the-last-piece.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Achievement unlocked: &lt;a href=&quot;http://taphouse.io&quot;&gt;taphouse.io&lt;/a&gt; is now being fully served by Docker. The Vapor community is so helpful, especially &lt;a href=&quot;https://bygri.github.io&quot;&gt;@bygri&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I’ll try to get a full writeup done soon. This is going to help me get Maverick off the ground on a server.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 17 Jun 2018 16:27:31 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/06/17/achievement-unlocked-httptaphouseio.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/17/achievement-unlocked-httptaphouseio.html</guid>
       </item>
     
   </channel>
