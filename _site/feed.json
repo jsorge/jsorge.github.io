@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/08/07/every-time-i.html",
+	      	
+			"content_html": "<p>Every time I manually edit a plist dictionary I forget to put the value before the key. Every. Time.</p>\n",
+			"date_published": "2018-08-07T11:47:16-07:00",
+			"url": "https://mb.jsorge.net/2018/08/07/every-time-i.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/08/06/i-went-and.html",
 	      	
 			"content_html": "<p>I went and saw MI: Fallout last night with a couple of buddies and it was great fun! The soundtrack especially had a lot of calls back to The Dark Knight (Rises) which I particularly enjoyed.</p>\n\n<p>Hot take: I like the MI movies more than Bond movies at this point.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I was not expecting this day to start out with 2 new tires on our van.</p>\n",
 			"date_published": "2018-07-13T09:54:27-07:00",
 			"url": "https://mb.jsorge.net/2018/07/13/i-was-not.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/07/13/072132.html",
-	      	
-			"content_html": "<p>New post from jsorge.net: <a href=\"https://jsorge.net/2018/07/11/welcome-to-the-new-age\">This is My New Site; It Looks Like The Old Site</a></p>\n",
-			"date_published": "2018-07-13T00:21:32-07:00",
-			"url": "https://mb.jsorge.net/2018/07/13/072132.html"
 		}
 		
 	]
