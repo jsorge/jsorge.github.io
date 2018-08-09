@@ -4,8 +4,41 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Tue, 07 Aug 2018 11:47:31 -0700</pubDate>
-    <lastBuildDate>Tue, 07 Aug 2018 11:47:31 -0700</lastBuildDate>
+    <pubDate>Thu, 09 Aug 2018 09:04:28 -0700</pubDate>
+    <lastBuildDate>Thu, 09 Aug 2018 09:04:28 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;http://mb.jsorge.net/uploads/2018/b91f27dc0c.jpg&quot;&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2018/b91f27dc0c.jpg&quot; width=&quot;600&quot; height=&quot;449&quot; style=&quot;display: inline-block; max-height: 200px; width: auto; padding: 1px;&quot; class=&quot;sunlit_image&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://mb.jsorge.net/uploads/2018/be49b52542.jpg&quot;&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2018/be49b52542.jpg&quot; width=&quot;600&quot; height=&quot;449&quot; style=&quot;display: inline-block; max-height: 200px; width: auto; padding: 1px;&quot; class=&quot;sunlit_image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pearl Jam show 1 of 2 last night was amazing! 3 hours and 2 encores. They brought all they had and are going to do it again tomorrow night. We were up in section 220 last night and will be in GA tomorrow.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 09 Aug 2018 09:02:27 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/08/09/pearl-jam-show.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/08/09/pearl-jam-show.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;http://mb.jsorge.net/uploads/2018/f4387738ec.jpg&quot;&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2018/f4387738ec.jpg&quot; width=&quot;449&quot; height=&quot;600&quot; style=&quot;height: auto;&quot; class=&quot;sunlit_image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Today is the day! Pearl Jam part 1!&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 08 Aug 2018 10:15:16 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/08/08/today-is-the.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/08/08/today-is-the.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;If a bus comes 20 minutes after its posted time but 8 minutes before the next one, is it really late or really early?&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Aug 2018 15:29:49 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/08/07/if-a-bus.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/08/07/if-a-bus.html</guid>
+      </item>
     
       <item>
       	
@@ -457,33 +490,6 @@
         <pubDate>Thu, 21 Jun 2018 10:35:22 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/06/21/seahawks-training-camp.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/21/seahawks-training-camp.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;New post from jsorge.net: &lt;a href=&quot;http://jsorge.net/2018/06/19/proxying-vapor-3-using-nginx-and-docker/&quot;&gt;Proxying Vapor 3 Using nginx and Docker&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 19 Jun 2018 09:07:14 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/06/19/160714.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/19/160714.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’m trying once again to get TLS working on nginx in Docker with letsencrypt. I think I might have found the right blog post to help me get it done.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 18 Jun 2018 21:09:54 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/06/18/im-trying-once.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/19/im-trying-once.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;The last piece of this nginx container is to get SSL working. I want to use &lt;a href=&quot;https://github.com/Neilpang/acme.sh/wiki/Run-acme.sh-in-docker&quot;&gt;acme.sh&lt;/a&gt; but can’t figure out how to get it spun up using docker-compose. Any ideas?&lt;/p&gt;
-</description>
-        <pubDate>Sun, 17 Jun 2018 21:59:29 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/06/17/the-last-piece.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/18/the-last-piece.html</guid>
       </item>
     
   </channel>
