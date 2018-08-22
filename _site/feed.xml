@@ -4,8 +4,26 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Tue, 14 Aug 2018 09:56:16 -0700</pubDate>
-    <lastBuildDate>Tue, 14 Aug 2018 09:56:16 -0700</lastBuildDate>
+    <pubDate>Tue, 21 Aug 2018 04:10:41 -0700</pubDate>
+    <lastBuildDate>Tue, 21 Aug 2018 04:10:41 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Atticus woke up and was babbling/playing at 3:15 in his room, then our fire alarm went  off at 3:45. There was no fire and now I’m wide awake and how is yoir morning going?&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Aug 2018 04:10:32 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/08/21/atticus-woke-up.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/08/21/atticus-woke-up.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I made a couple of PRs to an open source library that hasn’t been updated in a while, and they haven’t been responded to in about a week. It’s totally cool for me to just merge the branches in my fork and just use my fork, right? I want to do right by the original author.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Aug 2018 21:01:57 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/08/14/i-made-a.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/08/15/i-made-a.html</guid>
+      </item>
     
       <item>
       	
@@ -475,24 +493,6 @@
         <pubDate>Sat, 30 Jun 2018 16:23:38 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/06/30/im-taking-the.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/30/im-taking-the.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;The thing I love about doing the taphouse.io project is that it will help me get my blog running using Maverick. I needed to get TLS working to enable the APIs for Micropub and XML-RPC.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 21 Jun 2018 21:38:15 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/06/21/the-thing-i.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/22/the-thing-i.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;And just like that &lt;a href=&quot;https://taphouse.io&quot;&gt;taphouse.io&lt;/a&gt; is backed by letsprotect in Docker. Think it’s worth writing up how I added TLS to an nginx Docker container?&lt;/p&gt;
-</description>
-        <pubDate>Thu, 21 Jun 2018 21:37:11 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/06/21/and-just-like.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/06/22/and-just-like.html</guid>
       </item>
     
   </channel>
