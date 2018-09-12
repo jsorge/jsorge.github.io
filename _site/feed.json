@@ -1,9 +1,26 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Jared Sorge",
+	"icon": "https://micro.blog/jsorge/avatar.jpg",
 	"home_page_url": "https://mb.jsorge.net/",
 	"feed_url": "https://mb.jsorge.net/feed.json",
 	"items": [
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/09/11/i-signed-up.html",
+	      	
+			"content_html": "<p>I signed up for Feedbin as soon as Google Reader shutdown, and it’s truly a great service. They’re <a href=\"https://feedbin.com/blog/2018/09/11/private-by-default/\">private by default</a> and it’s one of the reasons I’ll continue my subscription as long as I can see.</p>\n",
+			"date_published": "2018-09-11T16:10:34-07:00",
+			"url": "https://mb.jsorge.net/2018/09/11/i-signed-up.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/08/22/finnian-keeps-asking.html",
+	      	
+			"content_html": "<p>Finnian keeps asking for “boing” — the kid cant get enough of bowling!\n<img src=\"http://mb.jsorge.net/uploads/2018/509ca199e4.jpg\" alt=\"C414154E-8F90-4458-B54A-B7D73FDE42E7.jpg\" /></p>\n",
+			"date_published": "2018-08-21T17:34:50-07:00",
+			"url": "https://mb.jsorge.net/2018/08/21/finnian-keeps-asking.html"
+		},
 		
 		{
 			"id": "http://jsorge.micro.blog/2018/08/21/atticus-woke-up.html",
@@ -187,22 +204,6 @@
 			"content_html": "<p>I can’t believe it’s already been seven years that’s Emily and I have been married. For our anniversary yesterday we had a nice dinner at the Edgewater and then went to the Chihuly blown glass museum. A great night with my love.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/7fba4622bc.jpg\" width=\"600\" height=\"451\" /></p>\n",
 			"date_published": "2018-07-23T09:30:40-07:00",
 			"url": "https://mb.jsorge.net/2018/07/23/i-cant-believe.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/07/21/061544.html",
-	      	
-			"content_html": "<p>New post from jsorge.net: <a href=\"https://jsorge.net/2018/07/20/nerd-snipe-shared-extension\">Nerd Snipe- 2 Apps, 1 Extension</a></p>\n",
-			"date_published": "2018-07-20T23:15:44-07:00",
-			"url": "https://mb.jsorge.net/2018/07/20/061544.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/07/20/i-think-i.html",
-	      	
-			"content_html": "<p>I think I just got my craziest build script to work. 🎉</p>\n",
-			"date_published": "2018-07-20T11:57:09-07:00",
-			"url": "https://mb.jsorge.net/2018/07/20/i-think-i.html"
 		}
 		
 	]
