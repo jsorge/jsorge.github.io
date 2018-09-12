@@ -1,9 +1,26 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Jared Sorge",
+	"icon": "https://micro.blog/jsorge/avatar.jpg",
 	"home_page_url": "https://mb.jsorge.net/",
 	"feed_url": "https://mb.jsorge.net/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/09/11/i-signed-up.html",
+	      	
+			"content_text": "I signed up for Feedbin as soon as Google Reader...",
+			"date_published": "2018-09-11T16:10:34-07:00",
+			"url": "https://mb.jsorge.net/2018/09/11/i-signed-up.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/08/22/finnian-keeps-asking.html",
+	      	
+			"content_text": "Finnian keeps asking for “boing” — the kid cant get...",
+			"date_published": "2018-08-21T17:34:50-07:00",
+			"url": "https://mb.jsorge.net/2018/08/21/finnian-keeps-asking.html"
+		},
 		
 		{
 			"id": "http://jsorge.micro.blog/2018/08/21/atticus-woke-up.html",
