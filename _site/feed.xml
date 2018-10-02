@@ -4,8 +4,17 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Mon, 01 Oct 2018 22:17:19 -0700</pubDate>
-    <lastBuildDate>Mon, 01 Oct 2018 22:17:19 -0700</lastBuildDate>
+    <pubDate>Tue, 02 Oct 2018 08:38:37 -0700</pubDate>
+    <lastBuildDate>Tue, 02 Oct 2018 08:38:37 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;The lack of &lt;code class=&quot;highlighter-rouge&quot;&gt;intrinsicContentSize&lt;/code&gt; on &lt;code class=&quot;highlighter-rouge&quot;&gt;UIStackView&lt;/code&gt; (and all arranged subviews having a 0,0 origin) is causing me a decent amount of grief this morning.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Oct 2018 08:38:19 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/10/02/the-lack-of.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/10/02/the-lack-of.html</guid>
+      </item>
     
       <item>
       	
@@ -477,17 +486,6 @@
         <pubDate>Sat, 07 Jul 2018 10:13:09 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/07/07/emily-is-out.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/07/emily-is-out.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Well this is quite the forecast commentary from my weather app.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://mb.jsorge.net/uploads/2018/c7e4a905be.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 07 Jul 2018 07:25:23 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/07/07/well-this-is.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/07/well-this-is.html</guid>
       </item>
     
   </channel>
