@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/10/02/the-lack-of.html",
+	      	
+			"content_text": "The lack of intrinsicContentSize on UIStackView (and all arranged subviews...",
+			"date_published": "2018-10-02T08:38:19-07:00",
+			"url": "https://mb.jsorge.net/2018/10/02/the-lack-of.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/10/02/getting-back-into.html",
 	      	
 			"content_text": "Getting back into a project I wrote a few years...",
