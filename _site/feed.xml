@@ -4,8 +4,26 @@
     <title>Jared Sorge</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jsorge&quot;&gt;@jsorge on Micro.blog&lt;/a&gt;.</description>
     <link>https://mb.jsorge.net/</link>
-    <pubDate>Wed, 12 Sep 2018 09:26:25 -0700</pubDate>
-    <lastBuildDate>Wed, 12 Sep 2018 09:26:25 -0700</lastBuildDate>
+    <pubDate>Mon, 01 Oct 2018 22:17:19 -0700</pubDate>
+    <lastBuildDate>Mon, 01 Oct 2018 22:17:19 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Getting back into a project I wrote a few years ago exclusively in Objective-C and adding new stuff in Swift. I constantly forget to remember &lt;code class=&quot;highlighter-rouge&quot;&gt;@objc&lt;/code&gt; declarations and have had to make a couple of wrappers so my Swift stuff will bridge correctly. But it’s good to be back in this app&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Oct 2018 22:16:30 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/10/01/getting-back-into.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/10/02/getting-back-into.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;It’s kind of surprising to me that a new line of iPhones were introduced today and I’m not really interested in upgrading to any of them (the XS being the only realistic option for me). I think that’s a credit to just how good the iPhone X is.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Sep 2018 20:53:22 -0700</pubDate>
+        <link>https://mb.jsorge.net/2018/09/12/035322.html</link>
+        <guid isPermaLink="true">http://jsorge.micro.blog/2018/09/13/035322.html</guid>
+      </item>
     
       <item>
       	
@@ -470,24 +488,6 @@
         <pubDate>Sat, 07 Jul 2018 07:25:23 -0700</pubDate>
         <link>https://mb.jsorge.net/2018/07/07/well-this-is.html</link>
         <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/07/well-this-is.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I just found out that there’s a beta of &lt;a href=&quot;https://fluidapp.com/beta/&quot;&gt;Fluid v2&lt;/a&gt; and I am so excited! I use this every day to silo web apps at work and v1 has started falling down on me a bit (especially with GitHub).&lt;/p&gt;
-</description>
-        <pubDate>Fri, 06 Jul 2018 14:24:18 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/07/06/212418.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/06/212418.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Hello from macOS Mojave!&lt;/p&gt;
-</description>
-        <pubDate>Fri, 06 Jul 2018 12:49:30 -0700</pubDate>
-        <link>https://mb.jsorge.net/2018/07/06/hello-from-macos.html</link>
-        <guid isPermaLink="true">http://jsorge.micro.blog/2018/07/06/hello-from-macos.html</guid>
       </item>
     
   </channel>
