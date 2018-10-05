@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/10/05/the-mariners-made.html",
+	      	
+			"content_html": "<p>The Mariners made a fake script for the 1994 World Series and had Dave Niehaus call it. <a href=\"https://theathletic.com/569307/2018/10/05/fly-fly-away-the-story-behind-the-mariners-unforgettable-and-fake-world-series-triumph\">This story is unbelievable and you have to hear the sound.</a></p>\n\n<p>I really miss Dave. And Mariner playoff baseball.</p>\n",
+			"date_published": "2018-10-05T10:50:06-07:00",
+			"url": "https://mb.jsorge.net/2018/10/05/the-mariners-made.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/10/02/the-lack-of.html",
 	      	
 			"content_html": "<p>The lack of <code class=\"highlighter-rouge\">intrinsicContentSize</code> on <code class=\"highlighter-rouge\">UIStackView</code> (and all arranged subviews having a 0,0 origin) is causing me a decent amount of grief this morning.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>I’m making really good progress in firming up Micropub support in Maverick. I’ve got all green on creating posts from form encoded requests on micropub.rocks.</p>\n\n<p>On to JSON!</p>\n",
 			"date_published": "2018-07-25T21:25:01-07:00",
 			"url": "https://mb.jsorge.net/2018/07/25/im-making-really.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/07/25/achievement-unlocked-filed.html",
-	      	
-			"content_html": "<p>Achievement unlocked: Filed my first Swift bug today, then closed it when I found the resolution. Turns out the <code class=\"highlighter-rouge\">swift-tools-version</code> being 4.0 doesn’t work on Mojave. Upping to 4.1 gets it working. 🤷‍♂️</p>\n",
-			"date_published": "2018-07-24T21:51:15-07:00",
-			"url": "https://mb.jsorge.net/2018/07/24/achievement-unlocked-filed.html"
 		}
 		
 	]
