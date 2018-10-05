@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/10/05/the-mariners-made.html",
+	      	
+			"content_text": "The Mariners made a fake script for the 1994 World...",
+			"date_published": "2018-10-05T10:50:06-07:00",
+			"url": "https://mb.jsorge.net/2018/10/05/the-mariners-made.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/10/02/the-lack-of.html",
 	      	
 			"content_text": "The lack of intrinsicContentSize on UIStackView (and all arranged subviews...",
