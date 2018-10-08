@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/10/08/we-are-having.html",
+	      	
+			"content_html": "<p>We are having a FIOS internet outage at home, and I’m realizing how impactful it is for my small kiddos.</p>\n",
+			"date_published": "2018-10-08T16:42:58-07:00",
+			"url": "https://mb.jsorge.net/2018/10/08/we-are-having.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/10/05/the-mariners-made.html",
 	      	
 			"content_html": "<p>The Mariners made a fake script for the 1994 World Series and had Dave Niehaus call it. <a href=\"https://theathletic.com/569307/2018/10/05/fly-fly-away-the-story-behind-the-mariners-unforgettable-and-fake-world-series-triumph\">This story is unbelievable and you have to hear the sound.</a></p>\n\n<p>I really miss Dave. And Mariner playoff baseball.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Walked by the Apple Store at Alderwood Mall (which has been closed for renovation since the end of February) and holy cow it’s going to be huge when they reopen! I think they expended left and right, probably tripling the store size!</p>\n",
 			"date_published": "2018-07-26T18:57:48-07:00",
 			"url": "https://mb.jsorge.net/2018/07/26/walked-by-the.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/07/26/im-making-really.html",
-	      	
-			"content_html": "<p>I’m making really good progress in firming up Micropub support in Maverick. I’ve got all green on creating posts from form encoded requests on micropub.rocks.</p>\n\n<p>On to JSON!</p>\n",
-			"date_published": "2018-07-25T21:25:01-07:00",
-			"url": "https://mb.jsorge.net/2018/07/25/im-making-really.html"
 		}
 		
 	]
