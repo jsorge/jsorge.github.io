@@ -7,6 +7,38 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/10/11/i-heard-about.html",
+	      	
+			"content_html": "<p>I heard about <a href=\"https://altonbrown.com/eggnog-recipe/\">Alton Brown’s egg nog recipe</a> the other day and had to give it a go. Now I’ve got a huge bowl of it chilling in my fridge for the next couple of months. Can’t wait to try it!</p>\n",
+			"date_published": "2018-10-10T21:55:14-07:00",
+			"url": "https://mb.jsorge.net/2018/10/10/i-heard-about.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/10/09/if-you-or.html",
+	      	
+			"content_html": "<p>If you or someone you know has an app that needs updating, get in touch! I’m on the hunt for a fun side hustle.</p>\n",
+			"date_published": "2018-10-08T21:10:40-07:00",
+			"url": "https://mb.jsorge.net/2018/10/08/if-you-or.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/10/09/working-on-an.html",
+	      	
+			"content_html": "<p>Working on an updated version of Scorebook (which was written entirely in Objective-C). I’m making new stuff in Swift, and having to update a bunch of the old code to work with the new. It’s been a while since I’ve had to do a bunch of bridging and this is a nice refresher.</p>\n",
+			"date_published": "2018-10-08T21:09:32-07:00",
+			"url": "https://mb.jsorge.net/2018/10/08/working-on-an.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/10/09/and-our-internet.html",
+	      	
+			"content_html": "<p>And our internet is back! 🎉</p>\n",
+			"date_published": "2018-10-08T17:20:59-07:00",
+			"url": "https://mb.jsorge.net/2018/10/08/and-our-internet.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/10/08/we-are-having.html",
 	      	
 			"content_html": "<p>We are having a FIOS internet outage at home, and I’m realizing how impactful it is for my small kiddos.</p>\n",
@@ -172,38 +204,6 @@
 			"content_html": "<p>I have no idea how my boys can run around barefoot on our wood chips. They don’t care one bit!</p>\n",
 			"date_published": "2018-07-31T19:20:46-07:00",
 			"url": "https://mb.jsorge.net/2018/07/31/i-have-no.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/07/31/230110.html",
-	      	
-			"content_html": "<p>Over the weekend I added support for drafts to Maverick. Today I was prompted to use it. It’s so cool to have full control over my website.</p>\n",
-			"date_published": "2018-07-31T16:01:10-07:00",
-			"url": "https://mb.jsorge.net/2018/07/31/230110.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/07/27/dang-its-a.html",
-	      	
-			"content_html": "<p>Dang, it’s a huge pain to implement Micropub posting via JSON in Swift.</p>\n",
-			"date_published": "2018-07-27T15:10:26-07:00",
-			"url": "https://mb.jsorge.net/2018/07/27/dang-its-a.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/07/27/we-had-a.html",
-	      	
-			"content_html": "<p>We had a great time out at the VMAC for Seahawks training camp. The boys did amazingly well sitting on the berm and watching practice, and it’s a beautiful day. God is good!</p>\n",
-			"date_published": "2018-07-27T13:28:39-07:00",
-			"url": "https://mb.jsorge.net/2018/07/27/we-had-a.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/07/27/walked-by-the.html",
-	      	
-			"content_html": "<p>Walked by the Apple Store at Alderwood Mall (which has been closed for renovation since the end of February) and holy cow it’s going to be huge when they reopen! I think they expended left and right, probably tripling the store size!</p>\n",
-			"date_published": "2018-07-26T18:57:48-07:00",
-			"url": "https://mb.jsorge.net/2018/07/26/walked-by-the.html"
 		}
 		
 	]
