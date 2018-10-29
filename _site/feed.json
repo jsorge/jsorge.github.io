@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/10/29/173642.html",
+	      	
+			"content_html": "<p>Is there any decent non-smart TV out there anymore? I’m suddenly in the market for something to replace my Samsung plasma screen.</p>\n",
+			"date_published": "2018-10-29T10:36:42-07:00",
+			"url": "https://mb.jsorge.net/2018/10/29/173642.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/10/11/i-heard-about.html",
 	      	
 			"content_html": "<p>I heard about <a href=\"https://altonbrown.com/eggnog-recipe/\">Alton Brown’s egg nog recipe</a> the other day and had to give it a go. Now I’ve got a huge bowl of it chilling in my fridge for the next couple of months. Can’t wait to try it!</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>New post from jsorge.net: <a href=\"https://jsorge.net/2018/08/01/ultimate-ios-push-lifecycle\">The Ultimate Guide to iOS Notification Lifecycles</a></p>\n",
 			"date_published": "2018-08-01T11:36:34-07:00",
 			"url": "https://mb.jsorge.net/2018/08/01/183634.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/08/01/i-have-no.html",
-	      	
-			"content_html": "<p>I have no idea how my boys can run around barefoot on our wood chips. They don’t care one bit!</p>\n",
-			"date_published": "2018-07-31T19:20:46-07:00",
-			"url": "https://mb.jsorge.net/2018/07/31/i-have-no.html"
 		}
 		
 	]
