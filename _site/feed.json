@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/10/30/by-a-stroke.html",
+	      	
+			"content_html": "<p>By a stroke of what I can only call the Lord’s providence, we found a TV <em>exactly</em> the same as the one that was broken. $275 later and it’s up on the wall.</p>\n\n<p>I’m so glad I don’t have to jump into the “Smart” TV era just yet.</p>\n",
+			"date_published": "2018-10-29T22:56:02-07:00",
+			"url": "https://mb.jsorge.net/2018/10/29/by-a-stroke.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/10/29/173642.html",
 	      	
 			"content_html": "<p>Is there any decent non-smart TV out there anymore? I’m suddenly in the market for something to replace my Samsung plasma screen.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>You would never guess it’s August in Seattle based on this weather. But, here we are.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/cdc3e86966.jpg\" width=\"450\" height=\"600\" /></p>\n",
 			"date_published": "2018-08-03T06:20:08-07:00",
 			"url": "https://mb.jsorge.net/2018/08/03/you-would-never.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/08/01/183634.html",
-	      	
-			"content_html": "<p>New post from jsorge.net: <a href=\"https://jsorge.net/2018/08/01/ultimate-ios-push-lifecycle\">The Ultimate Guide to iOS Notification Lifecycles</a></p>\n",
-			"date_published": "2018-08-01T11:36:34-07:00",
-			"url": "https://mb.jsorge.net/2018/08/01/183634.html"
 		}
 		
 	]
