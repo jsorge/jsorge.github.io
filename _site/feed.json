@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/10/31/a-new-mac.html",
+	      	
+			"content_html": "<p>A new Mac mini would come in so handy in encoding this beastly box set. It’s okay though, I’m patient 😊</p>\n\n<p><img src=\"https://mb.jsorge.net/uploads/2018/67ae30852d.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-30T18:44:16-07:00",
+			"url": "https://mb.jsorge.net/2018/10/30/a-new-mac.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/10/30/the-new-mac.html",
+	      	
+			"content_html": "<p>The new Mac mini looks fantastic! It would be great someday to replace my 2012 version with one of these.</p>\n",
+			"date_published": "2018-10-30T09:23:40-07:00",
+			"url": "https://mb.jsorge.net/2018/10/30/the-new-mac.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/10/30/by-a-stroke.html",
 	      	
 			"content_html": "<p>By a stroke of what I can only call the Lord’s providence, we found a TV <em>exactly</em> the same as the one that was broken. $275 later and it’s up on the wall.</p>\n\n<p>I’m so glad I don’t have to jump into the “Smart” TV era just yet.</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>I went and saw MI: Fallout last night with a couple of buddies and it was great fun! The soundtrack especially had a lot of calls back to The Dark Knight (Rises) which I particularly enjoyed.</p>\n\n<p>Hot take: I like the MI movies more than Bond movies at this point.</p>\n",
 			"date_published": "2018-08-06T07:35:36-07:00",
 			"url": "https://mb.jsorge.net/2018/08/06/i-went-and.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/08/03/the-new-sevendust.html",
-	      	
-			"content_html": "<p>The <a href=\"https://itunes.apple.com/us/album/all-i-see-is-war/1355510081\">new Sevendust album</a> is very, very good.</p>\n",
-			"date_published": "2018-08-03T08:00:36-07:00",
-			"url": "https://mb.jsorge.net/2018/08/03/the-new-sevendust.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/08/03/you-would-never.html",
-	      	
-			"content_html": "<p>You would never guess it’s August in Seattle based on this weather. But, here we are.</p>\n\n<p><img src=\"http://mb.jsorge.net/uploads/2018/cdc3e86966.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-03T06:20:08-07:00",
-			"url": "https://mb.jsorge.net/2018/08/03/you-would-never.html"
 		}
 		
 	]
