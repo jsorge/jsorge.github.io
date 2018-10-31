@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/10/31/a-new-mac.html",
+	      	
+			"content_text": "A new Mac mini would come in so handy in...",
+			"date_published": "2018-10-30T18:44:16-07:00",
+			"url": "https://mb.jsorge.net/2018/10/30/a-new-mac.html"
+		},
+		
+		{
+			"id": "http://jsorge.micro.blog/2018/10/30/the-new-mac.html",
+	      	
+			"content_text": "The new Mac mini looks fantastic! It would be great...",
+			"date_published": "2018-10-30T09:23:40-07:00",
+			"url": "https://mb.jsorge.net/2018/10/30/the-new-mac.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/10/30/by-a-stroke.html",
 	      	
 			"content_text": "By a stroke of what I can only call the...",
