@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jsorge.micro.blog/2018/11/16/there-were-a.html",
+	      	
+			"content_html": "<p>There were a ton of cheesehead Packer fans around downtown Seattle today. It was especially appropriate when I saw a few come out of Beecher’s at the market. Go Hawks!</p>\n",
+			"date_published": "2018-11-15T16:15:21-08:00",
+			"url": "https://mb.jsorge.net/2018/11/15/there-were-a.html"
+		},
+		
+		{
 			"id": "http://jsorge.micro.blog/2018/10/31/a-new-mac.html",
 	      	
 			"content_html": "<p>A new Mac mini would come in so handy in encoding this beastly box set. It’s okay though, I’m patient 😊</p>\n\n<p><img src=\"https://mb.jsorge.net/uploads/2018/67ae30852d.jpg\" width=\"450\" height=\"600\" /></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Every time I manually edit a plist dictionary I forget to put the value before the key. Every. Time.</p>\n",
 			"date_published": "2018-08-07T11:47:16-07:00",
 			"url": "https://mb.jsorge.net/2018/08/07/every-time-i.html"
-		},
-		
-		{
-			"id": "http://jsorge.micro.blog/2018/08/06/i-went-and.html",
-	      	
-			"content_html": "<p>I went and saw MI: Fallout last night with a couple of buddies and it was great fun! The soundtrack especially had a lot of calls back to The Dark Knight (Rises) which I particularly enjoyed.</p>\n\n<p>Hot take: I like the MI movies more than Bond movies at this point.</p>\n",
-			"date_published": "2018-08-06T07:35:36-07:00",
-			"url": "https://mb.jsorge.net/2018/08/06/i-went-and.html"
 		}
 		
 	]
